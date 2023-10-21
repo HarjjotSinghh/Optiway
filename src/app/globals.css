@@ -9,7 +9,7 @@
   --background-color: #030707;
   --primary-color: #3AC5DF;
   --secondary-color: #0A363E;
-  --accent-color: #4BA1F2;  
+  --accent-color: #4BA1F2;
 }
 
 @media (prefers-color-scheme: light) {

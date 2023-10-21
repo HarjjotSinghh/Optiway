@@ -1,0 +1,1120 @@
+Cluster ‐ 1,,,,,,,,,
+RT.NO.,From,To,Fare Stage,"Actual STA
+Buses",Route length,Frequency,"No. of buses
+required","DTC Sch.
+Buses(60%)","DIMTS Sch.
+Buses(40%)"
+411,Mori Gate (T),Ambedkar Nagar (Term.),1. Mori Gate 2. Red Fort 3. Delhi Gate 4. Supreme Court 5. Sunder Ngr / Golf Club 6. Ps Nizamuddin 7. Ashram 8. Snp Depot 9. Punj Sons 10. Dda Flats Kalkaji 11. Hamdard Ngr 12. A.N. Terminal.,14,23,10,18,11,7
+416,Lajpat Nagar,Ambedkar Nagar (Term.),1.  Jal  Vihar  2.  Lajpat  Ngr  3.  Mool  Chand  Hosp  4.  Sant  Ngr5.  Kalkaji   6.  Dda  Flats  Kalkaji  7.  Hamdrd  Ngr  8. A.N.Terminal,1,13.4,15,7,4,3
+417,Red Fort,Mehrauli,1. Red Fort 2. Delhi Gate 3. Supreme Court 4. Sunder Ngr/Golf Club 5. Ps Nizamuddin 6. Ashram 7. Snp Depot 8. Nehru Place 9. O.S.Communication 10. Sheikh Sarai Ph‐Ii11. Khirki Village 12. Pts 13. Mehrauli .,0,15.8,15,8,5,3
+419,Old Delhi Rly.Station,Ambedkar Nagar (Term.),1. Rly.Stn 2. Red Fort 3. Delhi Gate 4. Supreme Court 5. Sunder Ngr 6. Pant Ngr 7. Mool Chand Hospital 8. Sri Fort Road 9. Saikh Sarai 10. A.N.Terminal,32,17.8,5,28,17,11
+423,Mori Gate(T),Devli Village,"1. Mori Gate(T) 2. Yamuna Bazar 3. Shanti Vana 4. Delhi Gate5. Supreme Court 6. Sunder Ngr 7. Pant Ngr 8. Mool
+Cand 9. Sri Fort Road 10. Saikh Sarai Ph‐Ii 11. A.N.Sec‐4 12. Deoli Vill.",27,23.3,5,37,22,15
+427,Nizamuddin Rly.Station,Mehrauli,"1.Nizamuddin  Rly.Stn  2.  Ashram  3.  Od‐I  4.  Punj  Sons5.  Kalkaji  6.  O.S.  Communication  7.  Sheikh  Sarai  Ph‐Ii  8.
+A.N.Terml 9. J‐Blk.Saket 10. Sadlajab 11. Lado Sarai12. Mahreauli",18,21.9,10,18,11,7
+440,N.D.Rly.Station Gate No.2,Ambedkar Nagar (Term.),1.  N.D.Rly.Station  Gate‐I  2.  Scindia  House  3.  Baroda  House  4.  Shahjahan  Road  5.  Ravindra  Ngr  6.  Lodhi  Cly.  7. Defence Cly. 8. Central School 9. Sant Ngr 10. Kalkaji 11. Dda Flats Kalkaji 12. Hamdard Ngr 13. A.N. Terminal.,19,19,10,15,9,6
+446,Mori Gate Trml,Greater Kailash Part-2,"1. Mori Gate 2. Yamuna Bzr 3. Shanti Van 4. Delhi Gate 5. Supreme Court 6. Sunder Ngr 7. Pant Ngr 8. Mckr Hosp
+9. Archna Cinema 10. Sant Ngr 11. Kalkaji 12. Dda Flats Kalkaji 13 .Gr. Kailash‐Ii.",0,23.5,15,13,8,5
+462,Mori Gate Trml,Maidan Garhi,"1. Mori Gate 2. Red Fort 3. Delhi Gate 4. Supreme Court 5. Sunder Ngr 6. Pant Ngr 7. Mool Chand  Hosp 8. Sri Fort
+9. Saikh Sarai Ph‐Ii 10. Pushap Vihar Sec.3 11. J.Block Saket 12. Neb Sarai 13. Maidan Garhi .",0,22.5,15,12,7,5
+463,Okhla Enclave.,Mehrauli,"1. Okhla Encl 2. Okhla 3. Holi Family Hosp 4. Modi Floor Mill5. Punj Sons 6. Kalkaji Dda Flats 7. Hamdard Nagar8.
+A.N.Terml 9. Said‐Ul‐Zaib  10. Lado Sarai 11. Mehrauli.",4,15.3,15,8,5,3
+469,Ambedkar Nagar (Term.),Anand Vihar(Term),"1.  Anand  Vihar  Trml  2.  Ppg  Depot  3.  Shakarpur  4.  Mother  Dairy  5.  Pushta  Xing  6.  East Road  Bridge7.  Sarai Kale
+Khan 8. Ashram 9. Od‐I 10. Punj Sons 11.Dda Flats Kalkaji 12. Hamdard Ngr 13. A.N.Terminal",32,28,5,45,27,18
+521,"Ambedkar Nagar Sec 5
+(Dakshin Puri)",Rajinder nagar mkt,AN‐  sec5  Sheikh  sarai‐II sirifort rd  mckr  hospital  defence  cly  lodhi  cly  prithviraj  rd.  national  museum  shivaji std. mandir marg pusa rd petrol pump / a.s.rd rajinder mkt.,0,20.5,15,11,7,4
+522,Ambedkar Nagar (Term.),Arya samaj Rd,"AN terminal Sheikh sarai‐II sirifort rd mckr hospital defence cly lodhi cly prithviraj rd. national museum shivaji std.
+mandir marg pusa rd petrol pump / a.s.rd rajinder mkt.",27,19.3,5,31,19,12
+534,Anand Vihar (Term),Mehrauli,"1.  Anand  Vihar(T)  2.  Ppg  3.   Balco  Apptt.4.  Mother  Dairy  5.  Pusta  Xing  6.  East  Rd.  Bridge  7.  Sarai  Kalekhan8.
+Maharani  Bagh  9.  Holi Family  10. Modi  Mills 11.  N.P.Trml12. O.S.Communication  13. Seikh  Sarai  Ph‐Ii  14. Khirki Vill.15. Pts 16. Mehrauli",43,28,5,45,27,18
+526,Kamla Market,Hamdard Nagar,"1. Kamla Mkt 2. Sc.House 3. National Musium 4. P.R.Rd,5. Lodhi Cly 6. Defence Cly 7. Mool Chand 8. Sri Fort Rd,9.
+Saikh Sarai Ph‐Ii 10. A.N.Terml 11. Hamdard Nagar",1,21.4,15,11,7,4
+450,Anand Parbat,Jal           Vihar (Term),"1. Anand Parbat 2. Db Gupta Mkt 3. Ps Pahar Ganj 4. Sc.House 5. Baroda House 6. Shahjahn Road 7. Bharti Ngr 8.
+Defence Cly 9. Mckr Hosp 10. Lajpat Ngr  Double Story11. Jal Vihar Terminal.",5,18,15,9,6,3
+56,New Delhi Rly.Stn Gate No. 1,CPWD Colony Vasant Vihar,"1.  N.D.Rly. Station  Gate  No‐1  2. Scindia  House  3.  Baroda  House  4.  Shahjahan  Road  5.  Bharti  Ngr  6.  Lodhi  Cly 7. S.J.Air Port 8. I.N.A.Cly. 9. S.N.Depot 10. Mohd. Pur 11. R.K.Puram S‐I 12. R.K.Puram S‐6. 13. C.P.W.D.Cly. Vasant
+Vihar",0,21.6,15,12,7,5
+66,JawaharLal Nehru Stadium,Vasant Kunj Sec.C-9,"1. Jln. Stadium 2. Lodhi Cly. 3. S.J.Air Port 4. S.J. Hospital 5. Mohmand Pur 6. Rk Puram Sec‐I 7. S.M.Temple 8. Vv
+Depot 9. Power House 10. Manav Sthali 11. Vasant Kunj C‐9.",0,16.2,15,9,5,4
+602,Red Fort,Vasant Kunj Sec C-9,"1. Red Fort 2. Delhi Gate 3. Vivekanand Marg 4. Jant. Manter  5. Krishi Bhawan 6. P.S Tuglak Rd.7. Race Course 8. Viney Marg 9. Moti Bagh 10. R.K.Puram ‐I 11. S.M. Temple 12. Cpwd Cly Vasant Vihar 13. Power House 14. Manav
+Sathli School 15. Vasant Kunj C‐9",0,30,15,16,10,6
+604,N.D.Rly.Station Gate No.2,Vasant Kunj Sec.A,"1.  N.D.  Rly  Stn  Gate  No‐2.  2.  Palika  Kend.  3.  Kirishi  Bhawan  4.  Teen  Murti  5.  Ussr  Ambessay  6.  Moti  Bagh ‐I   7. S.M.Temple  8.  V.V.  Depot   9.  Power  House  10  .  Manavsathilischool  11.  B‐  3  Vasant  Kunj  12.  Vasant  Kunj  Sect‐I
+School 11. B‐ 3 Vasant Kunj 12. Vasant Kunj Sect‐I",27,21.1,5,34,20,14
+605,Mori Gate(Term),Vasant Kunj Sec C-9,"1.  Mori  Gate  T.  2.  Red  Fort  3.  Delhi  Gate  4.  Supreme  Court  5.  Shahjanh  Rd.  Prithvi  Raj  Rd.7.  S.J.  Air  Port  8.  S.J. Hospital9. Iit Gate 10. Quitab Enclave 11. Jnu Sect‐13. 12. B‐3 V. Kunj 13. Manav Sathli School 14, Vasant Kunj C‐9",0,28.5,15,15,9,6
+606,Vasant Kunj Sect- A.,NizamuDdin Rly. STN.,"1.  Nizamuddin   2.  P.S  Nizamuddin   3.  Jnu  4.  Defence  Cly.   5.  A.I.I.M.S   6.  Mohmand  Pur7.  R.K.  Puram  ‐I   8.  S.M.
+Tampal 9. V V Depot10. Hill Area  11. Manav Sthali School 12. Vasant Kunj Sec‐A",0,23.1,15,12,7,5
+610,Anand Parbat,R.K. Puram Sec- 1,"1. Anand Parvat 2. D.B. Gupta Mkt.3. Mandir Marg.4. Rml Hosp.. Kend T. 6. Kirshi Bhawan 7. P.S Tuglak Rd. 8. Race
+Course9. Viney Marg 10. S.N. Depot 11. S.J. Enclave 12. R.K. Sect‐I",16,21.5,10,17,10,7
+616,Kend.Terminal,Vasant Kunj Sec.-A,"1. Kend T. 2. Krishi Bhawan 3. Ps. Tuglak Rd. 4. S.J. Air Port 5.Ina Mkt 6. S.N. Depot 7. Mohd Pur 8. R.K.Puram –I 9.
+N.I.H.F.W 10. B‐3 Vasant Kunj 11. Vasant Kunj Sect‐A",0,21.3,15,11,7,4
+620,Shivaji Stadium,Hauz Khas (Term),"1. Shivaji Std.2. Palika Kend 3. Kirshi Bhawan 4. Teen  Murti 5. Ussr Embassay 6. Moti Bagh ‐I 7. S.M. Temple 8. Iit
+Hostel9. Hauz Khas Terminal",16,15,10,12,7,5
+615,Minto Road (Term),Poorvanchal Hostel,"1. Minto Rd T. 2. Scindia House/Merina 3. National Museum 4. Pirthvi Raj Rd. 5. S.J. Air Port 6. Ina Cly Mkt. 7. S.N.
+Depot 8. Mohd Pur 9.Iit Hostel 10. Munirka 11. Godavari Hostel 12.Purvanchal Hostel",15,18.5,10,15,9,6
+641,Bara Tooti,CPWD Colony Vasant Vihar,1. Bara Tooti 2. Chitra Gupta Rd. 3. Shivaji Stadium 4. Palika Kend 5.Krishi Bhawan 6. Teen Murti 7. Ussr Emby8. Moti Bagh ‐I 9. R.K. Puram ‐I 10. S.M. Temple 11. Modern Sch.12. C.P.W.D Cly Vasant Vihar,0,15.7,15,8,5,3
+632,Mori Gate Trml.,Nanak Pura Comm.Centre,1.  Mori  Gate  T.  2.  Red  Fort  3.  Delhi  Gate  4.  Mandi  House  5.  Regal  6.  Kirshi  Bhawan   7.  Teen  Murti  8.  Ussr Embassay9.Moti Bagh ‐I 10. Nanak Pura Community Centre,0,19.2,15,10,6,4
+666,"Purvanchal
+Hostel","Purvanchal
+Hostel","Purvanchal Hostel, Godavari Hostel, JNU, RK Puram-1, Nauroji Ngr, SJ Hosp, IIT Gate, Qutab Enclav, JNU,
+Godavari Hostel, Purvanchal Hostel",0,18.9,15,10,6,4
+430,Kend.Terminal,"Badarpur Bdr. (New M. B.
+Road)","1. Kend. Terminal 2. Krishi Bhawan 3. Shahjahan Road4. Bharti Ngr 5. Cgo Complex (Ispat Bhawan ) 6. Pant Ngr .7. Mckr Hospital 8. Sant Ngr 9. Kalka Ji 10. Dda Flats Kalkaji 11. Hamdard Ngr 12. Tughalkabad Village 13. Prehlad Pur
+14. Badar Pur Bdr.",0,26,15,14,8,6
+581,Kend.Terminal,Devli Village,"1. Kend.Terminal 2. Krishi Bhawan 3.Ps Tuglak Road 4. S.J.Airport 5. S.J.Hospital 6. Iit Gate 7. Pts 8. Khirki Village9.
+Saikh Sarai Ph‐Ii 10. A.Ngr Terminal 11.Devli Vill.",11,15.7,10,13,8,5
+511,Badarpur Bdr. (New M. B. Road),Dhaula Kuan,1. Badarpur Border 2. Prehladpur 3. Tuglakabad Vill.4. Hamdard Ngr 5. Dda Flats Kalkaji 6. Kalkaji 7. O.S.Comm.8. Swami Ngr 9. Panchsheel Encl. 10. I I T Gate  11. Qutab Encl12. Jnu 13. R.K.Puram‐I 14. Moti Bagh 15. Dhaula Kuan,19,28.2,10,23,14,9
+,,,Total Buses,327,,,547,330,217
+Cluster ‐ 2,,,,,,,,,
+RT.NO.,From,To,Fare Stage,"Actual STA
+Buses",Route length,Frequency,"No. of buses
+required","DTC Sch.
+Buses(60%)","DIMTS Sch.
+Buses(40%)"
+53,R.K.Puram -I,Nand Nagri CC,"1.  R.K.Puram  2.  Mohd.  Pur  3.S.N.  Depot  4.INA  Colony  5,  S.J.  Airport   6.  Prithvi  Raj  Road  7.  Shahjan  Road  8. Supreme  Court  9.Delhi  Gate  10.  Shanit  Van  11.Jamma  Bazar  12.  USBT  (R.Road).  13.  Raksha  Vigyan  Kendrra  14. Majnu Ka Tila 15.Nanak Sar 16 Bhajan Pura 17. C‐4 Yamuna Vihar 18. Nand Nagri Community Centre",0,33,15,18,11,7
+244,Indra Puri,Nehru Place T,"1. Indira Puri Loni 2. Ps Indira Puri 3. Johri Pur Xing 4. C‐4 Yamuna Vihar 5. Bhajan Pura 6. Nanak Sar 7. Majnu Ka
+Tila 8. Raksha Vigyan Kend.9.  Isbt 10. Jamuna Bzr 11. Shanti Van 12. Ito R/Rd 13. P. Maidan 14. Sunder Ngr 15. Pant Ngr 16. Mckr Hosp.17. Sant Ngr 18. Nehru Place Terml.",0,32.8,15,17,10,7
+305,Malvia Ngr,N. Seema Puri,"1. Malviya Ngr 2. Punch Sheel Club 3. Khel Gaon 4. Deffence Cly 5. Bharti Ngr 6. Shahjahan Road 7. Supreme Court
+8. Ito Agcr 9. Rainy Well 10. Shaker Pur  11. Har Govind Enclave 12. Yojna Vihar 13. Surya Ngr 14. New Seema Puri.",0,29,15,15,9,6
+356,Mayur Vihar Ph- 3,Mehrauli,"1. Mayur Vihar Ph‐Iii 2. Kalyan Puri 3. 13‐Blk Trilok Pur 4. Mother Dairy 5. Rainy Well 6. I.T.O.Ring Road 7. Pragati Maidan 8. Sunder Ngr 9. Pant Ngr 10. Mckr Hospl.11. Siri Fort Road 12. Sheikh Sarai Ph‐Ii 13. A.N. Terminal 14. J‐
+Blk Saket 15. Saidla Jeb 16. Lado Sarai 17. Mehrauli .",0,32.2,15,17,10,7
+375,Nehru Place(T),Dilshad Garden,"1.  Nehru  Place(T)  2.  Sant  Ngr  3.  M.C.K.R.Hospital  4.  Defence  Coly  5.  Bharti  Ngr  6.  Shahjahan  Road  7.  Supreme
+Court 8. Ito(Agcr) 9. Rainy Well 10. Shakar Pur11. Hargobind Enclave 12. Yojna Vihar 13. Surya Ngr14. Police Post Dilshad Garden 15. Dilshad Garden",14,30.3,10,24,14,10
+406,Sarita Vihar,Dhaula Kuan,"1. Dh. Kuan 2. Moti Bagh 3. Narouji Ngr 4. Aiims 5. Andrews Ganj6. Sant Ngr 7. Modi Flour Mill 8. Okhla Tank 9.
+Sarita Vihar",0,16.9,15,9,5,4
+412,Yamuna Vihar C 4.,Nehru Place.,1. Nehru Place 2. Sant Ngr 3. Mckr Hospital 4. Pant Ngr5. Sunder Ngr 6. Pragati Maidan 7. Ito Ring Road 8. Shanti Van 9. Yamuna Bzr 10. Isbt 11. Old Sectt 12. B.R. Hospital 13. Nanak Sar 14. Bhajan Pura 15. C‐4 Yamuna Vihar.,0,27.5,15,14,9,5
+444,Nehru Place,Nehru Place,"1. Nehru Place 2. Punj Sons 3. Dda Flats Kalka Ji 4.Gr. Kailash‐Ii 5. Savitri Cinema 6. Swami Ngr 7. Malvia Ngr  8. Panch Sheel Club 9. Iit Gate 10. Sj Hospl. 11. Sj Air Port12. Lodhi Cly 13. Defence Cly 14. Central School 15. Snt Ngr
+16.Nehru Place",0,25,15,13,8,5
+456,Janttar Mantar,Humdard Ngr,"1.  Jantar  Mantar  2.  Krishi  Bhawan  3.Shahjahan  Rd  4.  Bharti  Ngr  5.  Defence  Cly  6.  Khel  Gaon  7.  Begam  Pur  8.
+Khirki9. Sheikh Sarai‐I 10. A N Terminal.Hamdard Nagar",0,21.5,15,11,7,4
+490,Arya Smaj Road,DDA         Flats Kalkaji Extn,1. Arya Smaj Road/Pusa Rd P.P. 2. Mandir Marg 3.Regal 4.Krishi Bhawan5. Baroda House/India Gate 6. Golf Club 7. Pant Ngr 8. Mool Chand Hosp 9. Sri Fortroad10. Savitri Cinema 11. C.R.Park 12. Dda Flats Kalkaji,11,21.5,10,17,10,7
+491,Nehru Place(T),NOIDA Ph-II,"1. Nehru Place 2. Snp Depot 3. Ashram 4. Sarai Kale Khan 5. Road Bridge (E) 6. Pustaa Xing 7 .Mayur Vihar Xing ‐I 8 
+.Hindon Regulator 9 .Naya Bans 10. Noida Sec‐28/29 11. Noida Sec‐37 12. Agha Pur 13. Sahni Farm 14. Bhangel15. Nepzgarh No‐2 16. Noida Ph‐Ii.",7,28,12,19,11,8
+492,Nehru Place(T),Noida Sec.62,"1. Nehru Place 2. Snp Depot 3. Ashram 4. Sarai Kale Khan 5. Road Bridge (E) 6. Pussta Xing 7. Mayur Vihar‐I 8. 13‐ Blk Trilok Puri 9. Kalyann Puri 10. Mayur Vihar‐Iii11. Jhund Pur 12. Noida Sec‐22 H Blk 13. Khanda Cly 14. Police
+Post Sec‐60 15. Noida Sec‐62.",15,24.8,5,40,24,16
+514,RK   Puram   Sec 1,K.J.Extn.DDA,"1. Rk Puram ‐I 2. Mohd Pur 3. Sn Depot 4. Ps Sarojini Ngr 5. Sj Hosp 6. Iit Gate 7. Punch Sheel Club 8. F‐Blk Malvia
+Ngr9. Swaomi Ngr 10. Os Communication 11. Kalka Ji12. Hill Area 13. Kalkaji Extn Dda Flats.",0,15.5,15,8,5,3
+531,Arya         Samaj Road,Sadiq Nagar,"1. A.S. Road 2.  Mandir Marg 3.  Regal 4. Krishi Bhawan ,5. Sahajan Rd 6.  Prithvi Raj Rd. 7. S.J. Air  Port 8. Aiims,9.
+Andrews Ganj 10.  K.N.College 11. Sadiq Ngr",0,21.5,15,11,7,4
+536,R.K.Puram -1,Chhaterpur Ext.,"1.R.K.  Puram  2.  Mohd  Pur  3.  S.N.Depot  4.  P.S.  Sarojini  Nagar  5.S.N.S.J.Hospital  6.  I.I.T.  Gate.  7.  PTS.  8.Qutab
+9.Anadheria More 10. Chhatar Pur Extn.",9,14.2,12,9,6,3
+544,R.K.Puran -I,Badarpur Border,"1.R.K.Puram Sect‐1 2. Mohnd Pur 3. S.N. Depot 4. P.S.Sarojini 5. A.I.I.M.S.6.Andrews Ganj.7. Kamla Nehru College
+8.Sriford Road 9.Sheikh Sarai ‐I 10. Ambedkar Ngr 11.Hamdard 12.Tuglakbad Village 13. Prehlad Pur 14 Badar Pur Border.",27,25.8,5,41,25,16
+769,Nehru Place,Rohini Sec.16,"1. Nehru Place 2. Sant Nagar 3. Andrews Ganj 4. Aiims 5. Narouji Nagar 6. Moti bagh 7. Dhaula Kuan 8 . R.R.Lines 9. Brar  sqare  10.  Naraina  Village  11.Mayapuri  chowk  12.  Rajagarden  13.  Punjabi  bagh  club  14.  Punjabi  bagh  15. Madipur jj cly. 16 Peeragarhi 17. Mangolpur school 18. Rohini Sec‐3 19. Rohini Sec 7&8 20 . Esi hospital 21. Rohini
+sec‐16",2,36.3,15,19,12,7
+974,Pira Garhi Depot,Hamdard Nagar,"1. Peera Garhi Depot 2. Madi pur JJ Cly. 3. P. Bagh(T) 4. Punjabi bagh Club 5. Raja Garden 6. Maya puri Chowk 7. Naraina Village 8. Brar Square 9. Rr line 10. Dhaula Kuan 11. Moti Bagh 12. Rk Puram -I 13. Jnu 14. Qutub Enclave
+15. Pts Cly. 16. Saket Mkt 17. An(T) 18. hamdard Nagar",0,30.4,15,16,10,6
+984,Nehru Place (T),Rohini Sec-16,"1. Nehru Place (T)  2.  O.S Comnucation  3. Siri Fort Road4. Kamla Nehru Collage  5. A.I.I.M.S  6. Narouji Ngr.7. Moti Bagh  8. Dh. Kuan  9. Rr Line  10. Brar Squre11. Naraina Vill. 12. Mp Chowk  13. Raja Garden14. Punjabi Bagh Club
+15. Punjabi Bagh (T)16. Wp Depot  17. Jd Blk. Pitam Pura  18. Sec‐7&8 Xing19. Vidhya Vihar Marg  20. Pocket 2d‐15
+Rohini21. Rohini Sec‐16",9,39.2,12,26,16,10
+763,C-1 janak puri,NizamuddinRl y STn,"1. C‐1 Janak Puri  2. C‐2b Janak Puri  3. Desu Cly. 4. Zink Mkt. 5.  Maya Puri Depot 6. Naraina V.Ll.7. Brar Squre 8. Rr
+Line   9.  Dh.  Kuan   10.  Moti  Bagh11.  Narouji  Ngr.   12.  Aiims   13.  Andrews  Ganj14.  Lajpat  Ngr.   15.  Ashram 16.Nizamuddin Rly Stn.",1,28,15,15,9,6
+567,Nangloi,Lajpat Nagar,"Nangloi,  Jawalapuri,  Peeragarhi,  Paschim  Vihar  W/T,  Rd  No.  29/30  Xing,  Syndicate  Bank  Xing,  PB  (T),  Raja Garden,   Mayapuri  Depot,  Nariana   Vill,  Brar  Square,   RR  lines,  Dh  Kuan,   Moti  Bagh,   Narouji  Ngr,  AIIMS,
+Andrewsganj, Lajpat Nagar",24,30,5,48,29,19
+518,Nizamuddin Rly Stn.,Uttam Ngr(T),"1. Nizamuddin Rly Stn 2. Asshram 3. Lajpat Ngr 4. Andrews Ganj 5. Aiims 6. Narouji Ngr 7. Moti Bagh 8. Dhuala Kuan9. Rr Line 10. Shastri Bzr 11. More Line 12. Sader Cantt 13. Kirby Place 14. Lajwanti Garden 15. Tilak Ngr 16.
+Distt Center 17. Uttam Ngr.",1,30,15,16,10,6
+442,Azadpur(T),Nehru Place(T),"1. Azadpur 2. Ashok Vihar Xing 3. Wpd‐I 4. Punjabi Bagh  (T)5. Pun.Bagh Club 6. Raja Garden 7. Maya Puri Depot8.
+Naraina Village 9. Barar Square 10. R.R.Line11. Dhaula Kuan 12. Moti Bagh‐I 13. Nauroji Ngr 14. Aiims15. Andrews Ganj 16. Sant Ngr 17. Nehru Place Trml.",29,31,5,50,30,20
+431,Tara Appt.,Azad Pur,"1.Azad  Pur  2.Model  Town 3.G.T.B.  Nagar  4.Old  Sectt.5.  I.S.B.T  6.Yamana  Bazar7.Shanti  Van  8.I.T.O  ring  Road 9.Pragati Maidan 10. Sunder Nagar 11.P.S. Nizamuddin  12. Ashram 13.N.S.P.D. 14. Nehru Place 15.KalkaJi 16.
+DDA Flats Kalkaji 16. Tara Apptt.",0,33.9,15,18,11,7
+447,Bhalswa JJ Cly,Ambedkar Ngr Sect-5,1.  Bhalswa  Jj  Cly  2.  Mukand  Pur  3.  Burari  Xing  4.  Jagat  Pur  5.  Majnu  Ka  Tilla  6.  Raksha  Vigyan  Kend  7.  Isbt  8. Yamuna  Bzr  9.  Shanti  Van  10  .Delhi  Gate  11.  Supreme  Court  12.  Sunder  Ngr/Golf  Club  13.  Ps  Nizamuddin  14. Ashram 15. Sapna Cinema 16. Sant Nagr 17. Kalkaji 18. Dda Flats 19. Hamdard Ngr 20. Ambedkar Ngr.,1,38,15,20,12,8
+628,SJ Trml.,Uttam Nagar(T),"1.S.J. T. 2. .Sj. Hospital 3. Mohd Pur 4. R.K.Puram Sect‐I 5. S.M. Temple 6. Aps Colony 7. N.H. Xing 8. Palam Air Port
+9. More Line 10. Sadar Cant 11. Kirbi Place 12. Lajwanti Grd.13. Tilak Ngr 14. Distt Centre 15. Uttam Ngr.",0,22,15,12,7,5
+709,IGI Airport,Sultanpuri GH- Block,"1. Igi Airport  2.Cargo Terml  3. Nangal Dewat  4. Mahipal Pur Xing5. N.H. Way Xing   6. Aps Colony  7. Subroto Park 8.Dhaula   Kuan9.   Rr   Line    10.   Brar   Square    11.Naraina   Vill.    12.   Mp   Chowk,13.   Raja   Garden    14.   P.B.Club 15.P.B.Terml  16.Madi Pur 17. Peera Garhi   18. B‐Blk Mangolpuri   19. S‐Blk Mangolpuri,20. Sultanpuri Gh Block",0,41.6,15,22,13,9
+512,R.K.Puram -1,"Ambedkar Nagar Sec-IV) (VIRAT
+CINEMA)",1.R.K. Puram Sec‐1 2. Mohd. Pur 3. S.N.Depot 4.I.N.A Colony 5. S.K Hospital 6.IIT Gate 7. Panchsheel Club 8. Begam Pur 9.Saket Market 10.J.Block 11.Ambedkar Nagar 12.Ambedkar Nagar Sect‐IV‐(Virat Cinema),13,16.9,10,14,8,6
+546,Uttam Ngr (T),Hamdard Nagar,"1. Uttam Ngr (T) 2. Distt Centre 3. Tilak Ngr 4. Lajwanti Garden 5. Kirby Place 6. Shastri Bazar 7. RR Lines 8. Dh Kuan 9. RLA College 10. RKP Sec-8 11. RKP-1 12. JNU 13.Qutab Enclave 14. PTS 15. Saket Mkt 16. AN (T) 17.
+Hamdard Ngr",0,31.5,15,17,10,7
+413,Nizamuddin  Rly.S,Mehrauli,"1.  Nizamuddin  Rly.Stn  2.  Ashram  3.  Lajpat  Ngr.4.  Andrewsganj  5.  Khel  Gaon  6.  Begampur  7.  Police  T.School  8.
+Mehrauli",11,13.4,10,11,6,5
+529,Nehru Place(T),Sayed Nangloi,"1. N.P.Terml 2. Sant Ngr 3. Andrews Ganj 4. Aiims,5. Nauroji Ngr 6. Moti Bag 7. ,Dhaula Kuan 8. R.R.Lines, 9. Barar Square  10.  Naraina  Vill  11.  Mpd  12.  Raja  Garden,13.  Raghubir  Ngr.  14.  Road  No.29/30  Xing  15.Paschim  Vihar
+W.T.16. Guru Harikishan Ngr. 17. Nangloi Syed",3,28,15,15,9,6
+,,,Total Buses,177,,,602,363,239
+Cluster ‐ 3,,,,,,,,,
+RT.NO.,From,To,Fare Stage,"Actual STA
+Buses",Route length,Frequency,"No. of buses
+required","DTC Sch.
+Buses(60%)","DIMTS Sch.
+Buses(40%)"
+196,Shivaji Stadium,Rohini Sec.18,"1. Shivaji Stadium 2. Kend Terml. 3. Upper Ridge Rd 4. Shanker Rd 5. Wp Ngr 6. Karam Pura  7. Pb Terml.8. Wp Depot‐I 9. Kd Blk Pitam Pura 10. Rohini Sec‐7,8,9 Xing 11. Vidya Vihar Marg Xing 12. Rohini Sec‐18.",1,23.8,15,13,8,5
+210,Kend.Terminal,Mandoli Sewa Dham,"1. Kend T. 2. Regal 3. Viveka Nand Marg 4. Delhi Gate 5. Red Fort 6. Isbt 7. Shyam Giri Mandir 8. New Usman Pur
+Pusta No.‐I 9. Gamri Extn.Pusta No.5 10. Bhajan Pura 11. C‐4 Yamuna Vihar 12. Mandoli Xing 13. Mandoli Sewa Dham.",0,24,15,13,8,5
+213,Jama Masjid,Harsh Vihar,"1.N.D.Rly Station 2. Delhi Gate 3.Red Fort 4.I.S.B.T.5.Shyam Gir Mandir 6.Seelam Pur 7.Babar Pur 8.Jyoti Colont 9.
+Nand Nagri 10. Harash Vihar",6,19,12,13,8,5
+280,Kend.Terminal,Nand Nagri(T),"1. Kend T.2. Regal 3. Mandi House 4. Ito (Agcr) 5. Rainy Well 6. Shakar Pur 7. Jagat Puri A‐ Blk 8. Swaran Cinema  9.
+Shahdra 10. Dilshad Garden A/D Blk 11. Anand Gram 12. Nand Nagri T.",3,23.7,15,13,8,5
+281,Kend.Terminal,Dilshad Garden,"1. Kend T. 2. Regal 3. Mandi House 4. Ito ( Agcr) 5. Rainy Well 6. Shakar Pur 7. Hargovind Enclave 8. Yojana Vihar 9.
+Surya Ngr 10. Police Post Dilshad Garden 11. Dilshad Grd",7,21,12,14,8,6
+318,Pragati Maidan,KaramPura Tml,"1. Pragati Maidan 2. Ito(Agcr) 3. Mandi House 4. N.D.Rly Stn.5. Ps Pahar Ganj 6. D.P.Gupta Mkt  7. Radha Swami
+Satsang 8. W.Patel Ngr 9. Karam Pura (T)",0,17.7,15,9,6,3
+320,Kend.Terminal,Shahdara,"1.  Kend.Terminal  2.  Krishi  Bhawan  3.Mandi  House  4.  Ito(Agcr)  5.  Rainy  Well  6.  Shakarpur  7.  Jagatpuri  A‐Block8.
+Swarn Talkies 9. Shahdara",6,16.7,12,11,7,4
+325,Karol Bagh (T),Mayur Vihar Phase-II,"1. Karol Bagh (T) 2. Ps Pahar Ganj 3. Ajmeri Gate 4. Mandi House 5. Ito(Agcr) 6. Rainy Well 7. Mother Dairy8. Vinod
+Ngr 9. Mayur Vihar Phase‐Ii",0,12.8,15,7,4,3
+328,Mayur Vihar Ph- II,Karol Bagh (T),"1. Karol Bagh 2. Chittra Gupta Road 3. Shivaji Std.. Mandi House 5. I.T.O. Agcr 6. Rainy Well 7. Mother Dairy 8. 13‐
+Blk Trilok Puri 9. Mayur Vihar‐Ii",0,18.6,15,10,6,4
+340,Kend.Terminal,New Seema Puri,"1. Kend.Terminal 2. Regal 3. Mandi House 4. Ito(Agcr)5. Rainy Well 6. Shakar Pur 7.Jagat Puri 8. Ps Vivek Vihar9.
+Vivek Vihar 10. Surya Ngr 11. New Seema Puri",14,15.1,10,12,7,5
+349,Kend.Terminal,Mayur Vihar Phase-II,"1. Kend.Terminal 2. Regal 3. Mandi House 4. Ito(Agcr)5. Rainy Well 6. Mother Dairy 7. Vinod Nagar 8. Mayur Vihar
+Phase‐Ii",4,12.3,15,7,4,3
+370,Nand nagri (T),Kend. (T),"1. Kend Terml. 2. Regal 3. Viveka Nand Marg 4. Delhi Gate5. Shanti Van 6. Yamuna Vbridge East 7. Seelam Pur 8.
+Babar Pur Extn 9. Jyoti Cly 10. Nand Nagri Terminal.",0,18.6,15,10,6,4
+378,Kend.Terminal,Mayur Vihar Phase-III,"1. Kend.Terminal 2. Regal 3. Mandi House 4. Ito(Agcr)5. Rainy Well 6. Mother Dairy 7. 13‐Blk Trilok Puri8. Kalyan
+Puri 9. New Kondli 10. Mayur Vihar Ph.Iii",5,18.9,15,10,6,4
+391,Kend.Terminal,Kalyan Puri,"1. Kend.Terminal 2. Krishi Bhawan 3. Mandi House 4. Ito(Agcr) 5. Rainy Well 6. Mother Dairy 7. Vinod Ngr 8. Kalyan
+Puri",5,19.9,15,11,6,5
+394,Noida sec-49,Statesman,"1.  Statesman  2.  Mandihouse  3.I.T.O.Agcr  4.  Rainy  well  5  .  Mother  Dairy  6.  Pusta  crossing  7.  Mayurvihar  ph‐I
+crossing 8. Naya Bans 9. Staff qtr. 10. Kailash hospital Noida sec‐37 12. Noida sec‐36 13. Noida sec 41/50 14. Noida sec‐49",1,24,15,13,8,5
+630,Kendriya Trml.,Nanak Pura,1. Kend. (T)  2. Krishi Bhawan  3. Teen Murti4. Ussr Embassy  5. Moti Bagh‐I  6. Nanak Pura/Cc,0,11.5,15,6,4,2
+680,Kend.Terminal,"AN Sect-4 (Virat
+Cinema)","1. Kend (T) 2.  Kr. Bhawan 3. Teen Murti 4. USSR Embassy 5. Moti Bagh 6. RK Puram-1 7. JNU 8. Qutab Enclave 9. PTS 10.
+Saket Mkt 11.  AN (T) 12. AN Sect-4 (Virat Cinema)",21,23.6,5,38,23,15
+859,Shivaji Stadium,"Rajouri
+Garden Extnesion",1   Shivaji Std   2   Mandir Marg 3   A  S   Road 4   Tele Exchange 5   W   Patel Ngr 6   Moti Ngr 7   Raja Garden 8   R Garden Ext,0,12.2,15,7,4,3
+950,Mangolpur Q- BLK,Kend   (T),1    Kend    (T)   2    Regal   3    Shivaji  Std     4    Mandir  Marg5    Jhandewalan   6    D   B   Gupta  Mkt     7    Sarai  Rohila8 Zakhira  9   P   Bagh (T) 10   Madi Pur Jj Cly   11   Peera Garhi 12   Mangol Puri D‐Block  13   Mangol Puri Q Blk,1,22.5,15,12,7,5
+951,"Kamla Market/Ajmeri
+Gate",WEST ENCLAVE,1   Kamla Mkt   2   N  D  Rly  Stn  Gate No  1 3   P  S  Pahar Ganj4   D  B  Gupta Mkt   5   Sarai Rohilla 6   Zakhira   P Bagh (T) 8   Mohindra Park 9   Kesav Maha Vidylia 10   West Enclave,7,12.3,12,8,5,3
+957,Shivaji Stadium,Budh Vihar Phase-II,"1    Shivaji  Stadium  2    Chitra  Gupta  Rd    3    P   S   Pahar  Ganj4    D   B   Gupta  Mkt    5    Sarai Rohilla  6    Zakhira  7    P Bagh (T) 8   Mohindara Park 9   Jd‐Blk Pitam Pura 10   C‐Blk  Saraswati Vihar 11   3,4,5,6 Rohini Xing 12   Mangol Pur
+Khurd 13   Budh Vihar Ph‐Ii",26,15.4,5,25,15,10
+962,Kend  Terminal,Kanjhawala Village,"1  Kend Trml   2   Dr  Rml Hosp   3   Mandir Marg  4   Sadhuwasvani Mg   5   Tele  Exchange 6   W  P  Nagar7   Karam Pura  8    P   B   (T)  9    Madi  Pur  Jj  Cly  10    Peera  Garhi  12   Mangol  Pur  Khurd  13   Pooth  Kalan14    Begum  Pur  15
+Karala 16   Kanjhawala",0,30,15,16,10,6
+966,Nizamuddin  Rly Station,Nangloi        JJ Colony,"1    Nizamuddin  Rly   Stn    2    P   S   Nizamuddin  3    Golf  Club/Under  Ngr    4    Baroda  House  5  Shivaji  Stadium  6 Mandir Marg 7   Jhandewalan 8   D  B  Gupta Rd 9   Sarai Rohilla 10   Zakhira 11   P  Bagh (T)12   Madi Pur Jj Cly   13
+Peera Garhi 14   Jawala Puri 15   Nangloi",10,28.3,12,19,11,8
+975,Kend Term,"Rohini Sec-11
+Extn SLF","1. Kend (T) 2. Ridge Rd 3. Shankar Rd 4. WP Ngr 5. KPura (T) 6. PB (T) 7. Mahindra Park 8. JD Block Pritampura
+9. Rohini Sec 7, 8 & 9 Xing10. Rohini Sec-6 11. 11 SLF Flats",0,21.5,15,11,7,4
+980,Kend  Terminal,Nangloi JJ Colony,"1   Kend  Terml  2   Ridge Rdxing   3   Shankar Rd  4 W  Patel Ngr  5   Karam Pura(T)  6   P  Bagh  (T) 7 Madipur Jj Cly
+8   Peera Garhi  9   Jwala Puri  10   Nangloi Jj Colony",9,15.2,12,10,6,4
+226,Bapu Dham (Dhau,Nand Nagri T,"1. Nand Nagri 2. Mandoli Xing 3. C‐4 Yamuna Vihar 4. Bhajan Pura 5. Gamri Extn. Pusta No‐5 6. New Usman Pur Pusta‐I 7. Shyam Giri Mandir 8. Isbt 9. Ice Factory 10. Ggs Marg Xing 11. Rabindra R. Shala 12. R.‐Blk Rajinder Ngr
+13. Budh Jyanti Park 14. Dhaula Kuan (Bapu Dham).",0,28.8,15,15,9,6
+241,Shivaji Stadium,Nand Nagri (T),"1. Shiavji Stadium 2. Mandi House 3. Delhi Gate 4. Red Fort 5. Isbt 6. Shyam Giri Mandir 7. Seelam Pur 8. Babar Pur
+Extn. 9. Jyoti Cly 10. Nand Nagri Terminal.",0,18.7,15,10,6,4
+251,Anand Parbat,Dilshad Garden,"1.V Anand Parbat 2. Db Gupta Mkt 3. Gg Singh Marg 4. Ice Factory 5. Isbt 6. Shyam Giri Mandir 7. New Usman Pur (Pusta ‐I)8. Gamri Ex (Pusta No‐5) 9. Bhajan Pura 10. C‐4 Yamuna Vihar 11. Babar Pur Extn. 12. Jyoti Cly 13. Gtb
+Hospital 14. Dilshad Garden.",0,23.4,15,12,7,5
+784,Kamla Mkt,"Yamuna Vihar
+(T)","Kamla Mkt, Delhi Gate, Red Fort, ISBT, Shyamgiri Mandir, Seelam-pur, Babarpur Extn, Yamuna Vihar (T)",6,17.1,12,11,7,4
+245,Kamla Market,Indra Puri (Loni),"1. Kamla Mkt 2. Delhi Gate 3. Red Fort 4. Isbt 5. Shyam Giri Mandir 6. Seelam Pur 7. Jyoti Ngr 8. Babar Pur Extn 9.
+Johri Pur Xing 10. Ps Indira Puri 11. Indira Puri Loni.",0,19.5,15,10,6,4
+255,Kend.Terminal,Sabhapur Village,1. Kend Terml 2. Palika Kend 3. Mandi House 4. Delhi Gate 5. Red Fort 6. Isbt 7. Shyam Giri Mandir 8.New Usman Pur Pusta No‐I 9. Gamri Extn. Pusta No.‐5 10. Govt Model School 11.B Karawal Ngr 12. Sabha Pur Village.,0,23.3,15,12,7,5
+351,Anand Parbat,Gazipur Dairy Farm,1. Anand Parbat 2. D.B.Gupta Mkt 3. Ps Pahar Ganj 4. New Dly.Rly.Stn 5. Mandi House 6. Ito(Agcr) 7. Rainy Well 8. Mother Dairy 9. 13‐Blk.Trilok Puri 10. Kalyan Puri 11. National High Way Xing12. Gaji Pur Dairy Farm,4,19.3,15,10,6,4
+343,Anand Parbat,"Anand Vihar
+ISBT","1. Anand Parbat 2. DBG Mkt 3. PS Pganj 4. ND Rly Stn 5. Mandi House 6. ITO AGCR 7. Rainy Well 8. Shakapur 9.
+Hargovind Enclave 10. Anand Vihar 11. Ram Prastha 12. Anand Vihar ISBT",0,18.8,15,10,6,4
+343stl,Anand Parbat,"Anand Vihar
+ISBT","1. Anand Parbat 2. DB Gupta Mkt 3. PS Paharganj 4. Aj Gate 5. Delhi Gate 6. ITO Ring Rd 7. Rainy Well 8. Mother
+Dairy 9. Balco Apptt10. HP Depot 11. Anand Vihar ISBT",0,18,15,10,6,4
+207,BhajanPura,Nanak Pura,"1. Bhajan Pura 2. Gamri Ext. (Pusta No‐5) 3. New Usman Pur  Pusta No‐1 4. Shyam Giri Mandir 5. Isbt 6. Ice Factory
+7.  Rani  Jhansi  Rd.  8  Mandir  Marg  9.Rml  Hospital  10.  Kend.  T.  11.  Talkatora  Grd.  12.Bharat  Sadhu  Samaj.  13  Dh Kuan 14 Nanak Pura",0,25.3,15,13,8,5
+256,Railway Station,Karawal Nagar,"1. Rly Station 2. Isbt 3. Shyam Giri Mandir 4.New Usman Pur Pusta No‐I 5. Gamri Extn. Pusta No.‐5 6.Bhajan Pura 7.
+Dayal Pur 8. Karawal Ngr.",0,14,15,7,4,3
+217,BMD Chowk,Gokul Puri,1. Bmd Chowk 2. Isbt 3. Shyam Giri Mandir 4. Seelam Pur 5. Babar Pur Extn 6. Jyoti Ngr 7. Gokul Puri.,1,12.4,15,7,4,3
+359,Shivaji Stadium,Vasundhra Enclave,"1.Shivaji  Stadium  2.  Mandi  House  3.  Ito(Agcr)  4.  Rainy  Well  5.  Mother  Dairy  6.13‐Blk  Trilok  Puri  7.  Vasundhra
+Enclave Play Ground.",0,19,15,10,6,4
+156,Nizamuddin      - Railway Station,Ashok      vihar Ph.-ii,"1. Nizamuddin Rly. Station 2. Ps Nizamuddin 3. Golf Club 4. India Gate/ Baroda House 5. Krishi Bhawan 6. Palika
+Kendra  7. Shivaji Stadium  8. Chittra Gupta  Rd  9. Db  Gupta  Mkt 10. Subhdara  Cly 11. Bharat  Ngr  Xing  12. Ashok Vihar Ph‐I 13. Ashok Vihar‐Ii.",0,22.5,15,12,7,5
+944,Kend  Terminal,Sultan Puri,"1   Kend Terminal 2   Ridge Rd   3   Shankar Rd  4   W  Patel Ngr   5   Karam Pura (T) 6   P  B  Terminal7   Madi Pur Jj
+Cly   8   Peera Garhi 9   B‐Blk  Mangol Puri 10   Q‐Blk  Mangol Puri 11   Sultan Puri",9,22,12,15,9,6
+390,Kend. Trml.,Mayur Vihar Ph-1 Terminal,1.  Kend  Terminal  2.  Regal  3.  Mandi  House  4.  Ito  Agcr  5.  Rainy  Well  6.  Shaker  Pur  7.  H.P.  Depot  8.  Nhw  Xing  9. Vinod Ngr 10. Kalyan Puri 11. 13‐Blk Trilok Puri 12. Mayur Vihar Ph‐1 Terminal,0,22,15,12,7,5
+309,Anand parbat,Kalyan puri,"1.  Anand  Parvat  2.  D.B.Gupta  Mkt  3.  P.S.Pahar  Ganj  4.  Ajmeri  Gate  5.  Govt.  Press  6.  Ito  Agcr  7.  Rainy  Well  8.
+Mother Dairy 9. 13‐Blk Trilok Puri 10. Kalyan Puri.",17,19.6,10,16,9,7
+380,Kend.Terminal,"DDA Flats
+Man-sarovar Park","1. Kend.Terminal 2. Regal 3. Vivekanand Marg 4. Delhi Gate5. Red Fort 6. Isbt  7. Shyam Giri Mandir 8. Seelam Pur
+9. Babarpur Extn 10. Jyoti Colony 11. Mansarovar Park Dda Flats",0,15.2,15,8,5,3
+,,,Total Buses,163,,,510,311,199
+Cluster ‐ 4,,,,,,,,,
+RT.NO.,From,To,Fare Stage,"Actual STA
+Buses",Route length,Frequency,"No. of buses
+required","DTC Sch.
+Buses(60%)","DIMTS Sch.
+Buses(40%)"
+3,Pragati Maidan,Shalimar Bagh,"1. Pragati Maidan 2. Ito Agcr 3. Delhi Gate 4. Ajmere Gate 5. P.S. Pahar Ganj 6. Db Gupta Mkt. 7. Sarai Rohilla. 8. Gulabi Bagh 9. Bharat Ngr. Xing 10. Ashok Vihar W/Tank 11. Ashok Vihar Xing 12. Ae Blk. Shalimar Bagh 13. Bh‐Blk.
+Shalimar Bagh.",1,21.9,15,12,7,5
+19,Jahangir Puri E- Block,Shivaji Stadium,"1. Shivaji Stadium 2. Nd Rly. Station Gate‐I 3. P.S.Pahar Ganj 4. Ice Factory 5. Clock Tower 6. Rp Bagh 7. Bara Bagh
+8. Adarsh Ngr. 9. Jahangir Puri E‐Blk.",17,16.8,10,13,8,5
+26,G.T.B.Nagar,Sewa Nagar Railway Xing,"1. Gtb Ngr 2. Ins Hostel 3. Timar Pur 4. Old Sectt. 5. Isbt 6. Red Fort 7. Delhi Gate 8. Supreme Court 9. Shahjahan
+Rd 10. Bharti Ngr 11. Lodhi Cly 12. Sewa Ngr Rly Xing.",8,19.8,12,13,8,5
+39,Jheel,Tri Nagar/JM Mkt,"1. Jheel 2. Khureji 3. Shaker Pur 4. Rainy Well 5. Ito Agcr 6. Delhi Gate 7. Ajmeri Gate 8. Ps Pahar Ganj 9. Db Gupta
+Mkt 10. Sarai Rohilla 11. E‐Blk Shastri Ngr 12. B‐3 Keshav Puram 13. Tri Ngr Jai Mata Mkt.",31,23.9,5,38,23,15
+62,Kamla Market,Shahbad Dairy,"1. Kamla Mkt. 2. Delhi Gate 3. Red Fort 4. Isbt 5. Ice Factory 6. Clock Tower 7. R.P. Bagh8.Bara Bagh 9. Adarsh Ngr.
+10. Gtk Depot 11. Badli Rly. Station 12. Shahbad Daulat Pur 13. Shahbad Dairy.",2,15,15,8,5,3
+89,"Trinagar J Mata
+Mkt",SN Depot,"1. Trinagar J Mata Mkt 2. B-3 Keshav-puram 3. Shastri Ngr E Block 4. Sarai Rohilla 5. AS Rd 6. Mandir Marg 7.
+Regal8.  Kr. Bhawan 9. Tughlak Rd 10. SJ Airport 11. INA Mkt 12. SN Depot",1,24,15,13,8,5
+105,I.S.B.T.,"Burari Village./
+Mukhmel Pur","1. Isbt 2. Old Sectt 3. Gtb Ngr 4. Nirankari Cly 5. Jharoda Dairy Xing 6. Burari Village 7. Loniyan Ind. 8. Ibrahim Pur
+9. Hiranki 10. Mukhmel Pur",0,18.5,15,10,6,4
+150,Kalyanpuri,Jahangir Puri,1. Jahangir Puri 2. Adarsh Ngr 3. Bara Bagh 4. Rp Bagh 5. Clock Tower 6. Ice Factory 7. Isbt 8. Jamuna Bzr. 9. Shanti Van 10. Delhi Gate 11. Ito Agcr 12. Rainy Well 13. Mother Dairy 14. 13‐Blk Trilok Puri 15. Kalyan Puri.,1,30,15,16,10,6
+159,Inder Puri,Jahangir Puri,"1. Inder Puri 2. Loha Mandi 3. Sp Depot 4. Karam Pura 5. P.B.Terminal 6. W.P.Depot‐I 7. Ashok Vihar Xing 8. Adarsh
+Ngr 9. Jahangir Puri E‐Blk.",16,14.6,10,12,7,5
+166,Palika Kendra,Sahlimar Bagh BH - Block,1. Palika Kend. 2. N.D Rly Station 3. P.S. Pahar Ganj. 4. D.B. Gupta Mkt 5. Sarai Rohilla  6. Gulabi Bagh 7. Bharat Ngr Xing 8. Ashok Vihar Water Tank. 9. Ashok Vihar Xing 10. AE‐ Blk Shalimar Bagh 11. Bh‐ Block Shali Mar Bagh,18,17.2,10,14,8,6
+168,Hauz Khas Terminal,Ashok Vihar Phase-II,"1.  Hauz  Khas  (T)  2.  Sj  Hospital  3.  Sj  Air  Port  4.  Ps  Tughlak  Rd  5.  Krishi  Bhawan  6.  Kend  Terml.  7.  Ridge  Road  8. Shanker  Road  9.  Wp  Ngr  10.  Karam  Pura  (T)  11.  P.Bagh  Terml.12.  A‐I  Keshav  Puram  13.  B‐3  Keshav  Puram  14.
+Ashok Vihar‐I 15. Ashok Vihar Ph‐Ii.",0,29.9,15,16,10,6
+192,I.S.B.T.,Nathu Pura,1. Isbt 2. Old Sectt 3. Gtb Ngr 4. Nirankari Cly 5. Jharoda Dairy Xing 6. Burari 7. Kusak Enclave 8. Nathu Pura.,6,14.5,12,10,6,4
+218,Indira Puri (Loni),Hari Nagar Clock Tower,"Indira Puri Loni 2. Ps Indira Puri 3. Johari Pur Xing 4. Jyoti Ngr 5. Babar Pur Extn 6. Seelam Pur 7. Shyam Giri Mandir
+8. Isbt 9. Ice Factory 10. Ggs Marg Xing 11. Db Gupta Mkt 12. R.S. Satsang 13. West Patel Ngr 14. Laho Mandi 15. Naraina Vihar 16. Mp Depot 17. Beri Wala Bagh 18. Hn Clock Tower.",6,30.5,12,20,12,8
+322,I.S.B.T.,Mayur Vihar Ph-1 Terminal,"1. Isbt 2. Red Fort 3. Delhi Gate 4. Ito(Agcr) 5. Rainywell  6. Mother Dairy 7.  Balco Apptt 8. H.P.Depot 9. Nhw Xing
+10. Vinod Ngr 11. Kalyan Puri 12. 13‐Block Trilok Puri 13. Mayur Vihar Ph‐1 Terminal.",4,22.9,15,12,7,5
+324,Mori Gate (T),Kalyan Puri,"1. Mori Gate (T) 2. Red Fort 3. Delhi Gate 4. Ito(Agcr)5. Rainy Well 6. Mother Dairy 7. Pushta Xing 8. Mayur Vihar P‐
+I  9. 13‐ Blk Trilok Puri 10. Kalyan Puri",0,17,15,9,5,4
+346,Shivaji Stm.,NOIDA Sec.34,1.Shivaji  Stadium  2.  Mandi  House  3.  Pragati  Maidan  4.  Road  Bridge  5.  Pusta  Xing  6.  Mayur  Vihar  Ph‐I  Xing  7. Hindon Regulator 8. Naya Bans 9. Noida Sec‐28/2910. Noida Sec‐37 Noida Sec‐36 11. Noida Sec‐34.,3,23.3,15,12,7,5
+347,I.S.B.T.,NOIDA SEC.34,1. Isbt 2. Red Fort 3. Delhi Gate 4. Ito(Agcr) 5. Rainy Well 6. Mother Dairy 7. Pushta Xing 8. Mayur Vihar Xing 9. Hindon Regulator 10. Naya Bans 11. Staff Qrs.12. Sec.21/25 13. Noida Sec.37 14. Noida Sec36 15. Sector‐34.Noida,23,28,5,45,27,18
+355,Anand Parbat,NOIDA Sec-32,"1. Anand Parbat 2. D.B.Gupta Mkt 3. Ps Pahar Ganj 4. New Dly.Rly.Stn‐I 5. Mandi House 6. Pragati Maidan7. Road Bridge 8. Pushta Xing 9. Mayur Vihar‐I Xing10. Hindon Regulator11. Naya Bans 12. Noida Sec.‐2713. O‐Blk Sec‐12
+14.  Sec‐22 H Block  15. Noida Sec‐32",24,26,5,42,25,17
+362,Mori Gate (T),Vasundhra Enclave,"1. Mori Gate (T) 2. Red Fort 3. Delhi Gate 4. Ito(Agcr)5. Rainy Well 6. Mother Dairy 7.Pusta Xing 8. Mayur Vihar Ph‐I Xing   9.  Hindon  Regulator  10.  Naya  Bans  11.   Noida  Sec.‐27.  12.  Noida  O‐Block13.  Jhund  Pura  14.  Vasundhara
+Enclave",4,23.3,15,12,7,5
+393,Noida sec-62,"New delhi rly.
+Stn - I","1. New delhi rly . Stn‐I 2. Mandihouse 3. Pragati maidan 4. Road bridge east 5. Noida crossing 6. Mayur vihar ph‐I crossing 7.Hindon Regulator 8.Nayan bans 9. Noida sec ‐27 10.  O blk.Noida sec 12/22 11.H blk Noida sec‐22 12.
+Khora cly. 13. Mamura village 14. Noida sec‐62",0,24,15,13,8,5
+741,Jyonti Shivalaya,Manglapuri,"Manglapuri,  Dabri  Vill,  C-1  Janakpuri,  Uttam  Ngr,  Distt  Centre,  Mjr  BS  Ngr,  Sunder  Vihar,  PG  Depot,
+Mangolpur  Sch,  Mangolpur  Khurd,  Pooth  Kalan,  Begumpur,  Karala,  Kanjhawala,  Ladpur,  Jyonti  Sch, (Shivalaya)",0,31.3,15,17,10,7
+861,Tilak Nagar,Jahangir Puri,"1   Tilak Ngr 2   Mukherji Park 3   Raja  Garden 4   P   Bagh Club 5   P   Bagh T   6   W  P   Depot 7   Ashok Vihar Xing 8
+Adrash Ngr 9   Jahangir Puri E‐Blk",15,16.5,5,26,16,10
+879,Shahbad Dairy,Janakpuri D Block,"1.  Shahbad  Dairy  2.  Sec-16  Rohini  3.  Pkt  D-2/15  Rohini  4.Vidhya  Vihar  Marg  5.  Sec-7  &  8  Xing  6.  C  Block Saraswati Vihar  7.  Mangol-pur  School  8.  Peeragarhi  Depot  9.  Sunder  Vihar  10.  Maj.  BS  Ngr  11.  Distt  Centre12.
+Uttam Ngr Xing 13.Janakpuri C-1 14. DESU Cly 15. D Block Janakpuri",34,28.4,5,45,27,18
+881,Madhu Vihar,Mukherji Ngr Bandh,"Madhu  Vihar,  Dwaraka  Xing,  Dabri  Vill,  C-1  Janakpuri,  Uttam  Ngr,  Distt  Centre,  Maj  BS  Marg,  Sunder  Vihar, Peeragarhi Depot, Mangolpur Sch, C Block Sarswati Vihar, JD Block Pitampura, Wazirpur Depot, Ashok Vihar Xing,
+Model Town-2, GTB Ngr, Mukherji Ngr",0,30,15,16,10,6
+910,Shivaji Stadium,Nangloi Syad,1   Shivaji Std   2   Ken   T   3   Upper Ridge Rd   4   Shankar Rd 5   W   Patel Ngr 6   Karam Pura T  7   P  Bagh T   8 Syndicate Bank9   Rd  ‐No   29/30 Xing 10   Paschim Vihar Water Tank 11   Guru Hari Kishan Ngr 12   Nangloi Syed,17,22,10,18,11,7
+930,Nehru Place (T),WEST ENCLAVE,"1    Nehru  Place  2    Sant Ngr     3    Mool Chand4. Panth  Ngr     5    Golf Culb   6    Baroda  House /India  Gate7    Kirshi Bhawan  8   Kend   (T)  9   Ridge Road 10   Shankar Road  11   West Patel Ngr    12   Karam Pura (T) 13   Punjabi Bagh
+(T)  14   Mohindera Park  15  Kesav Mahavidyalia 16  West Enclave",0,33.6,15,18,11,7
+937,Railway Station,Sultan Puri,"1  Rly Station   2   Mori Gate/ Isbt 3   Ice Factory 4   Kishan Ganj Mkt    5   Daya Basti 6   Zakhira 7   P   Bagh 8   Madi
+Pur Jj Cly 9   Peera Garhi 10  B‐Block Mangol Puri 11  Q‐Block Nangloi 12   Sultan Puri",14,22.2,10,18,11,7
+939,Anand Vihar(ISBT),Mangolpuri Q- Blk,"1   Anand Vihar(Isbt)  2   Surya Ngr  3   Dilshad Gdn Gt Road,4   Shahdara  5   Seelampur  6   Shastri Park  7  Isbt 8 Ice Factory 9   Guru Govind Sg  Marg  10   Sarai Rohilla  11   Zakhira  12   P  B  (T) 13 Madipur Jj Cly,14  Peera Garhi
+15   Mangol Puri B‐Block,16   Q‐Blk  Mangol Puri",14,32.7,10,26,16,10
+940,Shivaji Stadium,Mangol Puri Q- Blk,"1   Shivaji Std    2   Kendrya (T)  3   Ridge Road 4   Shankar Rd    5   West Patel Ngr    6   Karampur T  7   Punjabi Bagh
+(T)  8   Madi Pur Jj Cly    9   Peera Garhi10  B‐Block Mangol Puri  11   Q‐ Blk Mangol Puri",10,21.4,12,14,9,5
+943,Shakar Pur,DH-Blk SultanPuri,"1    Shakar  Pur  2    Rainy  Well  3    I   T   O  4    Govt   Press  5    Sucheta  Kirplani  Hosp    6    Punchkuain  Road  7    Sadhu Vaswani  Mg    8    Tele   Exchange  9    W   Patel  Ngr10    Karam  Pura  Trml    11    P   Bagh  (T)  12    Madi  Pur  Jj  Cly  13
+Peera Garhi 14   B‐Blk Mangol Puri15   Q‐Blk  Mangol Puri 16   Gh‐Blk Sultan Puri",8,29.6,12,20,12,8
+954,Karol Bagh(T),Sultan Puri C- 9/36,"1   Karol Bagh (T) 2   G  G  Singh Mg   3   Sarai Rohilla 4   Zakhira 5   P  Bagh (T) 6   Madi Pur Jj Cly 7   Peera Garhi 8
+B‐Block Mangol Puri 9    Q‐Blk  Nangloi 10 Sultan Puri 11   C‐9/36 Sultan Puri",13,18.6,10,15,9,6
+955,Sultan Puri,N  D  Rly STN,"1    Nd  Rly  Station  Gate  No‐1   2    Ps  Pahar  Ganj3    D   B   Gupta  Mkt     4    Sarai  Rohila   5   Zakhira6    P    Bagh  (T)   7
+Madi Pur Jj Cly   8   Peera Garhi 9   Mangol Puri D‐Block  10   Mangol Puri Q Blk  11   Sultan Puri",0,17.2,15,9,6,3
+970,J  L  N  Stadium,Awantika Rohini,"1   J  L  N  Stadium (C  G  O  Complex) 2   Lodhi Cly 3   Prithvi Raj Rd   4   Nirman Bhawan 5 Kirshi Bhwan  6   Kend
+(T)  7    Ridge  Road  8   Shankar  Rd    9      Patel Ngr   10    Karam  Pura  (T)  11    P   Bagh  (T)  12    Mahindra  Park13    J   D Block  Pitam  Pura  14    Sector‐8  Xing  15    Rohini  Sector  3,4,5,6   16    Avantika Rohini   (  Run  From  South  And  Road Take Right Turn Toward Prithiraj Raod Then Arvindo Marg , Safdarjund Mothersa , L/T To Lodhi Road / Mausam Bhawan And Then On To Serial Route Of The Direction )",11,31.2,10,25,15,10
+973,Nangloi,Indira Puri(Loni),1   Indra Puri (Loni)  2   P  S Indra Puri  3   Johri Pur Xing4   C‐4 Yamuna Vihar  5   Bhajan Pura  6  Gavri Extn   (Pusta‐ 5)7   New Usman Pur  (Pusta No‐1) 8.Suam Giri Mandir 9   I  S  B  T  10   Ice Factory 11   Kishan Ganj Mkt 12   Daya Basti  13   Zakhira  14   Punj Abi Bagh 15   Madi Pur Jj Cly    16   Peera Garhi  17   Jawala Puri18   Nangloi,0,35.2,15,19,11,8
+992,Sultanpuri,Indrapuri Loni.,"1. Indra Puri 2. P.S.Indra Puri 3. Johri Pur Xing 4 Jyoti Clt.5. Babar Pur Extn. 6. Seelam Pur 7. Shyam Giri Mandir8.
+Isbt  9.  Ice  Factory  10  Kishan  Ganj  Mkt.  11.  Daya  Basti12.  Zakhira  13.  P.Bagh  (T)  14.  Madi  Pur  Jj  Cly.  15.  Peera Garhi16. B.Blk Mangol Puri Xing 17. Q‐Blk Mangol Puri 18. Sultan Puri",14,35.2,10,28,17,11
+994,Shahbad Dairy,JLN Stadium,1. J.L.N.Stadium 2. Lodhi Rd. 3. Prithvi Raj Rd.4. Nirman Bhawan 5. Krishi Bhawan 6. Kend.Terminal7. Ridge Rd. 8. Shankar Rd. 9. W.Patel Ngr.10. Karam Pura (T) 11. P.Bagh (T0 12. W.P.Depot13. J.D.Blk.Pitam Pura 14. Sec‐7 & 8 Xing15. Vidhya Vihar Mg.Xing 16. Pocket ‐2 D/15 17. Rohini Sec‐16 18. Shahbad Daulat Pur19. Shahbad Dairy,0,32,15,17,10,7
+GL-90,Rohini Sec-16,Kendriya Terminal,1. Rohini Sec-16 2. Pkt D-2/15 Rohini 3. Vidhya Vihar Marg 4.Rohini Sec-7 & 8 Xing 5. KD Block Ppura 6. Wazirpur Depot 7. PB (T) 8. Zakhira 9. Sarai Rohilla 10. DB Gupta Mkt 11. PS P Ganj 12. ND Rly Stn 13. Regal 14. Kend (T),2,27.5,15,15,9,6
+162,GTB Nagar,Sunger Pur,"1.   Mori  Gate  T.  2.  Old  Sectt.3.  Gtb  Ngr  4.  Nirankari  Cly  5.Jharoda  Dairy  Xing  6.  Burari  Villahge  7.  Laniyal  Ind.
+8.Ibrahim Pur 9. Hiranki 10.Moh Pur 11. Bakhtawar Pur 12. Sunger Pur",0,18.5,15,10,6,4
+363,I.S.B.T,"NOIDA Sec 82
+(Kend.Vihar)",1.  Isbt  2.  Red  Fort  3.  A.K.Stadium.4  I.T.O.  (Ring  Rd)  5.  Rly  Bridge  Ring  Raod.6  Road  Bridgeeast  7.  Noida  Xing  8. Mayur Vihar Ph‐I Xing 9. Hindon Regulater 10. Naya Bans 11. Noida Sect‐28/29 12. U.P. Road Ways Bus Terminal Xing 3. Noida Sect‐49/39 14. Sarin Knan 15. Bhangel 16. Nodia Sect‐82 (Kend. Vihar),4,33,15,18,11,7
+181,Nizamuddin Rail-way Station,E-Block Jahangir Puri,"1. Nizamuddin Rly Stn 2. Ps Nizamuddin 3. Jln Stadium 4. Bharti Ngr 5. Shahjahan Rd 6. Krishi Bhawan 7. Regal 8. N.D.Rly Stn‐I 9. Ps Pahar Ganj 10. D.B.Gupta Road 11. Subhdara Cly 12. Shakti Ngr Nagia Park 13. Rp Bagh 14. Bara
+Bagh 15. Adarsh Ngr 16. E‐Blk Jahangir Pur .",23,29.3,5,47,28,19
+220,Haiderpur,Kend (T),"Haiderpur, BH Block Shali-mar Bagh, AE Block Shali-mar Bagh, Ashok Vihar Xing, Bharat Ngr Xing, Subhadra Cly,
+Sarai Rohilla, DBGupta Mkt, PS Pahar-ganj, ND Rly Stn G-1, Regal,  Kend. (Term)",3,21.6,15,12,7,5
+,,,Total Buses,347,,,773,466,307
+Cluster ‐ 5,,,,,,,,,
+RT.NO.,From,To,Fare Stage,"Actual STA
+Buses",Route length,Frequency,"No. of buses
+required","DTC Sch.
+Buses(60%)","DIMTS Sch.
+Buses(40%)"
+1,Kashmere Gate,Gandhi Vihar,1.Kashmiri Gate 2.Old Sectt. 3. Ins Hostal 4. Bhai Parmananad Cly. 5. Nirankari Cly. 6. Gandhi Vihar,0,10.7,15,6,3,3
+9,Anand Parbat,H.R.Hospital,1. Anand Parbat 2. D.B.Gupta Mkt 3. Sadar Thana 4. Ice Factory 5. Hindu Rao Hospital.,0,7.3,15,4,2,2
+16,Kend.Terminal,"RBI Colony, Shalimar
+Bagh","1. Kend. Terminal 2. Regal 3. Shivaji Stadium 4. Mandir Marg 5. Db Gupta Mkt. 6. Sarai Rohilla 7. E‐Blk. Shastri Ngr.
+8. B‐3 Kesav Pur 9. Prem Bari Pul 10. Al‐Blk. Sshalimar Bagh 11. Rbi Cly. Shalimar Bagh.",0,18.8,15,10,6,4
+28,Mori Gate(T),Shadipur Depot,"1. Mori Gate 2. Red Fort 3. Delhi Gate 4. Mandi House 5. Shivaji Stadium 6. Mandir Marg 7. Arya Samaj Road 8.
+Shanker Road 9. West Patel Ngr. 10. S.P.Depot.",0,18.6,15,10,6,4
+78,Azadpur(T),"Inderpuri JJ
+Cly","1. Azadpur(T) 2. Ashok Vihar Xing 3. W.P. Depot - I 4. P.Bagh (T) 5. Zakhira 6. Moti Nagar 7. S.P.Depot 8. Loha
+Mandi 9. Inder Puri JJ Cly",13,12.4,10,10,6,4
+81,"Mukherji Ngr
+Bandh",Inderpuri,"1. Mukherji Ngr Bandh 2. GTB Ngr 3. Maurice Ngr 4. Shakti Ngr 5. Gulabi Bagh 6.  E Block Shastri Ngr 7. Zakhira
+8.Karampura (T) 9. SP Depot 10. Loha Mandi 11. Inderpuri",0,12.8,15,7,4,3
+91,Kend.Terminal,"Tri Nagar/JM
+Mkt","1.  Kend.(T)  2.  Regal  3.  Sucheta  Kriplani  Hospital  4.  P.S. Paharganj  5.  G.G.Singh  Marg  6.  Sarai  Rohilla  7. E-Blk
+Shastri nagar 8. B-3 Keshav Puram 9. Tri Nagar Jai Mata market",0,22.2,15,12,7,5
+99,Sarai Kale Khan,Tri Ngr(JM Mkt),1. Sarai Kale Khan 2. Road Bridge 3. Pragati Maidan 4. Supreme  Court 5. Delhi Gate 6. Ajmeri Gate  7. P.S.Pahar Ganj 8. D.B.Gupta Mkt 9. Sarai Rohilla 10. E‐Blk. Shastri Ngr 11. B‐3 Keshav Puram 12. Tri Ngr Jai Mata Market .,0,21.9,15,12,7,5
+185,Kend.Terminal,Nathu Pura,"1. Kend Terml 2. Palika Kend. 3. Viveka Nand Marg 4. Delhi Gate 5. Red Fort 6. Isbt 7. Old Sectt 8. Ins Hostel 9. Gtb
+Ngr 10. Nirankari Cly 11. Jharoda Xing 12. Burari 13. Kushak Enclave 14. Nathu Pura .",0,28.3,15,15,9,6
+262,Kalyan Vihar,Harsh Vihar,"1.  Kalyan  Vihar  2.R.P.Bagh  3.  Clock  Tower/P.S.Roshanara  Rd  4.  University  5.  B.R.Hospital  6.  Nanak  Sar  7.Bhajan
+Pura  8. C‐4 Y.Vihar 9.Mandoli Xing 10. Harsh Vihar",0,19.4,15,10,6,4
+271,Kendriya Trml.,Jagatpur Temple,"1. Kend. Term. 2. Palika kendra 3.Vivekanand marg 4. Delhi gate 5. Redfort 6. ISBT 7. Old sectt. 8. BR hospital 9.
+Jagatpur crossing 10. Jagatpur temple",0,15.5,15,8,5,3
+408,F-Block Raghubir Nagar,Sarai Kale Khan (ISBT),"1. F‐Blk.Raghubir  Ngr  2. Raghubir  Ngr Gurudwara3.  Raja Garden  4. Moti Ngr 5. West Patel Ngr 6. Shankar Rd.7. Ridge Road 8. Kend.Terml 9. Krishi Bhawan10. Shahjahan Road 11. Bharti Ngr 12. Lodhi Coly 13. Defence Coly 14.
+M.C.K.R.Hospital 15. Lajpat Ngr 16. Ashram 17. Sarai Kalekhan(Isbt)",0,30.2,15,16,10,6
+843,Uttam Nagar(T),Adarsh Nagar,"1. Uttam Ngr (T)   2. C‐2b Janak Puri  3. Hn Depot4. Beriwala Bagh  5. Mp Depot  6. P.S. Kirti  Ngr7. Moti Ngr.  8.
+Zakhira  9. Kanhiya Ngr10. Ashok Vihar W/ Tank  11 Bara Bagh  12. Adrash Ngr.",0,21.6,15,12,7,5
+916,Nangloi,Inderpuri,"1   Inder Puri  2   Loha Mandi  3   Naraina Vihar 4   Mp Chowk  5   Raja Garden  6   Raghubir Ngr Gurudwara   Road
+No 29 &30 Xing  8   Paschim Vihar W/T9   Peera Garhi  10   Jawala Puri  11   Nangloi",0,16.8,15,9,5,4
+938,Azadpur Terminal,Tikri Border,"1    Azadpur  Terml   2    Ashok  Vihar Xing   3    Wpd‐Ipun   Bagh  (T),4    Jd Blk   Pitam Pura   5    C‐Blk   Saraswati Vihar6
+Mangol Pur School  7   Mangolpur Khurd  8  Puth Kalan 9  Begum Pur  10   Karala  11   Kanjhawala12   Kanjhawala School  13   Ghevra Village,14   Tikri Piao 15  Tikri Border",0,30.5,15,16,10,6
+985,Karam Pura Terminal,Shahbad Dairy,"1.  Karam  Pura  (T)  2.  P.Bagh  (T)  3.  W.P.  Depot4.  K.D.Blk.Pitam  Pura  5.  Rohini  Sec‐7  &  8  6.  Vidhiya  Vihar  Mg.  7.
+Pocket2 D/15 8. Rohini Sec‐16 9. Shahbad Daulat Pur 10. Shahbad Dairy",0,23.3,15,12,7,5
+987,Karam Pura (T),"Rohini
+Sec.25(Deep Vihar)",1. K.Pura (T) 2. P.Bagh (T) 3. W.P.Depot 4. Kd‐Blk Pitam Pura 5. Rohini Sec‐7 & 8 Xing6. Rohini Sec‐6 (T) (Rohini Depot‐I)7. Rithala Vill.Main Rd. 8. Rohini Sector‐25,0,16.6,15,9,5,4
+"219ST
+L",Raja Garden,Rly Stn,"1. Raja Garden 2. PB Club 3. PB (T) 4. Zakhira 5. Dayabasti 6.Kishanganj 7. Ice Factory 8. Mori Gate / ISBT 9. Rly
+Stn",0,18,15,10,6,4
+MS(-),,,,32,49,5,78,47,31
+TMS(-),,,,37,48,5,77,46,31
+272,Shivaji Stadium,Nehru Vihar,"Shivaji Std, Vivekanand Mrg, Delhi Gate, Red Fort, ISBT, Old Sectt, BR Hosp, Nehru Vihar",0,14,15,7,4,3
+410,Khiala Restt.Coly,Jal Vihar  (T),"1. Khiala Restt Coly 2. Subhash Ngr Xing 3. Raja Garden 4. Moti Ngr 5. West Patel Ngr 6. Shankar Road 7. Ridge Rd
+8. Kend.Terml 9. Krishi Bhawan 10. Patiala House 11. Golf Club 12. P.S.Nizamuddin 13. Ashram 14. Lp Ngr 15. Jal Vihar Term.",12,28,10,22,13,9
+108,Nehru Vihar,H.N.Clock Tower,"1. Nehru Vihar 2. Br Hosp. 3. Khalsa Coll. 4. Shakti Ngr Nagia Park 5. Gulabi Bagh 6. E‐Blk Shastri Ngr 7. Zakhira 8.
+Moti Ngr 9. Ps Kirti Ngr 10. M.P. Depot 11. Beri Wala Bagh 12. H.N.Clock Tower.",13,21.2,10,17,10,7
+234,Karam Pura-I,Harsh Vihar,"1.  Karam  Pura  Trml.  2.  Zakhira  3.  E‐Blk  Shastri  Ngr  4.  Gulabi  Bagh  5. Shakti  Ngr  6.  Khalsa College  7. Br  Hosp. 8.
+Nanak Sar 9. Bhajan Pura 10. C‐4 Yamuna Vihar 11. Nand Nagri Cc. 12. Harsh Vihar",22,23,5,37,22,15
+813,ISBT,Manglapuri,"ISBT,  Old  Sectt,  Khalsa  College,  Shakti  Ngr,  Gulabi  Bagh,  E  Block  Shastri  Ngr,  Zakhira,  Moti  Ngr,  Raja Garden, Mukherji Park, Tilak Ngr, B-1 Janakpuri, C-2B Janakpuri, C-1 Janakpuri, Dabri Vill, Manglapuri",0,26.4,15,14,8,6
+936,Pragati Maidan,Gulabi Bagh,"1   Parati Maidan  2   I  T  O  3   Delhi Gate  4   Red Fort 5   I  S  B  T 6   Old Sectt    7  Khalsa College  8   Shakti   Ngr  9
+Gulabi Bagh",0,16.7,15,9,5,4
+132,Pragati Maidan,Ashok Vihar Water Tank,"1.  ITO(AGCR),  2.  Delhi  Gate,  3.  Red  Fort,  4.  ISBT  5.  Old  Sectt.  6.  Gtb  Nagar  7.  Model  Town  II,  8.  Ashok  Vihar
+Crossing, 9. L. B. College",0,21.4,15,11,6,5
+198,Bhalswa,Wazirpur,"1. Bhalswa JJ Cly. 2. Shardhanand Colony, 3. Haiderpur Water Works, 4. Vidhya Vihar, 5. Rohini Sec ‐ 7/8 Crossing,
+6. JD Block Pitampura, 7. Wazirpur Depot",0,16,15,9,5,4
+629,Mehrauli,Khyala Resettlement cly.,"1.Mehrauli 2. Pts 3. Quitab Enclave 4. Jnu 5. R.K.Puram Sec ‐I. 6. R.K. Puram Sect‐8 7. R.L.A. College 8. Dh. Kuan 9.
+Rr Lines 10. Signal Officer Flats 11. Kirbi Place 12. Lajwanti Garden13. Beri Wala Bagh 14. Mukherji Park 15. Khyala Resett. Cly",0,27,15,14,9,6
+,,,Total Buses,129,,,483,286,197
+Cluster ‐ 6,,,,,,,,,
+RT.NO.,From,To,Fare Stage,"Actual STA
+Buses",Route length,Frequency,"No. of buses
+required","DTC Sch.
+Buses(60%)","DIMTS Sch.
+Buses(40%)"
+10,Kalyan Vihar,Kend.Terminal,"1. Kend. Terminal 2. Regal 3. Shivaji Stadium 4. Chitra Gupta Road 5. Faiz Road 6. Dcm 7. Pratap Ngr. 8. Shakti Ngr.
+Nagiya Park 9. Rp Bagh 10. Kalyan Vihar.",0,17.1,15,9,5,4
+160,Kend.Terminal,Haider Pur/Shalimar Bagh,"1. Kend T. 2. Rml Hospital 3. Mandir Marg 4. Sadhu Waswani Marg 5. Tel. Exchange 6. W. Patel Ngr 7.Karampura T.
+8. P.Bagh T. 9. Wpd 10. Ashok Xing 11. Ae ‐Blk Shali Mar Bagh 12. Bh Vblk ‐ Shalimar Bagh  13. Haider Pur Village",0,22.4,15,12,7,5
+170,Kend.Terminal,Saraswati Vihar Water Tank,"1. Kend Terml 2. Dr. Rml Hospital 3. Mandir Marg 4. Pusa Rd.P 5. Telephone Exchange 6. Wp Ngr 7. Karam Pura Terml 8. P.B.Terml 9. W.P. Depot‐I 10. Kd‐ Block Maurya Enclave 11. C‐Blk Saraswati Vihar 12. Saraswati Vihar W.
+Tank",0,15,15,8,5,3
+238,I.S.B.T.,Subhash Nagar,"1. Isbt 2. Ice Factory 3. Pratap Ngr 4. E‐Blk Shastri Ngr 5. Zakhira 6. Moti Ngr 7. Raja Garden 8. Mukherji Park 9.
+Subhash Ngr.",0,12,15,6,4,2
+441,Lajpat Ngr,Inderpuri,"1. Inder Puri 2. Loha Mandi 3. Narain A Vihar 4. Naraina Vill5. Barar Square 6. Rr Lines 7. Dh. Kuan 8. Moti Bagh 9.
+N. Ngr.10. Aiims 11. Andrews Ganj 12. Lajpat Ngr.",0,17.5,15,9,6,3
+452,LAJPAT Ngr,Karol Bagh (T),"1. Kabagh Terml 2. Ps Pahar Ganj 3. Nd Rly Station‐I  4. Sc. House 5. Baroda House/India Gate 6. Golf Club 7. Ps
+Nizamuddin 8. Ashram 9. Lajpat Ngr.",0,12,15,6,4,2
+471,A.N. Sec-4,Inder Puri JJ Coly,1. Inder Puri Jj Cly 2. Loha Mandi 3. Naraina Vihar 4. Naraina Vill 5. Barar  Square 6. Rr Line 7.Dhaula  Kuan 8 .Moti Bagh9. Narauji Ngr. 10. S.J. Hosp. 11. I.I.T. Gate  12.P.T.S. 13.  Saket Mkt 14. A.N.Terml 15. Ambedkar Ngr Sec‐4.,0,27,15,14,9,5
+601,R.K.Puram-I,Rohini Sec.16,1.R.K.Puram‐I  2. Moti  Bagh  3.  Dh.Kuan  4.  R.R.Line  5.  Barar Squre  6. Naraina  Vill. 7.  M.P.Depot 8.  Raja Garden9. P.Bagh Club 10. P.Bagh (T) 11. Mohindara Park12. Dtc Group Housing Society 13. K.D‐Blk Pitam Pura14. Uttri Pitam Pura 15. Good Will Apptt.16. Esi Hosp. 17. Rohini Sect‐11 Pkt.‐G‐2 18. Rohini Sec‐16,0,30,15,16,10,6
+618,S.J.Terminal,Karam Pura Terml.,"1.  S.J. Terminal  2.  S.J. Hostel  3.  Iit Gate  4.  Quitab  Enclave  5.  Jnu  6.  R.K.  Puram  ‐I  7. Moti  Bagh  ‐I  8. Dh.  Kuan  9.
+Siamon Bulvard Marg  10. Budha Janati Park 11. Ridge Rd Xing/ R. Blk Link Rd 12. Shankar Rd 13. W. Patel Nagar14. Karam Pura Terminal",0,26.5,15,14,8,6
+624,Lodhi Colony,Anand Vihar Bus TERM.,1. Lodhi Cly 2. J.L. N. Stdm. 3. P.S. Nizamuddin 4. Ashram 5. Sarai Kale Khan 6. Road Bridge 7. Pusta Xing 8. P.P. Ganj 9. 13‐Blk Tirilok Puri 10. Kalyan Puri 11. N.H.W. Xing 12. Anand Vihar Bus Terminal (Vivekanand Bus Terminus),0,26,15,14,8,6
+631,R.K.Puram-I,HaiderPur,"1. R.K Puram‐I  2. Moti Bagh  3. Dhaula Kuan 4. Rr Line  5. Barar Squre   6. Naraina Vill.7. M. Puri Chowk   8. Raja Garden  9. Punjabi Bagh Culb10. Punjabi Bagh (T) 11. Wp Depot‐I 12 Ashok Viher Xing13. Ae Block Shali Mar Bagh
+14. Bh Block Shalimar Bagh 15. Haidar Pur",1,28,15,15,9,6
+805,I.S.B.T.,"H-3,Vikas Puri","1.  Isbt  2.  Ice  Factory  3.  Partap  Ngr  .4.  Shastri  Ngr  .E.Blk   5.  Zakhira   6.  Moti  Ngr  7.  Raja  Garden8.  Kherji  Park  9.
+Tilakngr 10. Distt.Centre 11. C‐Blk .Vikas Puri 12. H‐3 Vikas Puri.",0,21.9,15,12,7,5
+182a,ISBT K Gate,Sukhbir Nagar,"1. ISBT K Gate 2. Ice Factory 3. Partap Ngr 4. E Block Shastri Ngr 5. B3 Keshavpuram 6. Wazirpur Depot 7.JD Block Pritampura 8.C Block Sarswati Vihar 9.Mangolpur Sch 10.Mangolpur Khurd 11.Pooth Kalan 12.Rohini Sec-20
+& 21 13.Begumpur 14.Sukhbir Nagar",12,26,10,21,12,9
+MS(+),,,,32,49,5,78,47,31
+TMS(+),,,,37,48,5,77,46,31
+990,Shivaji Stadium,Rithala,1. Shivaji Std. 2. Mandir Marg. 3. Sadhu Vasvani Mg.4. Tele.Exchange 5. West Patel Ngr. 6.K.Pura (T)7. P.Bagh (T) 8. W.P.Depot 9. Kd‐Blk. Morya Enclave10.  Sector‐7 & 8 Xing 11. Rohini Sec‐6 ( Rohini Depot‐112. Rithala,19,22.5,10,18,11,7
+990ext.,Shivaji Stadium,"Rohini Sec-24
+Pkt 18","Shivaji Std, Mandir Mrg, Sadhu Wasvani Mrg, Tele Exchange, WP Ngr, Karampura (T), PB (T), Wazirpur Depot, KD
+Block Morya Enclv, Rohini Sec-7/8 Xing, Rohini Sec-6, Rohini Nala, Rohini Sec-24 Pkt 18",0,24,15,13,8,5
+187,Palika Kendra,Siras Pur,"1. Palika Kend 2.Kend Terml/ Talkatora Rd 3. Ridge Rd 4. Shanker Rd 5. Wp Ngr 6. Karam Pura Terml. 7. P.B.Terml
+8. Wp Depot‐I 9. Kd Blk Mauriya Enclave 10. Uttri Pitam Pura 11. Haider Pur W/ Works 12. Badli Gt Rd 13. Sira S Pur Xing 14. Siras Pur.",1,26.7,15,14,9,5
+803,Dwarka Sec-19,Shivaji Stadium,"1. Shivaji Stadium 2. Mandir Marg 3. Sadhu Vaswani Marg Petrol Pump 4. Telephone Exchange 5. West Patel Ngr
+6. Loha Mandi 7. Naraina Vihar8. Mp Depot 9. Beri Wala Bagh 10. Hn Depot11. C2b Janak Puri 12. C‐I Janak Puri
+13.  Dabri  Village  14.  Palam  15.  Amrohi  Xing  16.  Bagrola  Village17.  Radha  Swami  Sat  Sang  Sector‐1918.  Dwarka Sector‐19 Pkt.‐3.",0,28.5,15,15,9,6
+965,Kend.Terminal,BG5 - Paschim Vihar,"1. Shivaji Stadium, 2. Mandir Marg, 3. Sadhu Vaswani Marg, 4. Telephone Exchange, 5. West Patel Nagar, 6. Karam pura Terminal, 7. Panjabi Bagh Terminal, 8. Syndicate Bank, 9. Road No. 29/30 Crossing, 10. Paschim Vihar Water
+Tank, 11. BG ‐ 5 Paschim Vihar",0,25,15,13,8,5
+,,,Total Buses,102,,,384,232,152
+Cluster ‐ 7,,,,,,,,,
+RT.NO.,From,To,Fare Stage,"Actual STA
+Buses",Route length,Frequency,"No. of buses
+required","DTC Sch.
+Buses(60%)","DIMTS Sch.
+Buses(40%)"
+70,ANAND VIHAR ISBT,Naraina Vihar,"1.  Anand  Vihar  Isbt  2.  Hasanpur  Depot  3.  Shakar  Pur  4.  Rainy  Well  5.  I.T.O  6.  Mandi  House  7.  Regal  8.  Kend.
+Terminal 9. Ridge Road 10. Shankar Road 11. W.P. Nagar 12. Loha Mandi 13. Naraina Vihar",0,25,15,13,8,5
+73,Anand Vihar Bus Terminus,H.N.Clock Tower,"1.  Anand  Vihar  Isbt  2.  Hp  Depot  3.  Shaker  Pur  4.  Rainy  Well  5.  Ito  Agcr  6.  Mandi  House  7.  Shivaji  Std.  8.  Kend. Terminal 9. Upper Ridge Road 10. Shanker Rd 11. W.P.Ngr 12. Loha Mandi 13. Naraina Vihar 14. Mp Depot 15. Beri
+Wala Bagh 16. H.N.Clock Tower .",36,29.4,5,47,28,19
+76,Anand Vihar ISBT,Inder Puri JJ Cly,"1. Anand Vihar Isbt 2. Surya Ngr. 3. Dilshad Garden G.T.Road 4. Shahdra 5. Seelam Pur 6. Shayam Giri Mandir 7. Isbt 8. Ice Factory 9. Guru Govind Singh Marg Xing 10. Arya Samaj Road 11. Telephone Exchange 12. R Blk. New
+Rajender Ngr. 13. Toda Pur 14. Inder Puri  15. Inder Puri Jj Cly.",0,26,15,14,8,6
+82,Jama Masjid,Ranjit Ngr`,1. Jama Masjid 2. D Gate 3. Aj Gate 4.PS P Ganj 5.AS Rd / Gurdwara Rd 6.Tele Exchange 7.WP Ngr 8.Ranjit Ngr,0,12.8,15,7,4,3
+85,"Anand Vihar
+ISBT","Punjabi Bagh
+(T)","1. Anand Vihar ISBT 2.HP Depot 3.Balco Apptt 4.Mother Dairy 5.Rainy Well 6.ITO 7.AGCR 8.Mandi House 9.SK
+Hosp 10.  PK Rd11. Pusa Rd P Pump 12.Telephone Exch 13. WP Ngr 14. Karampura (T)15.  PB (T)",29,29.2,5,47,28,19
+88,Anand Vihar ISBT,Tri Nagr JM Mkt,"1.  Anand  Vihar  ISBT,  HP  Depot,  Jagatpuri  A  Block,  Swaran  Cinema,  Seelampur,  Shyamgiri  Mandir,  ISBT,  Ice Factory, Clock Tower, Roshnara Rd, Shakti Ngr (N Park), Gulabi Bagh, E Block Shastri Ngr, B-3 Keshav-puram, Tri
+Ngr JM Mkt",0,28,15,15,9,6
+143,Anand Vihar ISBT,Keshav Ngr Mukti Ashram,"Anand Vihar ISBT, HP Depot, Jagatpuri A Block, Swaran Cinema, Seelampur, Shyamgiri Mandir, ISBT, Old Sectt, INS Hostel, GTB Ngr, Nirankari Cly, Jharoda Dairy Xing, Burari Vill, Loniyal Ind Area, Keshav Ngr Mukti Ashram",0,30,15,16,10,6
+165,Anand Vihar Bus Terminus,Shahbad Dairy,"1. Anand Vihar Isbt 2. Surya Ngr 3. Dilshad Garden 4. Gtb Hospital 5. Nand Nagri  Terml 6. Tt Post 7. C‐4 Yamuna
+Vihar 8. Bhajan Pura 9. Nanak Sar 10. Jagat Pur  11. Burari Xing 12. Mukand Pur Xing 13. Gtk By Pass 14. Badly Rly Station 15. Shahbad Daulat Pur 16. Shahbad Dairy.",11,35.4,10,28,17,11
+205,Kauria Bridge,New Seema Puri,"1. Fateh Puri 2. Isbt 3. Shastri Park 4. Seelam Pur  5. Babar Pur Extn 6. Jyoti Ngr 7. Nand Nagri (T) 8. Anand Gram9.
+New Seema Puri.",11,15,10,12,7,5
+212,Nand Nagri Terml,Anand Parbat,"1. Anand  Parbat 2. Db  Gupta  Mkt 3. Gg  Singh  Marg  4. Ice Factory  5. Malka  Ganj  6.  University 7.  B.R.Hospital 8.
+Nanak Sar 9. Bhajan Pura 10. C‐4 Yamuna Vihar 11. Masndoli Xing 12. Nand Nagri (T)",18,21.5,10,17,10,7
+221,"Anand Vihar
+ISBT",Mori Gate (T),"Anand Vihar ISBT, Surya Ngr, Dilshad Garden GT Rd, Shahdra, Seelampur, Shyam-giri Mandir, Mori Gate (T)",18,14.2,10,11,7,4
+222,"Anand Vihar
+ISBT",Ashok Vihar-2,"Anand Vihar ISBT, Surya Ngr, Dilshad Garden GT Rd, Shahdara, Seelampur, Shyam-giri Mandir, ISBT, Ice Factory,
+PS Roshnara Rd, Clock Tower, Bharat Ngr Xing, Ashok Vihar-2",0,25.2,15,13,8,5
+225,Adarsh Nagar,Vevek Vihar,"1. Adarsh Ngr 2. Bara Bagh 3. Rp Bagh 4. Clock Tower 5. Ice Factory 6. Mori Gate 7. Rly Station 8. Jamuna Bridge 9.
+Gandhi Ngr 10. Jheel 11. Swarn Cinema 12. Kashturba Ngr. 13. Vivek Vihar.",0,23,15,12,7,5
+236,Anand Vihar(T),Nangloi JJ Cly.,"1. Anand Vihar Isbt 2. Surya Ngr 3. Dilshad Garden Gt Rd  4. Shahdara 5. Seelam Pur 6. Shyam Giri Mandir 7. Isbt 8. Ice  Factory  9.  Gg  Singh  Magr  10.  Sarai  Rohilla  11.  Zakhira  12.  P.B.Terml  13.  Madi  Pur  Jj  Cly  14.  Peera  Garhi  15.
+Jwala Puri 16. Nangloi Jj Cly.",17,30,10,24,14,10
+261,Sarai Kale Khan (ISBT),Nand Nagri Term.,"1sarai Kale Khan(Isbt) 2. Road Bridge 3. Rly.Bridge Road 4. Ito(Agcr) 5. Delhi Gate 6. Red Fort 7. Isbt 8. Old Sectt 9.
+B.R.Hospital 10. Nanak Sar 11. Bhajanpura 12. C‐4 Y.Vihar 13. Mandoli Xing 14. Nand Nagri Terminal",2,27.5,15,15,9,6
+264,Shivaji Stadium,Nand Nagri(T),"1.  Shivaji  Stadium  2.  Mandir  Marg  3.  Rani  Jhansi  Rd  (Id  Gah  )  4. Ice  Factory  5.  Clock  Tower  6.  Ps  Roshan‐Ara  7. Khalsa  College  8.  B.R.Hospital  9.  Nanak  Sar  10.  Bhajan  Pura  11.  C‐4  Y.Vihar  12.  Mandoli  Xing  13.  Nand  Nagri
+Terminal",0,24.2,15,13,8,5
+313,Vivek Vihar,Inder Puri,"1.  Inder  Puri  2.  Loha  Mandi  3.  West  Patel  Ngr  4.  Telephone  Exchange  5.  Sadhu  Vaswani  Marg  P.Pump6. Punchkuain  Road  7.  Sucheta  Kriplani  Hospital8.  Mandi  House  9.  I.T.O.  Agcr  10.  Rainy  Well  11.  Shaker  Pur  12.
+Hargovind Enclave 13. Yojna Vihar 14. Surya Ngr 15. Vivek Vihar .",12,26,10,21,12,9
+345,Udyog Bhawan,Jhilmill cly DDA  Flates,"1. Udyog Bhawan 2. Baroda House 3. Supreme Court4. Ito(Agcr) 5. Rainy Well 6. Shakarpur 7. Hargobind Encl 8.
+Jhil Mil Cly Dda Flats.",0,12.3,15,7,4,3
+738,Anand Vihar(T),Kailash Puri,1.  Anand  Vihar  (Isbt)   2.  Hasan  Pur  Depot3.  Shakar  Pur   4.  Rainy  Well   5.  Ito  (Agcr).  Mandi  House   7.  Sucheta Kriplani  Hospital8.  Punchkuian  Rd.   9.      Sadhu   Vasvani  Marg  P.  Pump10.  Telephone  Exchange   11.  West  Patel Ngr.12. Loha Mandi  13. Naraina Vihar  14. Mp Depot15. Zink Mkt.  16. D‐ Block Janak Puri  17. Kailash Puri,0,31.5,15,17,10,7
+802,Mori Gate,C-1 Janakpuri,"Mori Gate, Jamuna Bazar, Shantivan, Delhi Gate, VV Nand Marg, S Kriplani Hosp, PK Rd, Pusa Rd P Pump,
+Tele Exchange, WP Ngr, Moti Ngr, Raja Garden, Mukherji Park, Tilak Ngr, B-1 Janakpuri, C-2B Janakpuri, C-1 Janakpuri",0,23.7,15,13,8,5
+847,New Seema Puri,Uttam Nagar(T),"1. New Seema Puri 2. Anand Gram 3. Nand Nagri T. 4. Joti Ngr5. Babar Pur Ext. 6. Seelam Pur 7. Shastri Park 8.Isbt
+9. Ice Factory 10. Kishan Ganj Mkt  11. Daya Basti 12. Zakhira 13. Moti Ngr 14. Raja Garden 15. Mukherji Park16. Tilak Ngr 17. Distt Centre 18. Uttam Ngr Terminal",10,32,12,21,13,8
+851,Delhi sectt.,Uttam Ngr(T),"1. Delhi Sectt. 2. Delhi Gate 3. Mandi House 4. Sucheta Kirplani Hosp. 5. Puchkunya Rd.6. Sadhu Waswani Marg. (P.Pump)  7. Tele Exchnage8. W. Patel Ngr 9. Moti Ngr 10. Raja Garden  11. Mukherji  Park 12. Tilak Ngr 13, Distt
+Centre 14. Uttam Ngr Terminal",9,23.5,12,16,9,7
+855,Delhi Sectt,Kakrola JJ colony,"1. Delhi Sectt. 2. Delhi Gate 3. Ajmeri Gate 4. P.S Pahar Ganj5. Sadhu Waswani Marg 6. Tele Exchange 7. W. Patel Ngr8. Moti Ngr 9. Raja Garden 10.Mukherji Park 11. Tilak Ngr 12. Distt Cente 13. Uttam Ngr 14. C‐1 Janakpuri15. Dabri  Village 16. Dwarka  Xing 17. Madhu  Vihar 18.Netaji Subhash  Eng. College  19. Kakrola Jj Cly (Via Rind Road
+Rajghat Xing , Delhi Gate, )",2,35,15,19,7,12
+922,Fateh Puri,Najaf Garh,1    Fateh  Puri  2   Isbt/Mori  Gate  3    Ice  Factory  4    Gurugovind  Sing  Marg  54   Sarai  Rohilla  6   Zakhira  7    P   B Terminal  8    Madi  Pur  Jj  Cly   9    Peera  Garhi  10    Jawala  Puri  11    Nangloi  Jj  Cly   12    Kamru  Din  Nagar  Xing  13 Mundka 14   Hirankunda Xing 15   Hirankudna Village 16   Neelwal Xing 17   Dichiown Kalan Village 18   Najaf Garh,0,23.4,15,12,7,5
+997,Pragati Maidan,Budh Vihar,"Pragati  Maidan,  Mandi  House,  S  Kriplani  Hosp,  PK  Rd,  Pusa  Rd  P  Pump,  Tele  Exchange,  WP  Ngr,
+Karampura (T), PB (T), Wazirpur Depot, JD Block Pitampura, Rohini Sec-7 / 8 Xing, Rohini Depot-1, Rohini Sec-3, 4, 5, 6 Xing, Budh Vihar",0,26.4,15,14,8,6
+125ext,Saroop Nagar,"Anand Vihar
+ISBT","Saroop Ngr, Libaspur, GTK (D), Adarsh Ngr, Bara Bagh, RP Bagh, Clock Tower, Ice Factory, Mori Gate, Shyamgiri
+Mandir, Seelampur, Shahdara, Dilshad Garden, Surya Ngr, Anand Vihar ISBT",0,30.2,15,16,10,6
+85ext,Anand Vihar ISBT,West Enclv,"Anand Vihar ISBT, HP Depot, Shakarpur, Rainy Well,  ITO AGCR, D Gate, Vivekanand Marg, Shivaji Std, Mandir Marg, Sadhu W Marg, Tele Exchange, WP Ngr, PB (T), Mahindra Park, Keshav Maha Vidhyalya, West Enclav",0,35,15,19,11,8
+932,Mangolpuri Q-Blk,Nand Nagri (T),1   Nand Nagri (T)  2   Mandoli Xing  3   C‐4 Jamuna Vihar4   Bhajan Pura   5   Nanaksar  6   Jagat Pur  7   Burari Xing8 Mukand Pur  9   Gtk By Pass  10  Haidar Pur W   Works11   Uttri Pitam Pura  12   Madhuvan Chowk13   Rohini Sec‐6 (Rhn‐I)  14   Rohini Sec‐3 (Avntika)15   Mangol Puri Y Blk    16   Mangol Puri Q Blk,0,24.5,15,13,8,5
+208,Dilshad Garden,Karam Pura T,1. Dilshad Garden 2. Seema Puri 3. Dilshad Grd Gt Rd.4. Shahdara 5. Seelam Pur 6. Shyam Giri Mandir 7. Isbt 8. Ice Factory 9. Ggs Mrg. 10.Sadhu Waswani Marg P.Pump.11.Tele Exchage 12. West Patel Ngr. 13. Karampura T.,0,22.5,15,12,7,5
+731,Bijwasan Bdr.,KaramPura Trml.,"1. Karam Pur (T) 2. Raja Garden 3. Mukherji Park 4. Tilak Ngr. 5. Distt. Centre 6. Uttam Ngr. 7. C‐I J.Puri 8. Dabri
+Village 9. Palam Village 10. Amrohi Xing.11. Bagrola Xing 12. Pouchan Pur 13. Dhool Siras 14. Bharthal 15. Bijwasan Rly. Stn. 16. Bijwasan Bdr.",0,25.4,15,14,8,6
+854,Shivaji Stadium,"C-1,Janak Puri","1. Shivaji Std. 2. Mandir Marg. 3. Sadhu Waswani Mrg/A.S.Rd.4. Tele Exchange  5. W. Patel Ngr 6. Moti Ngr 7.Raja
+Garden 8. Mukherji Park 9. Tilak Ngr 10. B‐1 Janak Puri /C‐2b J. Puri 11. C‐1 Janak Puri",11,18.3,10,15,9,6
+995,Kend(T),Nilothi Village,"1. Kend.(T) 2. Dr.R.M.L.Hosp. 3. Mandir Mg. 4. Sadhu Vaswani Mg. 5. Tele.Exchange 6. W.Patel Ngr.7. Moti Ngr. 8.
+Raja Gdn. 9. Mukherji Park10. Tilak Ngr. 11. Distt. Center 12. Maj.B.S.Nagar13. Meera Bagh 14. Syed Nangloi 15. Chander Vihar16. Nilothi Village",0,26.8,15,14,9,5
+871,Shivaji Stadium,H-3 Vikas Puri,1   Shivaji Std   2   Mandir Marg 3   Sadhu Waswani Marg  Pp/ Araya Samaj Rd 4   Tele Exchange 5   W   Patel Ngr 6 Moti Ngr 7   Raja Garden 8   Mukherji Ngr 9   Tilak Ngr 10  Distt Centre 1   C‐Blk Vikas Puri 12   H‐3 Vikas Puri,13,21,10,17,10,7
+868,Kendriya Terml,Kakrola Village,"1   Kend   Trml    2   Uppar Ridge Rd    3   Shankar Rd 4   West Patel Ngr    5   Moti Ngr    6  Raja Garden 7   Mukarji
+Ngr     8    Tilak  Ngr     9    Distt    Centre   10    Uttam  Ngr  (T)   11    Nawada   12    Kakroula  Xing  13    Kakroula  Jj  Cly    / Kakroula Vill",0,22.8,15,12,7,5
+115,Old Delhi Rly.Stn.,Wazirpur JJ Coly,"1. Rly. Station 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Bharat Ngr Xing.6. Wazir Pur Jj Cly.7. Ashok Vihar‐
+Ph.I 8.Ashok Vihar Ph‐II",6,12.2,15,7,4,3
+310,Inder Puri,Jheel,"1. Inder Puri 2. Loha Mandi 3. W.P.Ngr 4. Shanker Road 5. Ridge Road 6. Kend. Terml. 7. Krishi Bhawan 8. Mandi
+House 9. I.To. Agcr 10. Rainy Well  11. Kishan Kunj 12. Jheel.",2,15.9,15,8,5,3
+372,Krishna Nagar,Shivaji Stadium,1. Shivaji Stadium 2. Vivekanand Marg 3. Delhi Gate 4. Ito Agcr. Rainy Well 6. Shakar Pur 7. Jheel 8. Krishna Ngr.,0,14.6,15,8,5,3
+157,Palika Kendra,Ashok Vihar Phase-II,"1. Palika Kend. 2. Shivaji Std. 3. Chittera Gupta Rd 4. D.B. Gupta Mkt 5. Sarai Rohilla 6. Gulabi Bagh 7. Bharat Ngr
+Xing 8. Wazirpur Jj Cly 9. Ahok Vihar Mkt Ph‐1 10. Ashok Vihar Ph.‐Ii",0,16.8,15,9,5,4
+23,Jama Masjid,H.R.Hospital,1. Jama Masjid 2. Delhi Gate 3. Ajmeri Gate 4. Sadar P.S. 5. Ice Factory 6. Hindu Rao Hospital.,0,8.6,15,5,3,2
+231,Q.Block Mangol Puri,Rly.Station,"1. Rly Station 2. Isbt/Mori Gate 3. Ice Factory 4. Gg Singh Marg 5. Sarai Rohilla 6. Zakhira 7. P.B.Terminal 8. Madi
+Pur Jj Cly 9. Peera Garhi 10. D‐Blk Mangol Puri 11. Q‐Blk Mangol Puri.",10,21.3,12,14,9,6
+,,,Total Buses,217,,,627,370,257
+Cluster ‐ 8,,,,,,,,,
+RT.NO.,From,To,Fare Stage,"Actual STA
+Buses",Route length,Frequency,"No. of buses
+required","DTC Sch.
+Buses(60%)","DIMTS Sch.
+Buses(40%)"
+308,Ambedkar- Stadium,Uttam Nagar,"1. Ambedkar Stadium 2. Ajmeri Gate 3. Ps Pahar Ganj 4. D.B.Gupta Mkt 5. Radha Swami Satsang 6. W.Patel Ngr 7.
+Moti Ngr 8. Raja Garden 9. Mukherji Park 10.  Tilak Nagar 11. Distt Centre 12. Uttam Ngr.",8,19.6,12,13,8,5
+711,"C-1,Janakpuri",Sarai Kale Khan,"1. C‐1 Janakpuri  2.  C‐2 B Janakpuri  3. Desu Cly. 4. Lajwanti Garden  5. Kibri Place   6. Shastri Bazar 7.R.R.Line   8. Dhaula Kuan  9. Moti Bagh   10. R.K.Puram  11. Mohd.Pur  12. Aiims  13. Andrews Ganj   14. L.P. Nagar5. Ashram
+16. Sarai Kale Khan",15,28.2,5,45,27,18
+712,Karol Bagh,Kapashera Bdr.,"1.  Karol  Bagh    2.  Ravinder  Rang  Shala   3.  R‐Blk.  Rajender  Ngr.   4.  Budha  Jayanti  Park5.  Dh.Kuan   6.  Rr.Line 7.Shastri  Bazar   8.More  Line9.  Palam  Air  Port   10.  N.H.W  Xing   11.  Mahipalpur  12.  Rang  Puri  13.  Sambalka   14
+Kapashera  Xing15. Kapashera  Bdr.",0,26.5,15,14,8,6
+724,Uttam Nagar(T),N.PlaceTerml),"1. Uttam Ngr 2. Janak Puri 3. Desu Cly 4. Lajwanti Garden 5. Kirbi Place 6. Signal Officer Flats 7. R.R.Lines 8. Dh. Kuan9.,Moti Bagh‐I 10 Nauroji Ngr 11. Aiims 12.Andrews Ganj 13. Sant Ngr 14. N. Place Terminal",38,29,5,46,28,18
+726,Janak Puri D- Blk.,Morigate,"1. Mori Gate 2.Red Fort 3. Delhi Gate4. Ajmeri Gate 5. P.S Pahar Ganj 6. D.B. Gupta Mkt.7. Radha Swami Satsang Bhawan 8. West Patel Ngr9. Moti Ngr 10. Raja Garden 11. Mukarji Park12. Tilak Ngr. 13 C‐2b Janak Puri 14. Desu
+Cly.15. Janak Puri D Block",8,24.8,12,17,10,7
+729,Mori Gate (T),Kapashera Bdr,"1. Mori Gate 2. Red Fort 3. Delhi Gate 4. Viveka Nand Marg5, Regal 6. Kend T. 7. Talkatora Garden 8. Sadhu Samaj
+9.  Dh.  Kuan  10.  Air  Force  Hq.  11.  Aps  Cly  12.  N.H.  Xing  13.  Mahipal  Pur  Xing  14.  Rang  Puri  15.  Sambalka  16. Kapashera Xing 17. Kapashera Border",46,32,5,51,31,20
+746,Mangla Puri,Nangloi,1.Mangla  Puri  2.  Dwark  Sect‐2/6  Xing  3.  Madhu  Vihar  4.  Netaji  Subhash  Inst.5. Nawada 6.  Uttam Nagar  7. Distt Centre 8. Mjr. Bhupender Singh Ngr. 9. Sunder Vihar 10. Peera Garhi 11. Jawala Puri 12. Nangloi,0,18.5,15,10,6,4
+807,Najaf Garh,Jama Maszid,"1. Jama Masjid  2. Delhi Gate  3. Ajmeri Gate4. P.S Pahar Ganj 5. D.B.Gupta Mkt.  6. R.S. Satsang7.  West Patel Ngr.
+8.  Moti  Ngr.   9.  Raja  Garden10.  Mukarji  Park   11.  Tilak  Ngr.   12.  Distt.  Center13.  Uttam  Ngr.   14.  Nawada   15. Kakroula Bridge16.Nangli Sakrawati  17. Najaf Garh",2,30.3,15,16,10,6
+808,Tilak Nagar,Q-Block Mangol Puri,"1. Tilak Ngr. 2. Hari Ngr Depot 3. Zunk Mkt.4 .M.P.Depot  5. Raja Gdn. 6. P,Bagh Club7. P.Bagh 8. Madi Pur Jj Cly. 9.
+Peera Garhi10. B‐Blk Mangol Puri 11. Q‐Blk Mangol Puri",16,15.2,10,12,7,5
+810,Kend.Terminal,Uttam Ngr(T),"1. Kend Trml. 2. Upper Ridge Rd. 3. Shanker Rd.4. West Patel Ngr. 5. Moti Ngr. 6. Raja Garden7. Mukerji Park. 8.
+Tilak Ngr. 9. Idstt. Center10. Uttam Ngr Terminal",11,16.9,10,14,8,6
+814,Uttam Ngr (T),Jal Vihar (T),1. Uttam Ngr  2. C‐1 Janak Puri  3. Desu Cly.4. Lajwanti Garden  5. Kriby Place  6. Signal Officer Flats  7. Rr Line  8. Dh Kuan9. Moti Bagh 10. Naroji Ngr 11. Aiims 12. Andrews Ganj13. Lajpat Ngr. 14. Jal Vihar (T),0,22,15,12,7,5
+816,Malka Ganj,Uttam Nagar(T),"1. Malka Ganj. 2. Shakti Ngr. 3. Gulabi Bagh.4. E‐Blk.Shastri Ngr. 5. Zakhira 6. Moti Ngr.7. Raja Gdn. 8. Mukerji Park
+9. Tilak Ngr 10. Distt. Center 11. Uttam Nagar Terminal",18,18.4,10,15,9,6
+817,Inderlok Metro Station,Najafgarh,"1.Inderlok  Metro  Station.2   Zakhira  3.  Moti  Ngr.4.  Raja  Garden.  5.  Mukherji  Park  6.  Tilak  Ngr.7.  Distt.  Centre  8.
+Uttam Ngr. 9. Nawada10. Kakrola Bridge 11. Nangli Sakrawati 12 Najafgarh",45,15,5,24,14,10
+831,C-1 Janakpuri,Shahdra (T),1.  C-1  Janakpuri  2.  Uttam  Ngr  3.  Distt  Centre  4.  Maj.  B  Singh  Ngr  5.  Sunder  Vihar  6.  Peeragarhi  7.  Mangolpur School 8. C Block Sarswati Vihar 9. Uttri P pura 10. Haiderpur W Works 11. GTK Depot 12. Adarsh Ngr 13. Model Town-2 14. GTB Ngr 15. Old Sectt16.  ISBT 17.  Shyamgiri Mandir 18.  Seelampur 19. Shahdra (T),0,36,15,19,12,7
+832,"Janakpuri D
+Block","Inderlok Metro
+Stn","Janakpuri D Block, DESU Cly, C-2 B Janakpuri, Tilak Ngr, Mukherji Park, Raja Garden, Moti Ng, Zakhira, Inderlok
+Metro Stn",0,14.6,15,8,5,3
+839,ISBT,Vikas Nagar S- block,1. Isbt 2. Ice Factory3. Kishan Ganj Mkt.  4.Daya Basti    5. Zakhira6. Moti Ngr   7. Raja Garden   8. Mukarji  Park 9. Tilak Ngr.  10. Distt. Centre  11.  D‐ Block Vikas Puri 12. Jant Flat Road No‐237 13. Vikas Nagar S‐Block,1,21.4,15,11,7,4
+846,Tilak Nagar,Sultan Puri,"1. Tilak Ngr 2. Hn Depot 3. Zunk Mkt 4. Mpd 5. Raja Garden6. P.Bagh Club 7. P. Bagh 8. Madi Pur Jj Cly 9. Peera
+Garhi Chowk 10. B‐Block Mangol Puri 11. Q‐Block Mangol Puri 12. Sultan Puri",1,21.3,15,11,7,4
+852,Uttam Ngr (T),Ambedkar Stadium,"1. Ambedkar  Std.   2.  Ajmeri  Gate   3. P.S  Pahar Ganj  4. D.B  Gupta  Mkt.   5.R.S.Satsang  6.  W.Patel Nagar  7.. Moti
+Ngr.  8. Raja Garden. Mukarji Park  10. Tilak Ngr.  11. Distt. Centre 12. Uttam Ngr (T)",11,21.4,10,17,10,7
+860,Krishna Ngr,H-3 Vikas Puri,"1   Krishana Ngr 2   Jheel 3   Kishan Kunj 4   Rainy Well 5   Ito  6   Mandi House 7   Regal   8   Kend  ( T) 9   Ridge  Rd
+10    Shanker  Rd    11    West  Patel  Ngr  12    Moti  Ngr  13    Raja  Garden  14    Mukherji  Park  15    Tilak  Ngr  16    Distt Centre 17   C‐Blk Vikaspuri 18   H‐3 Vikas Puri",0,32.5,15,17,10,7
+874,Uttam Nagar Trml,Badar Pur Bdr,1   Uttam Ngr   (T)  2   C‐2b Janak Puri  3   Desu Cly4   Lajwanti Garden  5   Kirby Place  6   Signal Officer Flats  7   Rr Line  8   Dh   Kuan 9   Moti  Bagh  10   Narouji Ngr    11   A  I  I  M  S 12   Andrews Ganj  13   Sant Ngr    14   Kalkaji 15 D Block Okhla  Estate‐Ii  16   Hindustan Steel 17   C  W   Shop‐Ii  18   Parlad Pur  19   Badar Pur Bdr,6,40.7,12,27,16,11
+876,Karampura (T),Dichaon Kalan,"1    Karampura  T    2    Raja  Garden  3    Mukherji  Park  4    Tilak  Ngr  5    Distt  Centre  6    Uttam  Ngr    7    Nawada  8
+Kakrola Bridge 9   Nangli Sakrawati 10   Najaf Garh 11   Dhichow Kalan",1,15,15,8,5,3
+882,Uttam Ngr (T),Holumbi Kalan JJ Cly,"1. Uttam Ngr (T) 2. C Block Vikaspuri 3. Maj. B Singh Ngr 4. Sunder Vihar 5. PG Depot 6. Mangolpur School 7. C
+Block  Sarswati  Vihar  8.  Uttri  P  pura  9.  Haiderpur  W/W  10.  GTK  Bypass  11.  Badli  GT  Rd  12.  Nangli  13.  Pooan Budhpur 14. Alipur 15. Alipur Garhi 16. Minda Farm 17. Holumbi Kalan JJ Cly",0,28,15,15,9,6
+883,I  S  B  T,Uttam Nagar(T),"1   Isbt 2   Old Sectt   3   Gtb Ngr 4   Model Town ‐Ii 5   Adrash Ngr 6   Gtk R Depot 7   Haider Pur W  Works 8   Uttari Pitam  Pura  9    Saraswati  Vihar  C‐Blk   10   Mangol  Pur  School  11    Peera  Garhi  Depot  12    Sunder  Vihar  13,  Mjr
+Bhupender Singh Ngr 14   C‐ Blk Vikas Puri 15   Uttam Ngr",63,28.2,5,45,27,18
+GL-32,Karamprua (T),NOIDA Sec-32 UPR,1. Karampura (T) 2. Shadipur Depot 3. WP Ng 4. Tele Exchange 5. SVV Marg 6. Mandi Marg 7. Shivaji Std 8. Mandi House  9. S Court 10. Pragati Maidan  11. Road  Bridge (E) 12.Pusta  Xing 13.  Mayur Vihar  Ph-1 Xing  14. Hindon Regulator 15. Nayabans 16. Tele Exchange 17. O Block Sec-12 18. NOIDA Sec-33 19. NOIDA Sec-34 UPR (T),13,33,10,26,16,10
+869,N  D  Rly  Station,"Sant Garh(MajBhupi nder
+SinghNagar)",1   N  D   Rly Station 2   P  S Phar Ganj 3   D  B   Gupta Marg 4   R  S   Satsang 5   West Patel Ngr 6   Moti Ngr 7   Raja Garden 8   Mukherji Park 9   Tilak Ngr 10   Distt Centre 11   C‐Blk Vikash Puri 12   Sant Garh (M  B   Sing Ngr ),3,21,15,11,7,4
+857,Anand Vihar (ISBT),"F-
+Blk.Raghubir Nagar","1. Anand Vihar Isbt 2. Hasan Pur Depot 3. Shakar Pur  4. Rainy Well 5. Ito Ring Rd. 6. Delhi Gate 7. Ajmeri Gate8.
+P.S Pahar Ganj 9. D.B. Gupta Mkt. 10. R.S. Satsang.11. W. Patel Ngr 12. Moti Ngr. 13. Raja Garden 14. Guru Dwara Raghubir Ngr 15. F‐Blk Raghubir Ngr",0,28,15,15,9,6
+960,Anand vihar Bus T,Syed Nangloi,1    Vivekanand  Bus  Trminus  2    Hasan  Pur  Depot  3    Shakar  Pur  4    Rainy  Well  5    Ito  Ring  Road  6    Delhi  Gate  7 Ajmeri Gate 8   P  S  Pahar Ganj 9   D  B  Gupta Mkt10   Sarai Rohilla 11   Zakhira 12   P  B  Terminal13   Madi Pur Jj Cly   14   Road No  29/30 Paschim Vihar15   Paschim Vihar W  Tank 16   Nangloi Syed ( Via Ring Road ),0,31.5,15,17,10,7
+850,Najaf Garh,Kend Trml.,"1. Kend. Trml.  2. Uppar Ridge Rd.  3. Shankar Rd.4. R‐Block Rajender Ngr.  5. Toda Pur6. Inder Puri  7. Loha Mandi
+8.  Naraina  Vihar9.  Mp  Depot   10.  Zink  Mkt.   11.  Desu  Cly.12.  Dabri  Vill.   13.  Dwaraka   2&  6  Xing   14.  Madhu Vihar15. Netaji Subash Institute  16. Kakroula Bridge17. Nangli Sakarawati  18. Najaf Garh",0,28.5,15,15,9,6
+414,Nizamuddin Rly.St,Badarpur Border,"1. Nizamuddin Rly.Stn 2. Ashram 3. Lajpat Ngr 4. Mckr Hosp5. Sant Ngr 6. Kalkaj 7. D‐Blk.Ph‐Ii Okhla 8. Hindustan
+Steel9. C/Workshop‐Ii 10. Prahlad Pur 11 Badar Pur Bdr.",1,19.4,15,10,6,4
+588,J.L.N.Stadium,Tilak Nagar,"1. Jln Stadium 2. Lodhi Colony 3. S.J.Airport 4. S.J.Hos‐5. Nauroji Ngr 6. Moti Bagh  7. Dhaula Kuan 8. R.R. Line9.
+Signal Officers Flats 10. Kibri Place 11. Lajwanti Garden12. Tilak Nagar",25,15.1,5,24,14,10
+728,N. D. Rly Station,Najaf Garh,"1. N.D. Rly Gate No‐1  2. Sucheta Kriplani Hospital3. Panch Kunyan Rd 4. Rabinder Rang Sala 5. R. Blk Rajender Ngr
+6. Budh  Janyanti Park 7. Dh. Kuan 8. R.R. Lines 9. Shastri Bazar 10. More Line 11. Prahlad Pur 12. Palam Cly 13. Palam Village 14. Sect 2/6 Xing,  15. N.H.W. Authority 16. S.P.G. Com Plex 17. R.S.S. Dwarka Sect‐19 , 18. Ambrahi Village 19. Goela Dairy20. Goela Village  21. Roshan Pura 22. Najaf Garh",0,42,15,22,13,9
+865,H-3 Vikas Puri,Nehru Place(T),"1    H‐3  Vikash  Puri  2    C‐Blk  Vikash  Puri  3    A‐1  Janak  Puri  4    C‐2b  Janak  Puri  5    Desu  Cly  6    Lajwanti  Garden   7 Kirbi Place 8   Shastri Bazar 9   Rr Line 10   Dh Kuan  11   Moti Bagh ‐I, 12 R  K   Puram ‐I 13   Mohd Pur 14   Aiims 15
+Andrrew Ganj 16   Sant Ngr 17 Nehru Place Terminal",2,32.1,15,17,10,7
+740,Anand Vihar ISBT,Uttam Ngr(T),"1. Anand Vihar Bus T. 2. Hasan Pur (Ppg) 3. Balco Appt.4. Mother Dairy 5. Rainy Well 6. Ito ( Agcr) 7. Mandi House
+8. Krishi Bhawan  9. Kend  Terminal  10. Talkatora Garden11.  Sadhu  Samaj  12. Dh.  Kuan  13. R.R. Lines  14. Shastri Bzr.15. Kirbi Place 16. Lajwanti Garden 17. Desu Cly 18. C‐2b Janak Puri 19. Uttam Ngr T.",30,35.5,5,57,34,23
+761,Mangla Puri,Azadpur(T),"1. Mangla Puri 2. Dabri Village 3. C‐1 Janak Puri 4. Uttam Ngr  5. Distt Centre 6. Mjr B.S. Mngr  7.  Sunder Vihar 8.
+Peera  Garhi 9. Mangol Pur School 10. C‐ Blk Saraswati Vihar 11. J.D. Blk Pitam Pura 12. W.P. Depot 13. Ashok Vihar Xing 14. Azad Pur Terminal",41,25,5,40,24,16
+833,Karampura (T),Goela Dairy,"Karampura (T), Raja Garden, Mukherjee Park, Tilak Nagar, Distt Centre, Uttam Ngr (T), Nawada, Kakrola Bridge,
+Nangli Sakroti, Najafgarh, Goela Vill, Goela Dairy",0,23.4,15,12,7,5
+820,Shivaji Stadium,Subash Nagar,"1. Shivaji Std. 2. Kend Trml. 3. Upper Ridge Road 4. Shanker Rd. 5. West Patel Ngr. 6. Moti Ngr. 7. Raja Garden 8.
+Mukherji Park 9. Subhash Nagar",0,16.8,15,9,5,4
+841,I.S.B.T.,Khyalla Village,"1.  Isbt   2 . Ice Factory 3. Kishan Ganj Mkt.4. Daya Basti   5. Zakhira  6. Moti Ngr  7. Raja Garden 8. Mukarji Park  9.
+Khyala  Vill.",1,12.5,15,7,4,3
+967,Tikri Border,Tilak Nagar,1   Nilak Ngr 2   Distt Centre  3  Uttam Ngr  (T)4   Nawada  5   Kakroula Bridge  6   Nangli Sakrawati 7   Najaf Garh  8 Dichaon Kalan  9  Neelwal Xing 10   Hiran Kudna Vill    11   Hiran Kudna Xing12   Tikri Piao  13   Tikri Border,0,32,15,17,10,7
+842,I.S.B.T.,"F-
+Blk.Raghubir Nagar",1.  Isbt   2 . Ice Factory 3. G. G. S. Marg4. Dev Ngr  5. Radha Swami Satsang  6. West Patel Ngr. 7. Moti Ngr  8. Raja Garden  9.Raghubir Ngr Gurudwara 10. Raghubir Ngr F‐Blk.,1,19.1,15,10,6,4
+972,Bawana,Uttam Nagar(T),"1   Bawana 2   Dhakawala 3   Pooth Khurd 4   Barwala 5   Prehlad Pur 6   Prehlad Vihar 7   Pooth Kalan 8   Mangol Pur  Khurd  9    Mangol  Pur  School10    Peera  Depot  11    Sunder  Vihar  12    Maj  Bhupinder  Singh  Ngr    13    Distt
+Center14   Uttam Nagar Terminal",3,25.7,15,14,8,6
+982,New Seema Puri,Sultan Puri,"1. New  Seema  Puri   2.Dilshad Gdn   3. Shahdra   4. Seelam  Pur   5. Shastri Park    6. Isbt7. Old Sectt   8. Gtb  Ngr   9. Model Town‐I  10. Adarsh Ngr,11. Gtk Depot  12. Hader Pur W.Tank   13. Uttri Pitam Pura14.C‐Blk.Saraswati Vihar
+15. Mangol Pur School  16. Mangol Pur Khurd  17. Q‐Blk Mangol Puri   18. Sultan Puri,",32,35,5,56,34,22
+RL‐76,Rly Stn,Janakpuri D Block,"Rly Stn, Red Fort, Delhi Gate, Mandi House, ND Rly Stn G-1, PS Paharganj, Dev Ngr, RS Satsang, WP Ngr, Moti Ngr, Raja Garden, Mokherji Park, Tilak Ngr, C-2B Janakpuri, DESU Cly, Janakpuri D Block",0,28,15,15,9,6
+"852
+Sttl",Karol Bagh (T),"Hari Nagar
+Clock Tower","Karol  Bagh  (T),  DB  Gupta  Mkt,  RS  Sang,  WP  Ngr,  Moti  Ngr,  Raja  Garden,  Mukherji  Park,  Tilak  Ngr,  Hari
+Nagar Clock Tower",0,14.7,15,8,5,3
+823,Kauria Bridge,Uttam Nagar Tml,"1. Kauria Bridge  2. Mori Gate / Isbt 3. Ice Factory 4. Kishan Ganj Mkt.  5.Daya Basti   6. Zakhira7. Moti Ngr  8. Raja
+Garden  9. Mukarji Park10. Tilak Ngr.  11. Distt. Centre  12.  Uttam Ngr (T)",13,15.4,10,12,7,5
+856,Kamla Market,Subhash Nagar,"1. Kamala Mkt 2. P.S. Pahar Ganj.3. D.B. Gupta Mkt.4. R.S Satsang. 5. W. Patel Ngr. 6. Moti Ngr 7. Raja Garden8.
+Mukherji Park 9. Subhash Ngr",0,16.6,15,9,5,4
+,,,Total Buses,455,,,890,533,357
+Cluster ‐ 9,,,,,,,,,
+RT.NO.,From,To,Fare Stage,"Actual STA
+Buses",Route length,Frequency,"No. of buses
+required","DTC Sch.
+Buses(60%)","DIMTS Sch.
+Buses(40%)"
+11,Kalyan Vihar,Jama Masjid,1. Jama Masjid 2. O.D.Rly Station 3. Mori Gate 4. Ice Factory 5. Clock Tower 6. Rp Bagh 7. Kalyan Vihar,0,8.9,15,5,3,2
+17,Old Delhi Rly.Stn.,Mohd.Ramzan Pur,"1. O.D.Rly.Station 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Rp Bagh 6. Bara Bagh 7. Adarsh Ngr 8. Gt K Depot  9.  Badli  Xing  Gt  Road  10.  Nangli  Poonam  11.  Budh  Pur  12.  Alipur  13.  Jind  Pur  14.  Hiranki  15.  Mohd.  Pur
+Ramjan Pur.",0,30.5,15,16,10,6
+61,G.T.B.NGR.,"Jharoda
+Village",1. Gtb Ngr 2. Nirankari Cly. 3. Jhoroda Village Xing 4. Jharoda Village Chowk.,0,9.8,15,5,3,2
+100,Kend.Terminal,Adarsh Nagar,"1.  Kend  .(T)  2.  Regal  3.  Shivaji  Std.4.  Chitra  Gupta  Road  5.  Master  Prathvi  Nath  Marg  /Faiz  Rd.  6.  Ice  Factory  7.
+Clock Tower 8. Maurice Ngr. 9. Gtb Ngr. 10. Model Town‐Ii 11. Adarsh Ngr.",12,15.1,10,12,7,5
+102,Old Dly.Rly.Station,Rohini Sect-22 (Lakhi Ram Park),"1. O.D. Rly. Stn. 2. Mori Gate /Isbt 3. Ice Factory 4. Clock Tower 5. Rp Bagh 6. Bara Bagh 7. Ashok Vihar Xing 8. W.P. Depot‐I 9. Jd‐Blk Pitam Pura 10. Rohini Sec‐7,8,9,Xing 11. Rohini Sec‐Vi (T) 12. Nala (Gas Plant) 13. Sec‐25 (Azad Chowk Main Rd ) 14. Rohini Sec‐23 15. Rohini Sec‐20 Jj Cly. 16. Rohini Sc‐22(Lakhi Ram Park )",0,29,15,15,9,6
+103,Fateh Puri,Narela,"1. Fateh Puri 2. Isbt/ Mori Gate 3. Old Sectt 4. Gtb Ngr 5. Mofel Town ‐Ii 6. Adarsh Ngr 7. Gtk Depot 8. Badli Xing Gt Rd 9. Nangli Poonam 10. Budh Pur 11. Alipur 12. Alipur Garhi 13. Arbindo Farm 14. Shahpur Garhi 15. Bhor Garh
+16. Narela",11,31.3,10,25,15,10
+104,Shivaji Stadium,Jharoda Village,"1.  Shivaji  Stadium  2.  Mandi  House  3.  Delhi  Gate  4.  Red  Fort  5.  Isbt  6.  Old  Sectt  7.  Gtb  Ngr  8.  Nirankari  Cly  9.
+Jharoda Cly.",0,17.5,15,9,6,3
+106,Fateh Puri,Qutab Garh Border,"1. Fateh Puri 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Rp Bagh 6. Bara Bagh 7. Adarsh Ngr 8. Gtk Depot9. Haider Pur W/ Works 10. Esi Hospital 11. Rohinisec‐18 12. Shahbad Daulat Pur 13. Shahbad Dairy 14. Prehlad Pur
+15. Barwala 16. Dpooth Khurd 17. Dhake Wala 18. Bawana 19. Dariya Pur 20. Auchandi Vill. 21. Auchandi Bdr. 22.
+Mangesh Pur 23. Qutab Garh 24. Qutab Garh Bdr.",15,45.4,5,73,44,29
+107,Fatehpuri / Azadpur,Katewara Village,"Fatehpuri, Mori Gate / ISBT, STA Office, Old Sectt, GTB Ngr, Model Town-2, Adarsh Ngr, GTK Depot, Rohini Sec-18, Shahbad Daulatpur, Shahbad Dairy, Perhladpur, Barwala, Poothpur, Dhakewala, Bawana, Dariyapur,
+Bajitpur, Katewara Village",0,39.5,15,21,13,8
+109,Rly Station/Azadpur,Bankner Village,"1. Fateh Puri 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Rp Bagh 6. Bara Bagh 7. Adarsh Ngr 8. Gtk Depot 9. Badli  Xing  Gt.Road  10.  Nangli  Poonam  11.  Budh  Pur  12.  Alipur  13.  Alipur  Garhi  14.  Arvind  Farm  15.  Shah  Pur
+Garhi16. Bohar Garh 17. Narela 18.Bankner Village",4,22,15,12,7,5
+112,Fateh Puri,Shaffiabad Border,"1. Fateh Puri 2. Isbt/Mori Gate 3. Old Sectt 4. Gtb Ngr 5. Model Town‐Ii 6. Adarsh Ngr 7. Gtk Depot 8. Badli Gt Rd.
+9. Nangli Poonam 10. Budh Pur 11. Alipur 12. Alipur Garhi  13. Arvindo Farm 14. Shahpur Garhi 15. Bhor Garh 16. Narela 17. Shafiabad Xing 18. Safiabad Bdr.",4,34.5,15,18,11,7
+113,Fateh Puri,Sannoth Village,"1. Fateh Puri 2. Isbt/Mori Gate 3. Old Sectt 4. Gtb Ngr 9. Esi Hospital 10. Rohini Sec‐16 11. Shahbad Daulat Pur 12. Shahbad  Dairy 13. Prehlad Pur  14. Barwala 15. Pooth  Khurd  16. Dhake Wala 17. Bawana 18. Ghoga  A.F.Stn. 19.
+Sanoth Xing 20. Sanoth Village",0,37.2,15,20,12,8
+114,Fateh Puri,Qutab Garh/Q.G.Bor der,"1. Fateh Puri 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Maurice Ngr 6. Gtb Ngr 7. Model Town‐Ii 8. Ashok Vihar Xing 9. W.P. Depot ‐I 10. Jd Blk Pitam Pura 11. C‐Blk Saraswati Vihar 12. Mangol Pur School 13. Mangol Pur Khurd 14. Pooth Kala 15. Begam Pur 16. Karala 17. Kanjhawala 18. Lad Pur 19. Jounti 20. Punjab Khor 21. Qutab
+Garh 22. Qutab Garh Bdr",14,41.6,10,33,20,13
+117,"Old Delhi Rly.
+Stn.",Bhalsva JJ Coly,1.  Rly.  Station  2.  Mori  Gate/  Isbt  3.  Ice  Factory  4.  Kishan  Ganj  Dispensary  5.  Gulabi  Bagh  6.  Bharat  Ngr.  Xing  7. Wazir Pur Jj Cly. 8. Ashok Vihar W/Tank 9. Ashok Vihar Xing 10. Adarsh Ngr. 11. Gtk Depot 12. Balswa Jj Cly.,0,17,15,9,5,4
+119,Fateh Puri,Bajit Pur Village,"1. Fateh Puri 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Rp Bagh 6. Bara Bagh 7. Adarsh Ngr 8. Gtk Depot 9. Rohini Sec‐18 10. Shahbad Daulat Pur 11. Shahbad Dairy 12. Prehlad Pur 13. Barwala 14. Pooth Khurd 15. Dhake
+Wala 16. Bawana  17. Dariya Pur 18. Bajit Pur.",1,35.3,15,19,11,8
+120,Kend.Terminal,Narela,"1. Kend Terminal 2. Patel Chowk 3. Mandi House 4. Delhi Gate 5. Shanti Van 6. Yamuna Bzr 7. Isbt 8. Old Sectt 9. Gtb  Ngr  10.  Model  Town‐Ii  11.  Adarsh  Ngr  12.  Gtk  Depot  13.  Badli  Gt  Rd  14.  Nangli  Poonam  15.  Budh  Pur  16.
+Alipur 17. Bakouli 18. Kham Pur 19. Singhola 20. Singhu Bdr 21. Pithory 22. Narela .",3,44.6,15,24,14,10
+123,Mori Gate T.,Harewali Border,"1.Mori Gate 2. Ice Factory 3. Maurice Nagar4 GTB Nagar 5. Model Town ‐II 6 Adrash Nagar 7. Gtk Depot 8. Haider Pur  W/Works  9.  Vidya  Vihar  Marg  Xing  10.  D‐2  Pkt  Rohini  S‐15  11.  Rohini  Sec‐16.  12.  Shahbad  Daulat  Pur  13. Shahbad Dairy 14. Prehlad Pur 15. Barwala 16. Pooth Khurd 17. Dhakewala 18. Bawana 19. Darya Pur 20. Harewali
+Vill. 21. Harewali Bdr.",0,31,15,17,10,7
+124,Fateh Puri,Mukhmel Pur,1. Fateh Puri 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Maurice Ngr 6.Gtb Ngr 7. Model Town‐Ii 8. Adarsh Ngr 9. Gtk Depot 10. Badli Gt Rd. 11. Nangli Poonam 12. Budh Pur 13. Alipur 14. Jind Pur 15. Mukhmelpur.,1,28.9,15,15,9,6
+125,Fateh Puri,Palla,"1. Fateh Puri 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Rp Bagh 6. Bara Bagh 7. Adarsh Ngr 8. Gtk Depot 9.. Badli Gt Rd. 10. Nangli Poonam 11. Budh Pur 12. Alipur  13. Bakouli Xing 14. Bakhtawer Pur School 15. Bakhtawer
+Pur Vill. 16. Akber Pur Majra 17. Palla.",14,30.9,10,25,15,10
+126,Fateh Puri,Badli,"1. Fateh Puri 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Maurice Ngr 6.Gtb Ngr 7. Model Town‐Ii 8. Adarsh
+Ngr 9. Gtk Depot 10. Badli Gt Village.",0,18.1,15,10,6,4
+127,Fateh Puri,Haiderpur Village,"1. Fateh Puri 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Rp Bagh 6. Bara Bagh 7.Shalimar Bagh Xing 8. Ae‐
+Shalimar 9. Bh‐Blk Shalimar Bagh 10. Haider Pur Village.",10,12.6,12,8,5,3
+128,Mori Gate (T),Khera Khurd,"1. Mori Gate/Isbt 2. Ice Factory 3. Clock Tower 4. Rp Bagh 5. Bara Bagh 6. Adarsh Ngr 7. Gtk Depot8. Badli Gt Rd.
+9. Nangli Poonam 10 . Khera Kalan 11. Khera Khurd.",0,21.3,15,11,7,4
+129,Fatehpuri / Azadpur,Jhingola Village,"Fatehpuri, Mori Gate, Ice Factory, Clock Tower, RP Bagh, Barabagh, Adarsh Ngr, GTK Depot, Badli GT Rd, Nangli Ponam, Budhpur, Alipur, Bakoli Xing, Bhaktawarpur Sch, Bhatawar Vill, Akbarpur Majara, Jhingola",0,31.3,15,17,10,7
+131,Fateh Puri,Lampur Border,"1. Fateh Puri 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Rp Bagh 6. Bara Bagh 7. Adarsh Ngr 8. Gtk Depot 9.. Badli Gt Rd. 10. Nangli Poonam 11. Budh Pur 12. Alipur 13. Bakouli  14. Kham Pur 15. Singhola 16. Singhu Bdr  17.
+Desu Cly 18. Narela 19. Bakner 20. Lampur Bdr.",23,35.8,5,57,34,23
+133,Mori Gate(T),Narela,"1. Mori Gate/Isbt 2. Ice Factory 3. Clock Tower 4. Rp Bagh 5. Bara Bagh 6. Adarsh Ngr 7. Gtk Depot 8. Rohini Sec‐18
+9. Shahbad Daulat Pur 10. Shahbad Dairy 11. Prehlad Pur 12. Barwala 13. Pooth Khurd 14. Dhake Wala 15. Bawana
+16. Ghoga Air Force Station 17. Sanoth Xing 18. Vishal Bagh 19. Narela .",12,37.5,10,30,18,12
+135,Delhi Sectt,Narela,"1. Delhi Sectt. 2. Delhi Gate 3. Shanti Van 4. Yamuna Bzr 5. Isbt 6. Old Sectt 7. Gtb Ngr 8. Model Town‐Ii 9. Adarsh
+Ngr 10. Gtk Depot 11. Badli Gt Rd 12. Nangli Poonam 13. Budh Pur 14. Alipur 15. Alipur Garhi 16. Arvind Farm 17. Shahpur Garhi 18. Bhore Garh 19. Narela.",2,30,15,16,10,6
+136,Rly Station/Azadpur,Ghoga Village,"1.Rly Station 2. Mori Gate/ISBT 3. Ice Factory 4. Clock Tower 5. R.P. Bagh 6. Bara Bagh 7. Adarsh Ngr 8. Gtk Depot
+9. Badli Gt Rd. 10. Nangli Poonam 11. Budh Pur 12. Alipur 13. Bakouli 14. Kham Pur 15. Singhola 16. Singhu Bdr 17. Desu Cly 18. Narela 19. Vishal Bagh 20. Sanoth Xing 21. Ghoga  Village",2,27.9,15,15,9,6
+137,Fateh Puri,Holumbi Kalan,"1. Fateh Puri 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Maurice Ngr 6.Gtb Ngr 7. Model Town‐Ii 8. Adarsh
+Ngr  9.  Gtk  Depot  10.  Badli  Gt  Rd.  11.  Nangli  Poonam  12.  Khera  Kala  13.  Khera  Khurd  14.  Holambi  Khurd  15. Holambi Kalan",4,29.7,15,16,10,6
+138,Fateh Puri,Hamid Pur,"1. Fateh Puri 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Rp Bagh 6. Bara Bagh 7. Adarsh Ngr 8. Gtk Depot 9..
+Badli Gt Rd. 10. Nangli Poonam 11. Budh Pur 12. Alipur 13. Bakouli  14. Hamid Pur.",1,26.7,15,14,9,5
+139,Shivaji Stadium,Bhalswa Cluster,"1.  Shivaji  Satdium  2.  Mandi  House  3.  Delhi  Gate  4.  Shanti  Van  5.  Yamuna  Bzr.  6.  Isbt  7.  Old  Sectt  8.  Gtb  Ngr  9.
+Model Town‐Ii 1. Adarsh Ngr 11. Jahangir Puri K‐Blk. 12. Bhalswa Cluster",0,22.7,15,12,7,5
+142,ISBT,"E Block
+Jhagirpuri","ISBT, Ice Factory, Kishanganj Dispensary, Gulabi Bagh, Bharat Ngr Xing, Wazirpur JJ Cly, Ashok Vihar W/T, Ashok
+Vihar Xing, Adarsh Ngr, E Block Jhagirpuri",12,17.7,10,14,8,6
+144,Fatehpuri,"Shingu
+School","Fatehpuri, Mori Gate / ISBT, Ice Factory, Clock Tower, RP Bagh, Bara Bagh, Adarsh Ngr, GTK (D), Badli GT Rd,
+Nangli Ponam, Budhpur, Alipur, Bakoli, Khampur, Singhola, Shingu School",11,31.5,10,25,15,10
+146,Fatehpuri / Azadpur,Hiranki Village,"Fatehpuri, Mori Gate / ISBT, Ice Factory, Clock Tower, RP Bagh, Bara Bagh, Adarsh Ngr, GTK Depot, Badli GT Rd, Nangli Ponam, Budhpur, Alipur, Bakoli Xing, Bakhtawarpur School, Bakhtawar-pur Vill, Mohd Pur, Hiranki Village",1,29.1,15,16,9,7
+147,"Fatehpuri /
+Azadpur",Tiggipur,"Fatehpuri, Mori Gate / ISBT, Ice Factory, Clock Tower, RP Bagh, Bara Bagh, Adarsh Ngr, GTK Depot,Badli GT Rd,
+Nangli Ponam, Budhpur, Alipur, Bakoli Xing, Bakhtawarpur School, Bakhtawar-pur Vill, Tiggipur",1,29.1,15,16,9,7
+148,Fateh Puri,Tikri Khurd,1. Fateh Puri 2. Mori gate/ISBT 3. Ice Factory 4. Clock Tower 5. R.P.Bagh 6. Bara Bagh 7. Adarsh Ngr 8. Gtk Depot 9. Badli Xing Gt Road 10. Nangli Poonam 11. Budh Pur12. Alipur 13. Bakouli Xing 14. Khampur 15. Tikri Khurd.,1,25.5,15,14,8,6
+149,Fateh Puri,Tajpur Kalan Village,"1. Fateh Puri 2. Mori gate/ISBT 3. Ice Factory 4. Clock Tower 5. R.P.Bagh 6. Bara Bagh 7. Adarsh Ngr 8. Gtk Depot 9. Badli  Xing  Gt  Road  10.  Nangli  Poonam  11.  Budh  Pur12.  Alipur  13.  Bakouli  Xing  14.Bakhtawer  Pur  School
+15.Bakhtawer Pur 16. Taj Pur Kalan",0,19,15,10,6,4
+154,Mori Gate,Dahisara Border,"1. Mori gate T. 2. Ice Factory 3. Clock Tower 4. R.P.Bagh 5. Bara Bagh 6.Adrash Nagar 7.Gtk Depot 8. Badli Xing Gt Road 9. Nangli Poonam 10. Budh Pur 11. Alipur 12 Bakoli Xing 13. Bakhtawer Pur School 14 Baktwer Pur. 15.Akbar
+Pur Majra 16. Palla Xing 17. Dehisara Bdr.",0,31,15,17,10,7
+158,Azad  Pur,Ghoga Village,"1.  Azad  Pur  2.  Adarsh  Ngr  3..Gtk  Depot  4.  Badli  Xing  Gt  Rd.  5.  Nangli  Poonam  6.Khera  Kalan  7.  Khera  Khurd  8.
+Holumbi Khurd 9.Holumbi Kalan 10. Sanoth Xing 11. Ghoga Village",0,23.6,15,13,8,5
+161,Fateh Puri,Sultan Pur Dabas,"1. Fateh Puri 2. Mori gate/ISBT 3. Ice Factory 4. Clock Tower 5. R.P.Bagh 6. Bara Bagh 7. Adarsh Ngr 8. Gtk Depot 9. Hedarpur  W.W. 10.Esi Hospital Rohini 11. Rohini Sect‐16 12.Shah Bad Daulat Pur 13. Shahbad  Dairy 14. Prahlad
+Pur 15. Bawala 16. Pooth Khurd 17. Sultan Pur Dabas",0,22.9,15,12,7,5
+167,Shivaji Stadium,"Uttri
+Pritampura","Shivaji Std, Mandi House, Delhi Gate, Shantivan, Jamuna Bazar, ISBT, Old Sectt, GTB Ngr, Model Town-II, Ashok
+Vihar Xing, Wazirpur Depot, KD Block Morya Enclv, Uttri Pritampura",0,21.2,15,11,7,4
+171,Shivaji Stdm.,Holumbi Kalan JJ colony,"1.  Shivaji  Stadium  2.  Minto  Road  3.  Delhi  Gate  4.  Red  Fort  5.  Isbt  6.  Old  Sectt  7.  Gtb  Ngr  8.  Model  Town  ‐Ii  9. Adarsh Ngr 10. Gtk Depot 11. Badli Gt Road 12. Nangli Poonam 13. Budh Pur 14. Alipur 15. Ali Pur Garhi 16. Minda
+Farm 17. Holambi Khurd 18. Holambi Kaln 19. Jj Cly Holambi Kalan.",0,34,15,18,11,7
+172,New Delhi Rly.Stn.,Holumbi Khurd.JJ colony,"1. N.D Rly Stn Gate‐Ii 2. Delhi Gate 3.   Red Fort 4. Isbt 5 . Ice Factory 6. Clock Tower 7. Rp Bagh 8. Bara Bagh 9. Adarsh Ngr 10. Gtk Depot 11. Badli Gt Rd. 12. Nangli Poonam 13. Khera Kaln 14. Khera Khurd 15. Holumbi Khurd
+16. Holumbi Khurd Jj Cly.",1,30,15,16,10,6
+173,J.l.Nehru Stadium/G.T.B NGR,A-5/6 Narela,"1. J.L.Nehru Stadium 2. Bharti Ngr 3. Shahjahan Rd 4. Supreme Court 5. Delhi Gate 6. Shanti Van 7. Jamuna Bzr 8. Isbt 9. Old Sectt 10. Gtb Ngr 11. Model Town ‐Ii 12. Adarsh Ngr 13. Gtk Depot 14. Badli Gt Rd 15. Nangli Poonam
+16. Budh Pur 17. Alipur 18. Bakouli Xing 19. Kham Pur  20. Tikri Khurd 21. A‐7 Xing Narela 22. A‐9 Narela 23. A‐5/6
+Narela",0,42,15,22,13,9
+174,AzadPur,Kanjhawla,"1.Azadpur 2. Ashok Vihar Xing 3. Wpd 4.Jd Blk Pittampura 5. C‐Blk Saraswati Vihar 6. Mangolpur School 7. Mangol
+Pur Khurd 8. Pooth Kalan 9. Begam Pur 10. Karala 11. Kanjawala.",0,21.1,15,11,7,4
+175,Fatehpuri,Lampur Border,"Fatehpuri, Mori Gate / ISBT, Ice Factory, Clock Tower, RP Bagh, Bara Bagh, Adarsh Ngr, GTK (D), Badli GT Rd, Nangli  Ponam,  Budhpur,  Alipur,  Alipur  Garhi,  Arvind  Farm,  Shahpur  Garhi,  Bhore  Garh,  Narela,  Bakner,  Lampur
+Border",7,33.3,12,22,13,9
+179,Azadpur (T),Narela,"1.  Azadpur  2.  Adarsh  Ngr  3.  GTK  D  4.  Badli  GT  Rd  5.  Nangli  Ponam  6.  Khera  Kalan  7.  Khera  Khurd  8.  Holumbi  Khurd  9.
+Holumbi Kalan 10. Shahpur Garhi 11. Bhore Garh 12. Narela",0,24.8,15,13,8,5
+183,Old Delhi Rly.Stn.,"A-I,Rhn
+Sec.18","1. Rly Station 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Rp Bagh 6. Bara Bagh 7. Shalimar Xing 8. Ae‐Blk Shalimar  Bagh  9.  Bh‐Blk  Shalimar  Bagh  10  .Haider  Pur  11.  Haider  Pur  W/Works  12.  Vidya  Vihar  Marg  Xing  13.
+Rohini Sec‐18.",6,15.3,12,10,6,4
+188,Kend.Terminal,Qutab Garh,"1. Kend Terminal 2. Patel Chowk 3. Mandi House 4. Delhi Gate 5. Shanti Van 6. Yamuna Bzr 7. Isbt 8. Old Sectt 9. Gtb Ngr 10. Model Town‐Ii 11. Adarsh Ngr 12. Gtk Depot 13. Rohini Sec‐18 14. Shahbad Daulat Pur 15. Shahbad Dairy 16. Prehlad Pur 17. Barawala 18. Pooth Khurd 19. Dhake Wala 20. Bawana 21. Dariya Pur 22. Auchandi Vill.
+23. Auchandi Bdr 24. Mangesh Pur 25. Qutab Garh.",0,52.8,15,28,17,11
+191,Mori Gate (T),Harewali Village,1. Mori Gate 2. Old Sectt 3. Gtb Ngr 4. Model Town‐Ii 5. Adarsh Ngr 6. Gtk Depot 7. Haider Pur W/Works 8. Esi Hosp. Rohini  9. Sec‐16 Rohini  10. Shahbad  Daulat Pur  11. Shahbad  Dairy 12. Prehlad  Pur  13. Barwala  14. Pooth Khurd 15. Dhake Wala 16. Bawana 17. Dariya Pur  18. Harewali Xing 19. Harewali Village.,0,37.5,15,20,12,8
+193,Mori Gate (T),Narela Terminal,"1. Mori Gate 2. Old Sectt 3. Gtb Ngr 4. Model Town ‐Ii 5. Adarsh Ngr 6. Gtk Depot 7. Badli Gt Rd 8. Nangli Poonam
+9. Budh Pur 10. Alipur 11. Bakauli 12. Kham Pur 13. Singhola 14. Singhu Bdr 15. Narela A/5‐6 16. Satyavadi Raja Harish Chander Hosp.17. Narela Terminal.",0,31.9,15,17,10,7
+194,Fateh Puri,Bakoli Temple,"1. Fateh Puri 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Rp Bagh 6. Bara Bagh 7 Adarsh Ngr 8. Gtk Depot 9.
+Badali Xing G. T. Rd. 10. Nangli Poonam 11. Budh Pur 12. Ali Pur 13.Bakoli Temple",1,24,15,13,8,5
+197,Old Delhi Rly.Stn.,"Raja Pur Prashant
+Vihar",1. O.D.Rly Station 2. Mori Gate/Isbt 3. Ice Factory 4. Clock Tower 5. Maurice Ngr 6. Gtb Ngr 7. Model Town‐Ii 8. Ashok Vihar Xing 9. Wp Depot‐I 10. Kd Blk Maurya Enclave 11. Raja Pur (Prashant Vihar ),0,15.2,15,8,5,3
+199,Kamla Market,Yadav Nagar,"1. Kamla Mkt. 2. Delhi Gate 3. Shanti Van 4. Yamuna Bzr 5. Isbt 6. Old Sectt 7. Gtb Ngr 8. Model Town‐Ii 9. Adarsh
+Ngr  10. Gtk Depot 11. Badli Gt Rd 12. Yadav Ngr.",0,23.3,15,12,7,5
+988,Palika Kendra,Qutab Garh,"Palik  Kendra,  Kend  (T), RML  Hosp,  Mandir  Marg,  Jhandewalan,  GGS  Marg,  Sarai  Rohilla,  Zakhira,  PB  (T), Wazirpur (D), JD Block Pitampura, Rohini Sec-7 / 8 Xing, Vidhya Vihar Marg, Pkt D-2/15 Rohini, Rohini Se-16, Shahbad  Daulatpur,  Shahbad  Dairy,  Perhladpur,  Barwala,  Pooth  Khurd,  Dhakewala,  Bawana,  Dariyapur,
+Bajitpur, Katewara, Qutab Garh",0,47,15,25,15,10
+114a,Jat Khor,Azad Pur,"1.Azad Pur 2. Ashok Vihar Xing 3. W.P. Depot ‐I  4. Jd Blk Pitam Pura 5. C‐Blk Saraswati Vihar 6. Mangol Pur School
+7. Mangol Pur Khurd 8. Pooth Kala 9. Begam Pur 10. Karala 11. Kanjhawala 12. Lad Pur 13. Jounti 14. Jat Khor",0,29,15,15,9,6
+114B,Azadpur,Rama Vihar,"1. Ashok Vihar Crossing, 2. Wazirpur Depot, 3. Mangolpur, 4. Budh Vihar",0,16.2,15,9,5,4
+144a,Singhu Border,Kamla Mkt,"Shingu Border, Shingola, Khampur, Bakouli, Alipur, Budhpur, Nangli Ponam, Badli GT Rd, GTK Depot, Adarsh Ngr, Ashok Vihar Xing, B -3 Keshavpuram, Shastri Block E Block, Sarai Rohilla, DBGupta Mkt, PS Paharganj, Kamla Mkt",2,36.5,15,19,12,7
+174stl,Azadpur (T),Jyonti Border,1.  Azadpur  2.Ashok  Vihar  Xing  3.  WP  Depot  4.  JD  Block  Ppura  5.  C  Block  Sarswati Vihar  6.  Mangolpur  School 7.Mangolpur Khurd 8. Pooth Kalan 9. Begumpur 10. Karala Kanjhawla 11. Ladpur 12. Jyonti 13. Jyonti Border,0,29,15,15,9,6
+145,Nehru Vihar,Rohini Sec-18,"Nehru Vihar, BR Hosp, GTB Ngr, Model Town-2, Adarsh Ngr, GTK Depot, Rohini Sec-18",0,14.8,15,8,5,3
+141,Fatehpuri,Rithala Village,"1.Mori  Gate/  ISBT,  2.  Ice  Factory,  3.  Partap  Nagar,  4.  Shastri  Nagar,  5.  Kanhaiya  Nagar,  6.  Prem  Badi  Pul,  7.  CD
+Block Pitam pura, 8. Power House, 9. Madhuban Chowk, 10. Rohini Sec 7/8, 11. Rithala",0,22.9,15,12,7,5
+981,Narela,Tikri Bdr,"1.  Vishal  Bagh,  2.  Sanoth  Crossing,  3.  Ghoga  Air  Force  Station,  4.  bawana,  5.  Bazit  pur  Crossing,  6.  Prem  Pio,  7. Majra Dabas, 8. Chand pur, 9. Kanjhawala School, 10. Ghewra Village, 11. Tikri Piao, 12. Tikri Border.",0,26.4,15,14,8,6
+134,ISBT,Ibrahimpur,"1. ISBT, 2. Ice Factory, 3. Clock Tower, 4. Maurice Nagar, 5. GTB Nagar, 6. Model Town ‐ II, 7. Adarsh Nagar, 8. Gtk
+Depot, 9. GT Road, 10. Nangli Poonam, 11. Qadi Pur, 12. Ibrahim pur",0,22.5,15,12,7,5
+,,,Total Buses,176,,,1066,640,426
+Cluster ‐ 10,,,,,,,,,
+RT.NO.,From,To,Fare Stage,"Actual STA
+Buses",Route length,Frequency,"No. of buses
+required","DTC Sch.
+Buses(60%)","DIMTS Sch.
+Buses(40%)"
+122,Alipur,Nangloi,"Nangloi,  Mundka,  Hirankunda,  Ghewra  Xing,  Kanjhawala  Sch,  Kanjhawala,  Chandpur,  Prem  Pio,  Bajitpur
+Xing,  Bawana,  Dhakewala,  Pooth  Khurd,  Barwala,  Perhladpur,  Saruti  Farm  House,  Dhanjit  Sch,  Khera Khurd, Holumbi Khurd, Holumbi Kalan, Arvind Farm, Alipur Garhi, Alipur",0,40,15,21,13,8
+182,Old Delhi Rly.Stn.,Rithala,"1. O.D.Rly Station 2. Mori Gate/Isbt 3. Ice Factory 4. Kishan Ganj Mkt 5. Daya Basti 6. Zakhira 7. P.B.Terminal 8. Mahendra Park 9. Saraswati Vihar 10. Mangol Pur School 11. Avantika 12. Rohini Sec‐3,4,5,6 Xing 13. Rithala.",0,24.1,15,13,8,5
+219,Rly.Station,Nangloi,"1. Rly Station 2. Isbt/ Mori Gate 3. Ice Factory 4. K.G.Mkt. 5. Daya Basti 6. Zakhira 7. P.B. Terminal 8. Madi Pur Jj Cly
+9. Peera Garhi 10. Jwala Puri 11. Nangloi .",12,19.9,10,16,10,6
+232,Rly.Station,B.Block Mangol Puri,"1. Rly Station 2. Isbt/Mori Gate 3. Ice Factory 4.Kishan Ganj Market 5. Daya Basti 6. Zakhira 7. P.B.Terminal 8. Madi
+Pur Jj Cly 9. Peera Garhi 10. B‐Blk Mangol Puri",0,18.6,15,10,6,4
+233,Railway Station,Syed Nangloi,"1. Rly Station 2. Isbt/Mori Gate 3. Ice Factory 4. Gg Singh Marg 5. Sarai Rohilla 6. E‐Blk Shastri Nagar 7. Zakhira 8.
+P.B.Terminal 9. Madi Pur Jj Cly 10. Road No 29/30 Xing 11. Paschim Vihar W/Tank 12. Guru  Hari Kishan Ngr 13. Nangloi Syed.",0,21.2,15,11,7,4
+254,Babar Pur Extn.,Nangloi JJ CLY,"1. Babar Pur Extn 2. C‐4 Yamuna Vihar 3. Bhajan Pura  4. Nanak Sar 5. Jagat Pur 6. Burari Xing 7. Mukand Pur 8.8. Gtk  By  Pass  9.  Haider  Pur  W/Works  10.  Uttari  Pitam  Pura  11.  C‐Blk  Saraswati  Vihar  12.  Mangol  Pur  School  13.
+Peera Garhi 14. Jwala Puri 15. Nangloi Jj Cly No. ‐2.",41,29.5,5,47,28,19
+568,S.J.Terminal,Mangolpuri Q.Block,"1. S.J.Terml 2. S.J.Hospital 3. Nauroji Ngr 4. Moti Bagh 5. Dhaula Kuan 6. R.R.Line 7. Barar Square 8. Naraina Vill.9.
+Mpdepot  10. Raja Garden  11. Pun.Bagh Club 12. P.B.Trl.13. Madipur Jj Colony 14. Peera Garhi 15. B‐Blk.Mangol Puri16. Q.Blk Mangolpuri",11,28.6,10,23,14,9
+569,S.J.Terminal,Sultanpuri D- Blk,"1. S.J.Terml 2. S.J.Hospital 3. Nauroji Ngr 4. Moti Bagh 5. Dhaula Kuan 6. R.R.Line 7. Barar Square 8. Naraina Vill.9. Mpdepot 10. Raja Garden 11. Pun.Bagh Club 12. P.B.Trl.13. Madipur Jj Colony 14. Peera Garhi 15. Jwala Puri 16.
+Nangloi 17. Sultanpuri D‐Block",13,29.6,10,24,14,10
+849,Tilak Nagar,Nangloi JJ Cly.,"1. Tilak Ngr 2. Hn Depot 3. Beri Wala Bagh 4. Mp Depot 5. Raja Garden 6. P.B. Club 7. P. Bagh T. 8. Madi Pur  Jj
+Cly9. Peera Garhi 10 Jawala Puri 11. Nangloi Jj  Cly",2,18.4,15,10,6,4
+902,Rly  Station,Shakurpur JJ Cly,"1   Rly Station 2   Mori Gate/ Isbt 3   Ice Factory 4   G  G   Singh Marg 5   Sarai Rohilla 6   E‐Blk Shastri Ngr 7   Zakhira
+8   P   Bagh T   9   Sakoor Pur Jj Cly",0,12.9,15,7,4,3
+903,R-Blk  New Rajind,Sultan Puri,"1    R    Blk New  Rajinder Ngr  2, W    Patel Ngr  3    Moti Ngr   4    Zakhira 5    P    Bagh  T    6    Madi Pur  Jj Cly 7    Peera
+Garhi Chowk 8   B‐Block Mangol Puri 9 Q‐Block Mangol Puri 10 sultan Puri",0,19,15,10,6,4
+906,West Enclave,I  S  B  T,"1   Isbt 2  Ice Factory 3   Gg Singh Marg 4   Sarai Rohilla 5   E‐Blk Shastri Bagh 6   Zakhira 7   P   Bagh T    8   Mahindra
+Park 9   Kesav Mahavidyala 10   West Enclave",0,17.1,15,9,5,4
+907,Mori Gate (T),Nilothi Extension,"1  Mori Gate 2   Sta Office 3   Old Sectt   4   Majnu Ka Tila 5   Jagat Pur 6   Burari Xing 7   Mukand Pur 8   Gtk By Pass
+9   Haider Pur Ww   10 Uttri Pitam Pura 11   C‐Blk Saraswati V  12  Mangolpur School 13   Peera Garhi 14   Jawala Puri 15   Nangloi 16   Adhaya Park Ngr 17   Nilothi Village 18   Nilothi Ext",0,29.1,15,16,9,7
+918,Ambedkar Stdm,Nangloi JJ Cly 2,"1   Ambedkar Stadium 2   Ajmeri Gate 3   P  S     Pahar Ganj 4   D  B   Gupta Mkt 5   Sarai Rohilla 6   Zhakhira 7   P
+Bagh T  8   Madi Pur Jj Cly 9   Peera Garhi 10   Jawala Puri 11   Nangloi Jj Cly ‐2",28,15.3,5,24,15,9
+923,Fateh Puri,Najaf Garh,"1   Fateh Puri 2   Mori Gate/ Isbt 3   Ice Factory 4   G   G  S   Marg5   Sarai Rohilla 6   Zakhira 7   P   Bagh 8   Madi Pur Jj Cly 9   Peera Garhi 10   Jawala Puri 11   Nangloi 12   Nilothi Xing13  Ranhola 14  Tilangpur Kotla 15   Baprola 16
+Dkd 17   Najaf Garh",19,30.4,10,24,15,9
+924,Railway Station,Majra Dabas,1  Railway Station 2   Isbt/Mori Gate3   Ice Factory 4  G  G  Marg 5  Sarai Rohila 6  Zakhira   7   P  Bagh T   8   Madi Pur  Jj  Cly  9    Peera  Garhi10    Jawala  Puri   11    Nangloi  Jj  Cly  12    Kamruddin  Ngr    Xing   13    Mundka   14    Hiran Kudna Xing  15  Ghewar Vill  16 Anjhawala School  17   Kanjhawala Vill  18   Chand Pur 19   Majra Dabas,0,23.7,15,13,8,5
+925,"Fatehpuri / Punjabi Bagh
+(T)",Nilothi Village,"Fatehpuri,  Mori  Gate  /  ISBT,  Ice  Factory,  GG  Singh  Marg,  Sarai  Rohilla,  Zakhira,  PB  (T),  Madipur  JJ  Cly, Peeragarhi, Jawalapuri, Nangloi, Nilothi Xing, Nilothi Village",1,24.2,15,13,8,5
+926,Fatehpuri,Tikri Border,"Fatehpuri,  Mori  Gate  /  ISBT,  Ice  Factory,  GG  Singh  Marg,  Sarai  Rohilla,  Zakhira,  PB  (T),  Madipur  JJ  Cly,
+Peeragarhi, Jawalapuri, Nangloi, Qamruddin Ngr Xing, Mundika, Hirankunda Xing, Tikri Piao, Tikri Border",40,30.3,5,48,29,19
+927,Punjabi Bagh (T),Bawana,"1. PB (T) 2. Madipur JJ Cly 3. Peeragarhi 4. Jawalapuri 5.Nangloi 6. Qamruddin Ngr Xing 7. Mundka 8. Hirankudna Xing  9.  Ghevra  Vill  10.  Kanjhawala  School  11.  Kanjhawala  12.Chandpur  Xing  13.  Prem  Piao  14.  Bazitpur  Xing
+15.Bawana",0,29.7,15,16,10,6
+928,"Punjabi Bagh
+(T)","Garhi
+Ranghala","PB (T), Madipur JJ Cly, Peeragarhi, Jawalapuri, Nangloi, Qamruddin Ngr Xing, Mundka, Hirankudna Xing, Ghewra
+Vill,  Sawada, Nizampur, Garhi Ranghala",0,21.7,15,12,7,5
+929,Fatehpuri,"Mubarakpur
+Dabas","Fatehpuri,  Mori  Gate  /  ISBT,  Ice  Factory,  GG  Singh  Marg,  Sarai  Rohilla,  Zakhira,  PB  (T),  Madipur  JJ  Cly,
+Peeragarhi, Jawalapuri, Nangloi, Nithari, Mubarakpur Dabas",9,25.2,12,17,10,7
+931,Pun  Bagh (T),Bakarwala,"1   P   Bagh T   2   Madi Pur Jj Cly 3   Peera Garhi 4   Jawala Puri5   Nangloi 6   Nilothi Xing 7   Ranhola 8   Tilan Pur
+Kotla9   Baprola Xing 10  Bakarwala",0,18.6,15,10,6,4
+933,Mori Gate (T),Sultan Puri,"1   Mori Gate (T)  2   Old Sectt  3   G  T  B   Ngr4   Model Town ‐Ii  5   Ashok Vihar Xing  6   Wp Depot‐I 7  Kd Lock Pitam Pura  8   Rohini Sec‐7&8     9   Rohii Sec‐910   Sec‐3,4,5,6 Xing  11   Mangol Pur Khurd 12   Mangol Puri Y‐Blk
+13   Mangol Puri Q‐Blk 14   Sultan Puri",0,25,15,13,8,5
+941,Railway Station,Katewara Village,"1   Rly Station 2  Isbt/Mori Gate 3   Ice Factory4  Ggs Narg 5   Sarai Rohila 6   Zakhira 7   P  B  Bagh  8 Madi Pur Jj Cly
+9   Peera Garhi 10   Jawala Puri 11nangloi Jj Cly  12   Kamruddin Nagar Xing 13 Mundka 14 Hiran Kundna Xing 15 Khewra Village 16kajhala School 17 Kanjhala Village 18   Ladpur 19   Joyonti 20 Punjabo Khor 21   Qutab Garh  22 Katewara Village",0,29.6,15,16,9,7
+949,Dehli Sectt,Tikri Bdr,"1   Delhi Sectt    2   A  K  Stadium  3   Ajmiri Gate 4   P  S  Pahar Ganj 5   D  B  Gupta Mkt  6   Sarai Rohila 7. Zakhira 8 P  B   Terminal 9   Madi Pur Jj Cly 10 Peera  Garhi 11   Jawaka Puri 12   Nangloi Jj Cly 13   Kamru Din Nagar Xing 14
+Mundka 15   Hiran Kudna Xing 16   Tikri Pio 17   Tikri Border",1,31,15,17,10,7
+953,Karol Bagh(T),Mangol Puri Q- Block,"1  Karol Bagh (T) 2   D  B  Gupta Mkt   3   R  S  Satsang 4   W  Patal Ngr   5   Moti Ngr   6   Zakhira 7   P  Bagh (T)8
+Madi Pur Jj Cly   9   Peera Garhi 10   M  Puri B‐Blk 11   Mangol Puri S‐Blk",4,21.7,15,12,7,5
+956,N  D  Rly  Station,Paschim Vihar W Tank,"1  N  D  Rly Station 2   P  S  Pahar Ganj   3   D  B  Gupta Mkt  4   Sarai Rohilla 5   Zakhira 6   P  Bagh (T)7  Syndicate
+Bank 8   Road No  29/30 Xing9  Paschim Vihar Water Tank",0,17.2,15,9,6,3
+968,Tri Nagar Metro Station,Dhansa Border,1   Tri Nagar M   Station 2   Zakhira 3   P  Bagh Term   4   Madi Puri Jj Cly   5   Peera Garhi 6  Jawla Puri 7  Nangloi 8 Niloth Xing 9   Ranhola 10   Tilangpur Kotla 11 Baprola 12 Dkd 13 Najaf Garh 14   Ghumonhera Xing 15   Mintrao 16 Surehra Xing 17   Rawata Xing 18   Mundela Xing 19  Kadi Pur 20   Dansa Village 21   Dansa Border,0,35.8,15,19,11,8
+978,Azadpur,Najafgarh,"1. Azadpur Terml. 2. Ashok Vihar Xing 3. Wpd - I 4. Punjabi Bagh(T) 5. Madipur JJ Cly 6. Peera Garhi 7. Jwalapuri
+8. Nangloi 9.Nangloi Xing 10. Ranholla 11. Tilanpur Kotla 12. Baprolla 13. Dkd 14. Najafgarh",12,25.3,10,20,12,8
+983,Pun.Bagh(T),Auchandi Border,"1. P.B.(T)   2. Madi Pur Jj Cly   3. Peera Garhi  4. Jwala Puri 5. Nangloi  6. Kamruddin Ngr   7. Mundka 8. Hiran Kudna Xing   9.  Ghevra  Vill   10. Sawda   11. Nizam  Pur   12. Garhi  Randhala    13. Jyonti Vill  14. Punjab  Khore   15.   Qutab
+Garh  16. Mungesh Pur",0,35.8,15,19,11,8
+989,N.D.Rly.Station Ga,Q-Blk.Mangol Puri,"1. N.D.Rly Stn.Gate No.‐2 2. Sucheta Kirplani Hosp.3. P.S.Pahar Ganj. 4. D.B.Gupta Rd. 5. Sarai Rohilla6. Zakhira 7.
+P.Bagh 9t) 8. Madi Pur Jj Cly. 9. Peera Garhi 10. B‐Blk.Mangol Puri 11. Q‐Blk.M.Puri.",0,15.7,15,8,5,3
+998,Bakar wala JJ Cly,Raghubir Ngr F Blk,"1. Raghu Bir Ngr F‐ Block  2. Raja Garden (T)3. Punjabi Club   4. Punjabi Bagh (T)  5. Madi Pur Jj Cly.6. Peera Garhi
+7. Jawala Puri  8. Nangloi  9. Nilothi Xing10. Ranhola  11. Tilang Pur Kotala  12. Baprola Xing13. Bakarwala  Jj Cly.",0,25.5,15,14,8,6
+953STL,Mangolpuri B Block,"R Block New
+Rejinder Nagar","B Block Mangolpuri, Peeragarhi, Madipur JJ Cly, PB (T), Zakhira, Moti Ngr, WP Ngr, R Block New Rajinder Ngr",0,12.5,15,7,4,3
+GL-91,ND Rly Stn G-1,"Nangloi JJ Cly
+/ Mundka","ND  Rly  Stn  G-1,  SK  Pilani  Hosp,  Panchqian  Rd,  DB  Gupta  Mkt,  Sarai  Rohilla,  Zakhira,  PB  (T),  Madipur  JJ  Cly,
+Peeragarhi, Jawalapuri, Nangoli JJ Cly, Qumruddin Ngr Xing, Mundka",11,24,10,19,12,7
+776,C-1 Janak Puri,J.L Nehru  - Stdm.,"1. J.L.N. Stadium 2. Lodhi Cly 3. S.J. Air Port 4. S.J. Hospital5. Nauroji Ngr 6. Moti Bagh 7. Dh. Kuan 8. R.R. Lince 9. Brar Squire  10. Narayina Village 11. M.P. Depot 12. Beri Wala Bagh 13. Hari Ngr Depot 14. C‐2.B. Janak Puri 15.
+Desu Cly 16. C‐1 Janak Puri",0,25,15,13,8,5
+915,Inderlok Metro Station,Majra Dabas,"1inderlok Metro Station 2   Zakhira 3   Punjabi Bagh T  4   Madi Pur Jj  Cly   5   Peera Gahri 6   Jawala Puri 7   Nangloi
+8   Kamrudin Nagar 9   Mundka 10   Rani Khera 11   Madan Pur Dabas 12   Karala 13   Kanjawala 14   Chandpur 15 Majra Dabas",0,29,15,15,9,6
+935,Azadpur Terminal,Majra Dabas,"1   Azad Pur  2   Ashok Vihar Xing   3   Wazir Pur Depot4   P   Bagh (T) 5   Madi Pur Jj Cly   6   Peera Garhi 7  Jwala
+Puri8    Nangloi   9   Qamarddin  Ngr  Xing   10    Mundka   11    Rani  Khera   12    Madan  Pur  Dabas   13    Karala14 Kanjhawala  15   Chand Pur  16   Majra Dabas",0,31.7,15,17,10,7
+140,Mori Gate,"Shaffiabad
+Dairy","Mori Gate, Old Sectt, GTB Ngr, Model Town-2, Adarsh Ngr, GTK Depot, Haiderpur W/W, ESI Hosp, Rohini Sec-16,
+Shahbad Daulatpur, Shahbad Dairy",0,15.3,15,8,5,3
+914,Karampura (T),Rasul Pur,"1   Karam Pura 2   P   Bagh T   3   Madi Pur Jj Cly 4   Peera Garhi  5   Jawala Puri 6   Nangloi Jj Cly 7   Kamru Ddin Ngr
+Xing  8   Mundka 9   Rashul Pur",0,17.5,15,9,6,3
+991,Shivaji Stadium Te,Mubarak Pur Dabas,"1. Shivaji Std. 2. Kend.Terminal 3. Uppar Ridge Road4. Shankar Rd. 5. W.Patel Ngr. 6. K.Pura (T)7. P.B.Terminal 8. Madi  Pur  Jj  Cly.  9.  Peera  Garhi10.  Jawala  Puri  11.  Nangloi  12.  Qammruddin  Ngr.13.  Mundka  14.  Rani  Khera  15.
+Madan Pur Xing16. Mubrak Pur Dabas",0,31,15,17,10,7
+929stl,Karol Bagh (T),"Mubarakpur
+Dabas","1. Karol Bagh (T) 2. DB Gupta Mkt 3. Sarai Rohilla 4. Zakhira 5. PB (T) 6. Madipur JJ Cly 7. Peeragarhi 8. Jwalapuri
+9.Nangloi 10. Nithari 11. Mubarakpur Dabas",6,18.6,12,12,7,5
+934,Punjabi Bagh,Neelwal Village,"1   P   Bagh (T) 2   Madi Pur Jj Cly   3   Peera Garhi 4  Jawala Puri5   Nangloi  6  Qamarddin Ngr Xing  7   Mundka  8
+Hiran Kudna Xing  9   Neelwal Vill",0,24.5,15,13,8,5
+942,Faiteh Puri/Rly /,Kair/Jharoda Kalan,"1   Rly Station 2  Isbt/Mori Gate 3   Ice Factory4    Ggs Narg 5   Sarai Rohila 6   Zakhira 7   P  B  Bagh   8  Madi Pur Jj Cly  9   Peera Garhi 10 Jawla Puri 11   Nangloi 12   Nilothi Xing 13   Ranhola 14   Tilan Pur Kotla15   Baprola Xing 15 Dk Deopt   17   Najaf Garh 18   Ghumman Hera Xing / Jharoda Xing 19   Mitrao/ Jharoda Camp   20   Kair / Jharoda
+Kalan",1,26.4,15,14,8,6
+948,Punjabi  Bagh (T),Narela,"1  P  Bagh (T) 2   Madi Pur Jj Cly   3   Peera Garhi4   Jwala Puri 5   Nangloi 6   Nithari 7   Mubark Pur Dabasdabas 8 Madan Pur Dabas 9   Karala 10   Kanjhawala11   Chand Pur 12   Majra Dabas 13   Govt  Tube Well14   Bazid Pur Vill
+15   Darya Pur 16   Bawana17   Ghoga Air Force Stn   18   Sanoth Xing 19   Vishal Bagh 20   Narela",0,42.6,15,23,14,9
+961,Narela,Njaf Garh,"1    Narela   2    Vishal  Bagh   3    Sanoth  Xing  4    Gogha  Air  Force  Station   5    Bawana   6    Drya  Pur  7    Bajit  Pur   8 Katevara  9   Qutab Garh 10   Punjab Khor  11   Jyonti  12   Garhi Randhala  13   Nizam Pur 14   Sadada15   Ghevara Vill     16    Hiran Kudna  Xing   17    Mundka18    Kamruddin  Ngr    Xing   19    Nangloi 20    Nilothi Xing 21    Ranhola 22
+Tilangpur Kotal 23 Baprola 24   Dkd 25   Najafgarh",0,55.5,15,30,18,12
+153,Dr.Mukherji Nagar,JJ. Cly Hastshal,"1. Mukherji Ngr Bandh 2. Gtb Ngr 3. Model Town‐Ii 4. Ashok Vihar Xing 5. W.P.Depot‐I 6. P.B. Terminal 7. Madi Pur
+Jj Cly 8. Peera Garhi 9. Guru Harikishan Ngr 1. Nangloi Syed 11. Maj. Bhupinder Singh Ngr 12. C‐Blk Vikas Puri 13. Lig Flats Hastsal 14. Hastsal Jj Cly.",0,28.2,15,15,9,6
+905,Mori Gate,"Qumaruddin
+Ngr","Mori Gate, Ice Factory, K Ganj Mkt, Dayabasi,  Zakhira, Punjabi  Bagh,  Madipur  JJ Cly, Pgarhi, Jawalapuri,
+Nangloi JJ Cly, Qumaruddin Ngr",0,20.1,15,11,7,4
+917,Ambedkar Stadium,Madipur JJ Cly,"1   A  K   Stadium 2  Ajmire Gate 3   P  S Pahar Ganj   4   D  B  Gupta Market 5   Sarai Rohilla 6  E‐Block Hastri Ngar 7
+Zakhira 8   P  B  Terminal 9   Madi Pur Jj Cly",0,16,15,9,5,4
+908,Karampura (T),Sultan Puri,"1    Karam  Pura  2    Raja  Garden  3    P    Bagh  Club  4    P  Bagh5    Madi  Pur  Jj  Cly  6    Peera  Garhi  Chowk  7    B‐Block
+Mangol Pur 8  Q‐  Nangloi 9   Sultan Puri",9,12.7,12,8,5,3
+,,,Total Buses,220,,,781,470,311
+Cluster ‐ 11,,,,,,,,,
+RT.NO.,From,To,Fare Stage,"Actual STA
+Buses",Route length,Frequency,"No. of buses
+required","DTC Sch.
+Buses(60%)","DIMTS Sch.
+Buses(40%)"
+274,Badarpur Border,Babarpur Extn,"Badarpur Brd, Badarpur, Ali Vill, Sarita Vihar Xing, Okhla Extn, Okhla, Holy Family, Ashram, PS Niza-muddin, Golf Club/Sunder Ngr, S Cout, ITO AGCR Rainy Well, Shahkarpur, Jagatpuri A Blcok, Swaran Cinema, Shahdara",0,36,15,19,12,7
+304,Lajpat Nagar,Anand Vihar (ISBT),"1. L.P.Ngr 2. Ashram 3. Sarai Kale Khan 4. Road Bridge 5. Pusta Xing 6. P.P.G. Village 7. 13‐Blk Trilok Puri 8. Mayur
+Vihar‐Ii 9. Nhw Xing 10. Anand Vihar Isbt.",0,18.9,15,10,6,4
+331,Shivaji Std,"Nand Nagari
+Extn","Shivaji Std, Govt Press, ITO AGCR, Rainy Well, Shakarpur, Jagatpuri A Block, Swaran Cinema, Seelampur,
+Babarpur Extn, Jyoti Cly, Nand Nagri (T), Nand Nagri Extn",0,24,15,13,8,5
+335,Hauz Khas (T),Nand Nagri (T),"1. Hauz Khas (T) 2. S.J.Hospital 3. S.J.Airport 4. P.Raj Road5. Shahjahan Road 6. Supreme Court 7. Ito (Agcr)8. Rainy Well  9.   Shakar  Pur  10.  Jagat  Puri  A‐Blk11.  Swarn  Talkies  12.  Seelampur  13.  Babarpur  Extn.14.  Jyoti  Colony  15.
+Nand Nagri (T)",16,28.3,10,23,14,9
+364,Lajpat Nagar,Kalyan Puri,"1. Lajpat Ngr 2. Ashram 3. Sarai Kale Khan 4. Road Bridge5. Pushta Xing 6. Mayur Vihar Ph‐I  7. 26‐Blk Trilok Puri 8.
+Kalyan Puri",6,14.9,12,10,6,4
+396,New Seema Puri,"Nizammudin Railway
+Station","Nizamudin  Railway  Station,  Ashram,  Sarai  Kale  Khan,  Road  Bridge,  Rly.  Bridge  R/Road,  Ito(Agcr),  Rainy  well, Shakarpur, Hp Depot, Anand Vihar Isbt, Surya Nagar, New Seema puri",0,23.6,15,13,8,5
+407,Lajpat Nagar,Nangal Dairy,"1. Nangal Dairy 2. Mahipal Pur 3. Verma Farm 4. Kishan Garh5. Andheria Bagh 6. Qutab 7. Mehrauli 8. Lado Sarai 9. Sadlabad 10. A.N. Terminal 11. Hamdard Ngr 12. Tuglkabad Village 13. C.W.Shop‐Ii 14. Hindustan Steel 15. B‐Blk
+Okhla Ph‐Ii 16. Punj Sons 17. Snp Depot 18. Lp Ngr.",0,32.3,15,17,10,7
+421,Nand Nagri,Okhla Extn/Ab.Fz.En cl.,"1. Nand Nagri (T) 2. Tahir Pur 3. Seema Puri 4. Surya Ngr 5. Anand Vihar Isbt 6. Hp Depot 7. Shakar Pur 8. Rainy Well 9. Ito Agcr 10. Supreme Court 11. Sunder Ngr/ Golf Club 12. Ps Nizamuddin 13. Ashram 14. Holli Family Hosp
+15. Okhla 16. Abdul Fazal Encl.",0,29,15,15,9,6
+501,Mori Gate (T),Saket,"1.  Mori  Gate(T)  2.Yamuna  Bazar  3.Shanti  Vana  4.  Delhi  Gate5.  Supreme  Court  6.  Shahjahan  Road  7.  Prithviraj
+Road8. S.J.Airport 9.S.J.Hospital 10. Iit Gate 11.Pts12. C‐Blk.Saket Mkt 13. J‐Block, Saket",15,23.2,5,37,22,15
+503,Mori Gate (T),Malviya Nagar F- Block,"1.  Mori  Gate(T)  2.  Yamuna  Bazar  3.  Shanti  Vana  4.Delhi  Gate5.   Supreme  Court   6.  Shahjahan  Road  7.  Prithviraj
+Road8. S.J.Airport 9. S.J.Hospital 10. Iit Gate 11. Panch Sheel Club 12. F‐Block Malviya Nagar",19,15.4,10,12,7,5
+506,SJ Term,"Jheer Khore
+Temple","SJ  Term,  SJ  Hosp,  IIT  Gate,  PTS,  Mehrauli,  Qutab,  Andharia  More,  Chatterpur,  Sat  Beri,  Fatheypur  Beri,  Dera
+More, Jheer Khore Temple",0,22.3,15,12,7,5
+516,S.J.Terminal,Dera Village,"1.  S.J.Terml  2.  S.J.Hospital  3.  Iit  Gate  4.  Pts  5.  Mehrauli.  Qutab   7.  Andheria  Bagh   8.  Chhaterpur  9.  Satbari10.
+Fatehpuri Beri 11. Dera Vill.",13,19.7,10,16,9,7
+517,S.J.Terminal,Aya Nagar,"1. S.J.Terml 2. S.J.Hospital 3. Iit Gate 4. Pts 5. Mehrauli,6. Qutab  7. Andheria More 8. Sultanpur 9. Ghitorni,10. Air
+Station 11. Aya Nagar",12,18.9,10,15,9,6
+519,S.J.Terminal,Mandi Village,"1. S.J.Terml 2. S.J.Hospital 3. Iit Gate  4. Pts 5. Mehrauli,6. Qutab 7.  Andheria  More  8. Sultanpur  9. Gadaipur,10.
+Pahar Temple 11. Mandi Village",8,19.7,12,13,8,5
+523,Dhaula Kuan,"Bhati Mines
+.(Bhagirath Ngr)",1.  Dhaula  Kuan  2.  Moti  Bagh  3.  R  K  Puram‐I  4.  Jln  University   5.  Qutab  Enclave  6.  Pts  7.  Mehrauli  8.  Qutab  9. Andheria More 10. Chhatter Pur Ext 11. Sat Bari 12. Fateh Pur Beri 13. Dera More 14. Check Post 15. Bhatti Mines.,12,29,10,23,14,9
+525,Badarpur Border,Aya Nagar,"1.  Badarpur  Border  2.  Prehladpur  3.  Tuglakabad  Vill.  4.  Hamdard  Ngr  5.  A.N.Terml  6.  Sadlajab  7.  Lado  Sarai,  8. Mehrauli 9. Qutab 10. Andharia More 11. Sultanpur, 12. Ghitorni 13. Air Force Stn. 14. Aya Nagar",12,26,10,21,12,9
+533,Mori Gate (T),Mehrauli,"1. Mori Gate(T)  2. Yamuna Bazar 3. Shanti Vana 4. Delhi Gate  5. Supreme  Court 6. Shahjahan Road  7. Prithviraj
+Road8. S.J.Airport 9. S.J.Hospital 10. Iit Gate 11. Pts,12. Mehrauli",14,22.9,10,18,11,7
+621,Mori Gate(T),Poorvanchal Hostel,"1. Mori Gate 2. Jamuna Bazar 3. Shanti Van 4. Delhi Gate 5. Supreme Courte 6. Shahjahn Rd . 7. Prithvi Raj Rd 8.
+S.J. Air Port 9. S.J. Hospital 10. Mohd Pur 11. R.K. Puram ‐I12.S.M. Temple 13. Munirka 14. N.I.H.F. W. 15. Godavari Hostel16. Poorvanchal  Hostel",16,32,10,26,15,11
+714,Badar Pur Border,Rajokri Harijan Basti,"1. Badar Pur Bdr. 2. Pehlad Pur  3. Tugalkabad Vill 4. Hamdard Ngr  5. A.N. Trml.  6. Said‐Ul Zaib 7. Lado Sarai  8.
+Mehrauli   9.Qutub   10.  Andheriya  More,11.  Kishan  Garh   12.  Verma  Farm   13.  Mahipal  Pur   14.Rang  Puri   15. Sambalka  16. N.H.Xing  17. Rajokri 18.Rajokri Harijan Basti",2,32.3,15,17,10,7
+717,Badarpur Border,Shahbad Mohd.Pur,"1. Badarpur Border  2. Prehlad Pur  3. Tuglakabad Vill  4. Hamdard Ngr  5. A.N.Terml 6.  Sadlajab  7. Lado Sarai  8. Mehrauli   9.  Qutab  10.  Andharia  Bagh   11.  Kishan  Garh  12.  Verma  Farm   13.  Mahipal  Pur   14.  Nangla  Dairy
+15.Cargo 16. Igi Air Port 17. Shahbad Mohd.Pur",30,30.1,5,48,29,19
+374,Nehru Place(T),Nand Nagri,"1. Nehru Place(T) 2. Sant Ngr 3. M.C.K.R.Hospital 4. Pant Ngr 5. Sundar Ngr 6. Pragati Maidan 7. Ito Ring Rd8. Rainy
+Well 9. Shakar Pur 10. Jagat Puri A‐Blk 11. Swaran Talkies 12.  Seelam Pur 13. Babarpur 14. Jyoti Colony 15. Nand Nagri Terminal",14,29.8,10,24,14,10
+353,Karol Bagh (T),Babarpur Extn.,"1. Karol Bagh T. 2. P.S. Pahar Ganj 3. Ajmeri Gate 4. Delhi Gate5. I.T.O. Agcr 6. Riany Well 7. Shakar Pur 8. Jagat
+Puri A‐Blk.9. Swarn Cinema 10. Seelam Pur 11. Babar Pur Extn.",0,15.1,15,8,5,3
+561,"Nanakpura C.C/
+R. K. Puram",Anand Vihar (T),"1. Anand Vihar ISBT 2. Hp Epot 3. Balco 4. Mother Diary 5. Rainy Well 6. Ito Agcr 7. Supreme Court 8. Shahjahan Road 9. Pritvi Raj Rd. 10. S.A Airport 11. S.J. Hospital 12. S.J. Enclave 13. RkPuram-I 14. Moti Bagh-I 15. Nanak
+Pura C.C",0,28.7,15,15,9,6
+513,Jheel,HauzKhas (T),"1. Hauz Khas 2. Sj Hosp 3. Sj Air Port 4. Prithviraj Rd 5. Shahjahan Rd 6. Supreme Court 7. Ito Agcr 8. Rainy Well9.
+Krishan Kunj 10. Jheel",0,18.8,15,10,6,4
+502,Rly.Station,Mehrauli,"1.  Rly  Stn  2.   Red  Fort  3.   Delhi  Gate  4.Supreme  Court  5.  Shahjahan  Rd  6.   Prithviraj  Road7.S.J.  Airport  8.
+S.J.Hospital 9. Iit Gate 10.Pts 11.Mehrauli",29,19,5,30,18,12
+622,Mehrauli,Krishna Nagar,"1. Mehrauli 2. Pts 3. Iit Gate 4 S.J. Hospital. 5. S.J. Airport 6. Prithvi Raj Rd . 7. Shahjanh Rd 8. Supreme Court 9.
+Delhi Gate 10 Red Fort 11. Jamuna Bridge West12. Gandhi Ngr 13. Jheel 14. Krishna Ngr",0,28.6,15,15,9,6
+538,Lajpat Nagar,IGI Airport,"1. Lajpat Ngr 2. Andrews Ganj 3. S J Hosp 4. Iit Gate 5. Pts6. Mehrauli 7. Qutab 8. Andheria More 9. Kishan Garh 10.
+Verma Farm 11. Mahipal Pur 12. Nangal  Dairy 13. Cargo 14. Igi Airport",0,26,15,14,8,6
+505,Kamla Mkt,Mehrauli,"Kamla Mkt, Sci House, National Museum, PR Rd, SJ Airport, SJ Hosp, IIT Gate, PTS, Mehrauli",14,12.7,10,10,6,4
+715,Mangla Puri,Mehrauli,"1.  Mangla  Puri   2.  Palam  Cly   3.  Prehlad  Pur   4.Palam  Air  Port   5.  N.H.Xing   6.  Mahipal  Pur  7.  Verma  Farm    8.
+Kishangarh  9. Andheriya More 10.Qutub  11.Mehrauli",18,19.6,10,16,9,7
+317,Shivaji Stadium,Shahdara,1. Shivaji Stadium 2. Govt.Press 3. Ito(Agcr) 4. Rainy Well5. Kishan Kunj 6. Jheel 7. Kanti Ngr 8. Shahdara,11,14.8,10,12,7,5
+725,Mehrauli,Inderpuri JJ Cly,"1. Mehrauli 2. Pts 3. Iit Gate 4. S.J.Hospital 5. S.J. Air Port 6. P.S. Tuglak Rd. 7. Kirshi Bhawan 8. Kend T., 9. Ridge
+Rd.10 Shankar Rd. 11. R. Blk New Rajender Ngr 12. Toda Pur 13. Inder Puri 14. Inder Puri Jj Cly",9,24,12,16,10,6
+203,B.M.D.Chowk,Krishna Nagar,1. Bhai Mati Dass Chowk 2. Jamuna Bridge 3. Gandhi Ngr 4. Jheel 5. Krishna Ngr.,0,6.9,15,4,2,2
+509,S.J.Terminal,Maidan Garhi,1. S.J.Terml 2. S.J.Hospital 3. Iit Gate 4. Pts 5. C‐Blk Saket Mkt 6. Neb Sarai 7. Maidan Garhi,0,11.6,15,6,4,2
+,,,Total Buses,270,,,558,333,225
+Cluster ‐ 12,,,,,,,,,
+RT.NO.,From,To,Fare Stage,"Actual STA
+Buses",Route length,Frequency,"No. of buses
+required","DTC Sch.
+Buses(60%)","DIMTS Sch.
+Buses(40%)"
+2,Indira Puri,Noida Sec-37,"1.  Indira  Puri  (Loni)  2.  P.S  Indira  Puri  3.  Johri  Pur  Xing.4.  Jayoti  Ngr.  5.  Babar  Pur  Extn.  6.  Seelam  Pur  7.  Swarn Cinema  8.  Jagat  Puri  A‐Blk.  9.  Shakar  Pur  10.  Mother  Dairy.  11.  Pushta  Xing  12.  Mayur  Vihar  Xing  13.  Hindon
+Regulator 14. Naya Bans. 15. Atta Chowk. 16. Noida Sec.‐37.",0,29,15,15,9,6
+8,Badarpur Border,Noida Phase-II,"1. Badar Pur Bdr 2. Badar Pur 3. Ali Village 4. Sarita Vihar Xing 5. Kalindi Kunj 6. Inter National Sl. 7. Noida Sec‐37 8.
+Agha Pur 9. Sahni Farm 10. Bhagel Vill. 11. Nepz Gate No‐2 12. Noida Ph‐Ii",19,15,10,12,7,5
+24,Jheel,Karawal Nagar,"1. Jheel 2. Kanti Ngr 3. Seelam Pur 4. Babar Pur Extn 5. C‐4 Yamuna Vihar 6. Bhajan Pura 7. Dayal Pur 8. Karawal
+Ngr.",0,13,15,7,4,3
+33,Bhajan Pura,NOIDA Sec.37,"1. Bhajan Pura 2. C‐4 Yamuna Vihar 3. Babar Pur Extn. 4. Jyoti Cly. 5. Nand Nagri Terminal 6. Anand Gram 7. Seema
+Puri 8. Surya Ngr 9. Anand Vihar Terminal 10. Nhw Xing 11. Kalyan Puri 12. Dallu Pura 13. Jhund Pura 14. O‐Blk Sec
+12 15. Staff Qtr. Sec‐27 16. Noida Sec‐37.",35,30.6,5,49,29,20
+34,NOIDA Sec.-32,Mehrauli,1. Mehrauli 2. Lado Sarai 3. Shed ‐Ul Zaib 4. A.N.Depot 5. Hamdard Ngr 6. Tughlakabad Fort 7. Lal Kuan 8. Badar Pur  9.  Ali  Village  10.  Sarita  Vihar  Xing  11.  Kalindi  Kunj  12.  International  School  13. Noida  Sec‐37  Xing  14. Noida 28/29 15. Naya Bans 16. Noida Sec‐6 17. Jhund Pura 18. O‐Blk. Sec‐12 Noida 19. H‐Blk.Sec‐22.20. Noida Sec‐32.,39,32.6,5,52,31,21
+201,Mori Gate,Sec 32 NOIDA,"1.   Mori Gate T. 2. Shyam Giri Mandir 3. Seelam Pur 4. Swarn Cinema 5. Jagat Puri A‐Blk 6. Hp Depot 7. Nhw Xing
+8. Kalyan Puri 9. Jhund Pura 10. Noida Sect ‐22 H‐Blk 11. Noida Sect‐32 Terminal",0,23.4,15,12,7,5
+202,ANAND VIHAR isb,Old Delhi rly.station,"1.  Anand  Vihar  Isbt  2.surya  nagar  3.  vivek  vihar  police  station  4.  hargovind  enclav3  5  jagatpuri  a‐  blk  5.  swarn
+cinema 6. seelampur 7. shstri park 8. ISBT kashmiri gate 9. old delhi rly station",7,18.5,12,12,7,5
+206,Bhajan Pura,Mayur Vihar Ph III,"1. Bhajan Pura 2. C‐4 Yamuna Vihar 3. Babar Pur Ext. 4. Kanti Ngr 5. Jheel 6 .  Shakar Pur 7. Hp Depot 8. Nhw Xing
+9. Kalyan Puri 10.Mayur Vihar Ph. Iii",0,18.9,15,10,6,4
+211,Mori Gate Terml.,Mayur Vihar-III,"1. Mori Gate 2. Shyam Giri Mandir 3. Seelam Pur 4. Swarn Cinema 5. Jagat Puri A‐Blk.6. Hp Depot 7. Nhw Xing 8.
+Kalyan Puri 9. New Kondali Xing 10. Mayur Vihar Ph‐Iii",11,19,10,15,9,6
+224,Shahdara,More Gate (T),"Shahdara, Seelampur, Babarpur Extn, Yamuna Vihar, Bhajan-pura, Nanak-sar, BR Hosp, Old Sectt, More Gate (T)",0,17.3,15,9,6,3
+227,Karawal  Ngr,Rly statation,"1. O.D.Rly Station 2. Isbt/Mori Gate 3. Old Sectt 4. Br Hospital 5. Nanak Sar 6. Bhajan Pura 7. Dayal Pur 8. Karawal
+Ngr.",0,14.8,15,8,5,3
+239,Mori Gate (T),New Seema Puri,"1. Mori Gate 2. Old Sectt 3. Br Hosp. 4. Nanak Sar 5. Bhajan Pura 6. C‐4 Yamuna Vihar 7. Babar Pur Extn 8. Jyoti Ngr
+9. Nand Nagri Terml 10. Anand Gram 11. New Seema Puri.",0,19.7,15,11,6,5
+242,Karawal Nagar,Sarai Kale Khan,1. Sarai Kale Khan 2. Road Bridge 3. Pusta Xing  4. Mother Dairy 5. Shaker Pur 6. Jagat Pur A‐Blk 7. Swarn Cinema 8. Seelam Pur 9. Babar Pur Extn. 10. C‐4 Yamuna Vihar 11. Bhajan Pura 12. Dayal Pur 13. Karawal Ngr.,0,23.4,15,12,7,5
+248,Mori Gate (T),Johri Pur Dabas,1. Mori Gate 2. Old Sectt 3. B.R.Hosp 4. Nanak Sar 5. Bhajan Pura 6. Dayal Pur 7. Karawal Ngr  8. Johri Pur Dabas.,0,14.4,15,8,5,3
+253,Mori Gate (T),Yamuna Vihar Terminal,"1.Mori  Gate  2.  Shyam  Giri  Mandir  3.  New  Usman  Pur  (Pusta  ‐I)4.  Gamri  Ex  (Pusta  No‐5)5.  Bhajan  Pura  6.  C‐4
+Yamuna Vihar",0,10.2,15,5,3,2
+258,Mori Gate (T),"Chauhan Patti/Sonia
+Vihar",1. Mori Gate  2. Old Sectt 3. Br Hosp 4. Nanak Sar 5.Sonia Vihar ‐E  Blk. 6. Chauhan Patti.,0,12.4,15,7,4,3
+260,Kend.Terminal,C-4 Y.Vihar,"1. Kend Terml 2. Krishi Bhawan 3. Mandi House 4. Delhi Gate 5. Red Fort 6. Isbt 7. Old Sectt 8. Majnu Ka Tilla  9.
+Nanak Sar 10. Bhajan Pura 11. C‐4 Yamuna Vihar",0,23.3,15,12,7,5
+263,Mori Gate (T),Indira Puri (Loni Border),"1. Mori Gate (T) 2. Old Sectt 3. B.R.Hospital 4. Nanak Sar 5. Bhajan Pura 6. C‐4 Y.Vihar 7. Johripur Xing 8. Ps Indira
+Pur 9. Indira Puri Loni Border",5,17,15,9,5,4
+265,Kend.Terminal,Indira Puri (Loni Border),1. Kend Term. 2. Krishi Bhawan 3. Mandi House 4. Ito Agcr 5. Rainy Well 6. Shakar Pur 7. Jagat Pur A‐Blk 8. Swarn Tks.9. Seelam Pur 10. Babar Pur Extn 11. Jyoti Cly 12.  Johari Pur Xing 13.Ps Indira Puri 14. Indira Puri Loni.,0,28,15,15,9,6
+270,Kendriya Trml.,Karawal nagar,"1.  Kend.  Term  2.  Krishibhavan  3.  Mandi  House  4.  Delhi  gate  5.  Redfort  6.  ISBT  7.  Old  sectt.  8.  BR  hospital  9
+Nanaksar 10 Bhajanpura 11. Dayalpur 12. Karawal nagar",0,24,15,13,8,5
+300,Kend.Terminal,Noida Sec34,"1. Kend. Term 2. Regal 3. Mandi House 4. Ito Agcr 5. Rainy Weell 6. Mother Dairy 7. Pusta Xing 8. Mayur Vihar Ph‐I
+9. Hindon Regulator 10. Naya Bans 11. Staff Qtrs 12. O‐Blk Sec‐12 .13. Noida Sec‐22 14. Noida Sec‐23/54 15. Up Roadways Bus Terml.Sec‐34.",10,31,12,21,12,9
+302,Mori Gate (T),Shastri Nagar,1 Mori Gate.2. Red Fort 3. Delhi Gate 4. Ito(Agcr) 5. Rainy Well 6. Shakar Pur 7. Shastri Ngr.,0,12.1,15,6,4,2
+311,KallyanPuri,Ambedkar Ngr(T),"1. A.N.Terminal 2. Hamdard Ngr 3. Dda Flats Kalka Ji 4. Kalka Ji 5. Sant Ngr 6. Mckr Hopital 7. Lajpat Ngr 8. Ashram
+9. Sarai Kale Khan 10. Road Bridgeeast 11. Pusta Xing 12. Mayur Vihar Ph‐I 13. 13‐Blk Trilok Puri 14. Kalyan Puri.",0,24.6,15,13,8,5
+312,Mori Gate (T),Seema Puri,"1. Mori Gate 2. Red Fort 3. Delhi Gate 4. I.T.O. Agcr5. Rainy Well 6. Shaker Pur 7. Jagat Puri A‐Blk.8. Swarn Cinema
+9. Kasturba Ngr 10. Vivek Vihar 11. Surya Ngr 12. Seema Puri.",0,21.9,15,12,7,5
+321,Shahdara,Sec-51 NOIDA,"1.  Shahdara  2.  Kanti  Ngr  3.  Jheel  4.  Shakar  Pur  5.  Mother  Dairy  6.  Pusta  Xing  7.  Mayur  Vihar  Ph‐I  8.  Hindon
+Regulator  9.  Naya  Bans  10.  Noida  Staff  Qtrs  11.  O‐Blk  Noida  Sec‐12  12. Noida  Sec‐53  Xing  13. Noida  Sec‐34  Up Roadways Bus (T).",0,26,15,14,8,6
+326,Vasant Kunj Sect-,Krishna Nagar,"1.  Vasant  Kunj  Sec‐A  2.  B‐3  Vasant  Kunj  3.  Manav  Sthali  School   4.  Power  House  5.  V.V.Depot  6.  Rk  Puram‐I7. Mohd.Pur  8. S.J.Hospital 9. Air Port 10. Bharti Ngr11.  Shahjahan  Road  12. Supreme  Court  13. Ito(Agcr)14. Rainy
+Well 15. Shakar Pur 16. Jheel 17. Krishna Ngr.",0,31.4,15,17,10,7
+327,Pun.Bagh(T),Mayur Vihar Phase-I,1.  Pun.Bagh  (T)  2.  Karam  Pura  3.  W.P.  Ngr.  4.   Shankar  Road5.  Ridge  Road  6.  Kend.Terminal  7.  Regal  8.  Mandi House 9. Ito(Agcr) 10. Rainy Well 11. Mother Dairy 12. Pusta Xing 13. Mayur Vihar Ph‐I 14. Mayur Vihar Extn.,0,23.5,15,13,8,5
+330,Chander Nagar,Sec-34 Noida,1. Chander Ngr 2. Jheel 3. Krishi Bhawan  4. Swarn Cinema 5. Shahdara Court 6. Yojna Vihar7. Anand Vihar Isbt 8. Nhw Xing 9. Mayur Vihar Ph‐Ii10. 13‐Blk Trilok Puri 11. Vasundra Enclave Play Gr.12. Jhund Pura 13. Noida Sec‐22 H‐Blk.14. Noida Sec‐23/54 Xing 15. Noida Sec‐34 U.P.Roadwaysbus Terminal.,0,26,15,14,8,6
+336,Vasant Vihar(T),Vivek Vihar,"1. Vasant Vihar (T) 2. Modern School 3. Swami Malai Mandir 4. Rk Puram Sec‐I  5.Mohd .Pur 6. S.J.Hospital 7. Sj Air
+Port8. Bharti Ngr 9. Shahjahan Road 10. Supreme Court11. Ito(Agcr) 12. Rainy Well 13. Shakarpur 14. Jagatpuri A‐ Blk 15. Swarn Talkies 16. Kashturba Ngr 17. Vivek Vihar.",1,29.4,15,16,9,7
+339,Mori Gate (T),"Mandawali
+Health Centre",1. Mori Gate (T) 2. Red Fort 3. Delhi Gate 4. Ito(Agcr)5. Rainy Well 6. Mandawali Health Centre,0,11.7,15,6,4,2
+348,Mori Gate (T),Mayur Vihar Phase-II,"1. Mori Gate (T) 2. Red Fort 3.  Delhi Gate 4. Ito(Agcr) 5.Rainy Well 6. Mother Dairy 7. Vinod Nagar 8. Mayur Vihar
+Phase‐Ii",0,12.7,15,7,4,3
+357,Anand Vihar (I.S.B.T.),Karawal Nagar,"1. Anand Vihar(Isbt) 2. H.P. Depot 3. Jagatpuri A‐Blk 4. Swran Talkies 5. Seelampur 6. Babar Pur Extn 7. Jyoti Colony
+8. Johri Pur Xing 9. Kardam Farm10. Karawal Nagar",0,18,15,10,6,4
+365,RK Puram-I,Noida 32.,"1. R.K.Puram‐I 2. Mohd Pur 3. A .I.I.M.S. 4. Andrews Ganj 5. L.P.Ngr 6. Ashram 7. Sarai Kale Khan 8. Road Bridge East9. Pusta Xing 10. Mayur Vihar‐I Xing 11. Hindon Regulator 12. Naya Bans 13. Staff Qtrs. 14. O‐Blk Noida Sec‐12
+,15. Noida Sec‐22 H‐Blk 16. Noida Sec‐32.",0,28.2,15,15,9,6
+373,Hauz Khas (Terml),Krishna Nagar,"1. Hauz Khas (T) 2.  Punchsheel Club 3. Khel Gaon 4. Defence Cly 5. Bharti Ngr 6.  S.Bharti Marg 7. Supreme Court
+8. Ito(Agcr) 9. Rainy Well 10. Shakarpur11. Jheel 12. Krishna Ngr",0,24,15,13,8,5
+377,"NOIDA Sec-55,
+57",Ambedkar Std,"Ambedkar  Std,  ITO  AGCR  /  Delhi  Sectt,  Rainy  Well,  Mother  Dairy,  Pusta  Xing,Mayur  Vihar  Ph-1,  Hindon
+Regulator, Nayabans, Staff Qrs, NOIDA Sec-12 O Block, NOIDA Sec-55 / 57",0,21,15,11,7,4
+381,Kend.Terminal,DDA Flats West Gorakh Park,1. Kend.Terminal 2.  Patel Chowk 3. Mandi House4. Ito Agcr5. Rainy Well 6. Shakar Pur 7. Jagat Puri A‐Blk 8.Swarn Talkies 9. Seelampur 10. Babar Pur Extn Flats11. Dda West Gorakh Park,0,19.9,15,11,6,5
+384,Arya Smaj Road,Trilok Puri 31- Blk,"1. Arya Smaj Road/Pusa Rd Petrol Pump  2. Mandir Marg 3.R.M.L.Hosp 4. Kend.Terminal 5. Regal 6. Mandi House
+7. Ito(Agcr) 8. Rainy Well 9. Mother Dairy 10. Pushta Xing 11. Mayur Vihar Phase‐I 12. Trilok Puri 31‐Block",0,23.7,15,13,8,5
+426,N.Delhi Rly.Stn.Ga,Hamdard Nagar,"1. N.D. Rly Station Gate‐Ii 2. Delhi Gate 3. Supreme Court 4. Sunder Ngr/ Golf Club 5. Ps Nizamuddin 6. Ashram 7.
+Lp Ngr 8. Mckr Hospital 9. Sant Ngr 10. Kalka Ji 11. Dda Flats Kalakaji 12. Hamdard Ngr",0,19.8,15,11,6,5
+432,Indrapuri Loni,Badarpur Border,"Badarpur Brd, Badarpur, Madanpur Khadar Xing, Okhla Tank, Ishwar Ngr, Ashram, Sarai K Khan, Rd Bridge East, Pusta Xing, Vinod Ngr, NHW Xing, HP Depot, Jagatpuri A Block, Swaran Cinema, Seelampur, Babarpur Extn, Jyoti
+Ngr, Joharipur Xing, PS Indrapuri, Indrapuri Loni",0,36.1,15,19,12,7
+443,Shahdra,Badar Pur Border,"1. Shahdara 2. Swarn Cinema 3. Jagat Puri A‐Blk 4. Shaker Pur 5. Mother Dairy 6. Pusta Xing  7. Mayur Vihar‐I Xing
+8. Hindon Regulator 9. Naya Bans 10. Noida Sec‐28/29 11. Noida Sec‐37 12. Inter National School 13. Kalindi Kunj
+14. Sarita Vihar 15 .Ali Village 16. Badar Pur 17. Badar Pur Bdr.",13,30.1,10,24,14,10
+543,Anand Vihar (T),S.J.Terminal,"1.  Anand  Vihar  (T)  2.  Nhw  Xing  3.  Vinod  Ngr  4.  Pusta  Xing5.  Road  Bridge  East  6.  Sarai  Kale  Khan  7.  Ashram  8.
+L.P.Ngr.9. Andrews Ganj 10. Aiims 11. S.J.Terminal",17,19.9,10,16,10,6
+611,Mayur Vihar-III,Bapu Dham,"1. Mayur Vihar ‐Iii 2. Kalyan Puri 3. 27 ‐Blk Tirilok Puri 4. Mayur Vihar‐I  5. Pusta Xing  6. Road Bridge East 7. Sarai
+Kale Khan 8. Ashram 9. L.P. Ngr 10. Andrews Ganj11. Aiims 12. Mohd Pur 13 R.K. Puram‐I 14. R.K. Puram Sect‐815. Rla College 16. Dh. Kuan / Bapoo Dham",12,31.6,10,25,15,10
+623,Shahdara Terml,Vasant Vihar CPWD Colony,"1.  Shahdra  T.  2.  Swaran  Cinema  3.  Jagat  Pur  A‐Blk  4.  Shakarpur  5.  Rainy  Well  6.  Ito  Agcr  7.  Supreme  Court  8. Shahajahan  Rd.  9.  Bharti  Ngr  10.  Defence  Cly  11.  Aiims  12.  Mohd  Pur  13.  R.K.  Puram  ‐I  14.  Modern  School  15.
+Cpwd Cly Vasant Vihar",29,29,5,46,28,18
+702,Dh Kuan,Shahdra (T),"1. Dh Kuan 2. Moti Bagh 3. RKP-1 4. Mohdpur 5. AIIMS 6.Andrewsganj 7. LP Ngr 8. Ashram 9. SK Khan 10. Road
+Bridge East 11. Pusta Xing 12. Mother Dairy 13. Shakarpur 14. Jagatpuri A Block 15. Swaran Cinema 16. Shahdara (T)",0,30,15,16,10,6
+904,Shakurpur JJ Cly,Sarai Kale Khan,"1   Shakur Pur Jj Cly 2   P   Bagh T   3   P   Bagh 4   Raja Garden5   Maya Puri Chowk 6   Naraina Vihar 7   Brare Squire
+8  Rr Lines 9   Dh   Kuan 10 Rla College 11   Sect‐ 8 Rk Puram 12  R  K   Puram Sect‐1 13   Mohd Pur 14   Aiims 15 Andrews Ganj 16   Lajpat Ngr 17   Ashram  18   Sarai Kale Khan",0,31.6,15,17,10,7
+2STL,Indrapuri Loni,Shahdara (T),"Indrapuri Loni, PS Indrapuri, Joharipur Xing, Jyoti Ngr, Babarpur Extn, Seelampur, Shahdara (T)",0,11,15,6,4,2
+426stl,Hamdard Nagar,"Nizamuddin
+Rly Stn","Hamdard  Ngr,  AN  (T),  Sheikh  Sarai  Ph-2,  Savitri  Cinema,  CR  Park,  Kalkaji,  Sant  Ngr,  Sapna  Cinema,  Ashram,
+Nizamuddin Rly Stn",0,16.3,15,9,5,4
+543stl,Anand Vihar,Sadiq Nagar,"1. Anand Vihar Bus Terml 2.  Nhw Xing 3.  East Vinod Nagar4. Pusta Xing 5.  Road Bridge East 6.  Sarai Kale Khan7.
+Ashram 8. Lajpat Nagar 9.  Mckr Hosp. 10.  Sadiq Nagar",0,16.8,15,9,5,4
+GL-23,"Anand Vihar
+ISBT",ISBT K Gate,"Anand Vihar ISBT, HP Depot, Jagatpuri A Block, Swarn Cinema, Seelampur, Shyamgiri Mandir, ISBT K Gate",0,14,15,7,4,3
+493,Nehru Place(T),Mayur Vihar Ph- III,1. Nehru Place(T) 2. Modi Floor  Mill 3. Okhla Tank  4.Sarita Vihar Xing 5.  Kalindi Kunj  6. Inter National School7. Noida Sec‐37 Xing  8.  Sec‐19b Noida 9.  O Block Sec‐1210.Jhund Pura 11. New Kondli Mkt.  12. Mayur Vihar Ph.Iii.,16,21.5,10,17,10,7
+243,DDA Kalkaji,Nand Nagri T,"1. Dda Flatskalkaji 2. Punj Sons 3. S.N.P. Depot 4. Ashram 5. Sarai Kale Khan Isbt 6. Road Bridge 7. Pusta Xing 8. Mother Dairy 9. Shaker Pur 10. Jagat Pur A‐Blk 11. Swarn Cinema 12. Kasturba Ngr 13. Vivek Vihar  14. Surya Ngr
+15. Seema Puri 16. Anand Gram 17. Nand Nagri.",0,32.8,15,17,10,7
+,,,Total Buses,214,,,744,443,301
+Cluster ‐ 13,,,,,,,,,
+RT.NO.,From,To,Fare Stage,"Actual STA
+Buses",Route length,Frequency,"No. of buses
+required","DTC Sch.
+Buses(60%)","DIMTS Sch.
+Buses(40%)"
+83,Sadar Thana,"Hari Nagar
+Clock Tower","Sadar Thana, DB Gupta Mkt, RS Sat Sang, WP Ngr, Moti Ngr, PS Kirti Ngr, MP Depot, Beriwala Bagh, Hari Nagar
+Clock Tower",0,16.9,15,9,5,4
+539,Mahrauli,Nangloi,"1. Mehrauli 2. Qutab 3. Andheria More 4. Kishan Garh, 5. Verma Farm 6. Mahipal Pur 7. Rang Puri 8. Sambhalka9. Kapesherg  More 10. Bijwasan School 11. Bijwason Rly Xing 12. Bamroli 13. Chhawla Camp   14. Chhawla Vill. 15. Jhatikra  More  16.  Roshan  Pura  17  Najafgarh  18.  D.K.Depot.  19.  Baprola  20.  Tilang  Pur  Kotla  21.  Ranhola  22.
+Neelothi Xing 23. Nangloi",26,44,5,70,42,28
+578,S.J.Terminal,Najafgarh,"1. S.J.Terml 2. S.J.Hospital 3. Nauroji Ngr 4. Rk Puram‐I 5. S.M.Temple 6. Aps Cly 7. Nh Xing 8. Mahipal Pur Xng 9. Rang Puri 10. Sambhalka 11. Kapashera More 12. Bijwa‐San School 13. Bijwasan  Rly Xing 14. Bamroli 15. Chhawla
+Camp 16. Chhawla Vill 17. Jhatikri More 8. Roshan Pura 19. Najafgarh",25,34.7,5,56,33,23
+701,Najafgarh,Narela,"Najafgarh,  DK  Depot,  Baprola,  Tilangpur  Kotla,  Randhala,  Nilothi  Xing,  Nangloi,  Kamruddin  Ngr,  Mundika,  Rani Khera,  Madanpur  Dabas,  Karala,  Kanjhawala,  Ladpur,  Jyonti,  Punjab  Khor,  Qutabgarh,  Mungeshpur,  Auchandi
+Border, Auchandi Vill, Dariyapur, Bawana, Ghoga, A/F Stn, Sanoth Xing, Vishal Bagh, Narela",6,53.7,12,36,21,15
+703,Shastari Ngr.,AI Janakpuri,"1.Shastri Nagar 2 Shakarpur  3. Rainy Well  4. I.T.O (Agcr)5. Mandi House  6. Regal  7. Kendriya (T) /Tal Katora Rd.
+8.  Talkatora  Garden   9.  Bharat  Sadhu  Smaj10.  Dh.  Kuan   11.  Rr  Line   12.  Signal  Officers  Flats13.  Kriby  Place   14 Lajwanti Garden  15. Desu Cly.16. C‐2b Janak Puri  17. A‐1 Janak Puri",12,30,10,24,14,10
+706,Mori Gate TRML.,Rajokri Harijan Basti,1. Mori Gate 2. Jamuna Bazar 3. Shanti Van4. Delhi Gate 5. Mandi House   6. Patel Chowk 7. Kend.(T)  8.Talkatora Garden 9.Bharat Sadhu Samaj10. Dh. Kuan 11. Air Force Hq. 12. Aps Colony13. N.H.Way Xing 14. Mahipal Pur 15. Rang Puri16. Mile Stone 17. Rajoukri Xing 18.Rajoukri Vill.19. Harijan Basti Rajoukri,0,29.6,15,16,9,7
+708,Narela,Najafgarh,"1. Narela   2. Vishal Bagh    3. Sanoth Xing   4.Ghoga A/F Stn.5.  Bawana   6. Bajitpur Xing   7. Prem Piao,   8. Chand Pur9.    Kanjhawala      10.   Kanjhwala   School     11.Ghewra   Vill,12.Hiran   Kudna   Xing    13.   Mundka   14.Amruddin Nagar,15. Nangloi  16. Nilothi Xing   17. Ranhola  18.Tilangpur Kotla,19. Baprola  20. Dk Depot   21. Najafgarh",28,42.2,5,68,27,41
+772,Uttam Nagar Trml.,IGI Airport,"1. Uttam Ngr. 2. C‐I Janak Puri 3. Dabri Village4. Palam Village 5. Amrohi Xing 6. Bagrola Village7. Shahbad Mohd.
+Pur 8. Igi Air Port",0,13.5,15,7,4,3
+773,Bharthal Village,A.K.Stadium,"1.A.K. Stadium  2. Mandi  House  3. Patel  Chowk  4.  Kend.  T.  5. Talkatora  Garden  6.Bharat  Sadhu  Samaj  7. Dhaula Kuan 8. Air Force H.Qrts. 9. Aps Colony 10. Naitonal High Way Xing 11. Mahi Pal Pur 12. Rang Puri 13. Samalkha 14.
+Kapashera Xing 15. Bijwasan School 16. Barthal Village",0,29.9,15,16,10,6
+783,Delhi sectt.,NajafgarhTermi nal,"1.  Delhi Sectt  2.Ambedkar Stadium3.  Mandi House  4. Krishi Bhawan5. Teen Murti  6.Rly.Colony  7. Dh.Kuan8. Rr
+Lines  9. Signal Officers Flats10. Kirby Place  11. Lajwanti Gdn  12. Desu Cly,13. C‐I Janak Puri  14.Uttam Ng(T)  15. Nwada16. Kakroula Bridge  17. Nangli Sakroti  18. Najafgarh",2,32,15,17,10,7
+790,Ambedkar Stadium,Najafgarh,"1.Ambedkar.Std  (T)  2.  Mandi  House   3.Patel  Chowk,4.Kend.Terml   5.  Talkatora  Gdn   6.Bharat  Sadhu  Smaj,7. Dh.Kuan   8.Air Force  Hq   9.  Aps Cly 10.N.H.W Xing11.Mahipal Pur    12. Rang  Puri   13. Smalka14. Kapashera  Xing
+15. Bijwasan School16.Bijwasan Rly.Stn  17. Bamnoli  18. Chhawla Camp  19. Chhawla  Village,20 Jhatikra Xing  21.
+Roshan Pura  22 Najafgarh",1,42,15,22,13,9
+792,Mori Gate (T),Bharthal,"1. Mori Gate(T)  2. Ice Factory 3.G G S.Marg,4. Rabindra Rangshala  5. R‐Blk.Rajinder Ngr.6. Budha Jayanti Park 7. Dh.Kuan  8. Air Force Hq,9. Aps Cly  10. National Highway Xing,11. Mahipal Pur 12.Rang Puri 13. Smalka 14. Kapas
+Hera Xing 15. Bijwasan School 16. Bharthal",1,30,15,16,10,6
+801,Tri Nagar Metro St,IGI Air Port,1.Tri Nagar Metro Station 2.Zakhira 3.Moti Nagar 4. Raja Garden 5. Mukherji Park 6. Tilak Nagar 7.C‐2b Janak Puri 8.Dabri Village 9. Palam Village 10.Ambrani Xing 11. Bagrola 12. Shahbad Mohd.Pur 13. Igi Air Port,13,15.7,10,13,8,5
+806,KARAM PURA,Peprawat Village,"1.Karam Pura 2. Raja Gardedn 3. Mukherji Park 4. Tilak Nagak 5. Distt Centre 6. Uttam Ngr.7. Nawada  8. Kakroula
+Bridge  9. Nangli Sakrawati10. Najaf Garh  11. Paprawat Village",0,15.5,15,8,5,3
+818,Tilak Nagar,Jhatikra Village,1. Tilak Ngr.  2. Distt. Centre  3. Uttam Ngr(T)4. Nawada  5. Kakroula Bridge  6. Nangli Sakrawati 7. Najaf Garh 8. Roshan Pura  9. Jhatikra Xing0. Rewla Khan Pur  11. Pandwala Kalan Xing. Daulat Pur Xing  13.  Jhatikra Vill.,0,15.8,15,8,5,3
+819,Tilak Nagar,Pandwala Kalan,1. Tilak Ngr.  2. Distt. Centre  3. Uttam Ngr(T)4. Nawada  5. Kakroula Bridge  6. Nangli Sakrawati 7. Najaf Garh 8. Roshan Pura  9. Jhatikra Xing10. Rewla Khan Pur  11. Pandwala Kalan Xing12. Pandwala Kalan,1,15,15,8,5,3
+821,Tilak Nagar,Zaffarpur Kalan,"1. Tilak Ngr.  2. Distt. Centre  3.  Uttam Ngr (T)4. Nawada  5. Kakroula Bridge  6. Nangli Sakarawati 7. Najaf Garh  8.
+Ghuman Hera Xing  9 Mitraou10. Surera Xing  11. Rawata Xing 12. Jaffar Pur Kalan",0,15.4,15,8,5,3
+822,Tilak Nagar,Issa Pur Temple,"1. Tilak Ngr.  2. Distt. Centre  3.  Uttam Ngr (T)4. Nawada  5. Kakroula Bridge  6. Nangli Sakarawati 7. Najaf Garh  8. Ghuman Hera Xing  9. Mitraou10. Surera Xing.  11 Rawata Xing  12. Mundhela Xing 13. Kazi Pur  14. Issa Mc School
+15. Issa Pur Tample",0,33,15,18,11,7
+824,Tilak Nagar,Kair Village,"1. Tilak Ngr.  2. Distt. Centre  3.  Uttam Ngr (T)4. Nawada  5. Kakroula Bridge  6. Nangli Sakarawati 7. Najaf Garh  8.
+Ghuman Hera Xing  9 Mitraou 10. Kair Vill.",0,18,15,10,6,4
+825,Tilak Nagar,Jharoda Kalan,"1 Tilak Ngr.  2. Distt. Centre  3.  Uttam Ngr (T)4. Nawada  5. Kakroula Bridge  6. Nangli Sakarawati 7. Najaf Garh  8.
+Jharoda Xing  9 Jharoda Camp10. Jharoda Kalan",2,17.8,15,9,6,3
+826,Tilak Nagar,Khera Dabar,"1. Tilak Ngr.  2. Distt. Centre  3.  Uttam Ngr (T)4. Nawada  5. Kakroula Bridge  6. Nangli Sakarawati7. Najaf Garh  8.
+Ghuman Hera Xing  9. Mitraou10. Surera Xing  11. Khera Dabar",1,15.6,15,8,5,3
+827,Tilak Nagar,Daurala Border,"1. Tilak Ngr.  2. Distt. Centre  3.  Uttam Ngr (T)4. Nawada  5. Kakroula Bridge  6. Nangli Sakarawati 7. Najaf Garh  8. Ghuman Hera Xing  9 Mitraou10. Surera Xing.  11 Rawata Xing  12. Samas Khalsa 13.Ujawa  14. Malik Pur Zar Xing
+15. Rawata 16.Durala Bdr.",5,29.6,15,16,9,7
+828,Karam Pura Trml.,Galib Pur,"1. Tilak Ngr.  2. Distt. Centre  3.  Uttam Ngr (T)4. Nawada  5. Kakroula Bridge  6. Nangli Sakarawati 7. Najaf Garh  8.
+Ghuman  Hera Xing   9. Khaira Vill. 10. Kharkhri  Nahar   11. Kharkhri  Jatmal  12. Hasan Pur   13. Ghuman  Hera   14. Rawata15. Amrawati Piou  16. Galib Pur",2,28.1,15,15,9,6
+829,Tilak Nagar,Shikar Pur,1. Tilak Ngr.  2. Distt. Centre  3. Uttam Ngr(T)4. Nawada  5. Kakroula Bridge  6. Nangli Sakrawati 7. Najaf Garh 8. Roshan Pura  9. Jhatikra Xing10. Rewla Khan Pur  11. Pandwala Kalan Xing 12. Doulat Pur Xing  13.Shikar Pur,1,23.4,15,12,7,5
+834,Tilak Ngr,"Nanakheri
+Border","Tilak  Ngr,  Distt  Centre,  Uttam  Ngr,  Nawada,  Kakrola  Bridge,  Nangli  Sakrabati,  Najafgarh,  Roshanpura,  Jhatikra
+Xing, Chhawala Vill, Kanganheri, Badusarai, Nanakheri, Nanakheri Border",0,24,15,13,8,5
+835,Tilak Nagar,"Dhansa
+Border","Tilak  Ngr,   Distt  Centre,  Uttam  Ngr  (T),  Nawada,  Kakrola  Bridge,  Nangli  Sakroti,  Najafgarh,  Ghuman  Hera  Xing,
+Mitraoo, Suraera Xing, Rawta Xing, Mundhela Xing, Kazipur, Dhansa Vill, Dhansa Border",9,29.4,12,20,12,8
+836,Tilak Nagar,Mundella Khurd,"1. Tilak Ngr.  2. Distt. Centre  3.  Uttam Ngr (T)4. Nawada  5. Kakroula Bridge  6. Nangli Sakarawati 7. Najaf Garh  8.
+Ghuman  Hera  Xing   9.  Mitraou10.  Surera  Xing.   11  Rawata  Xing   12.  Mundhela  Xing13.  Mundhela  Kalan   14. Mundhala Khurd",2,25.2,15,13,8,5
+844,Najafgarh,Sarang Pur,"1. Najaf Garh  2. Ghuman Hera  3. Mitraon4. Surehra Xing  5. Rawata Xing  6. Samas Pur Khalsa7. Ujwa  8. Malik
+Pur Zar  9.  Jhuljhuli  10. Sarang Pur",0,18,15,10,6,4
+845,Tilak Nagar,Daulat Pur,"1. Tilak Nagar 2. Distt. Centre 3. Uttam Ngr 4. Nawada 5. Kakrola Bridge 6. Nangli Sakrawati 7. Najaf Garh8. Roshan
+Pura 9. Jhatikara Xing 10. Rewala Khan Pur11. Pandwala 12. Daulat Pur",0,21.5,15,11,7,4
+848,Tilak Nagar,Bakar Garh Bdr,"1.Tilak  Ngr  2.  Distt  Centre  3.  Uttam   Ngr  (T)  4.  Nawada   5.  Kakola  Bridge  6.  Nangli  Sakrawat  7.  Najaf  Garh8. Ghuman Hera Xing 9. Mitrown 10 Surehra Xing 11. Rawata Xing 12. Mundela Xing  13. Bakkar Garh Xing 14. Bakkar
+Garh Border",1,24,15,13,8,5
+858,Najaf  - garh,Kamla Mkt,"1    Kamla Mkt     2    Regal   3    Kend    Trml    4    Talkatora Garden   5    Bhart Sadhu  Samaj6    Dh    Kuan   7    Air Force Hospital   8    Aps  Cly   9    N   H   W    Xing   10    Mahipal  Pur   11    Rang  Puri12    Samlka   13    Kapas  Hera  More   14 Bijwasan School15   Bijwasan Rly Xing  16   Bamroli  17   Chhawala Camp 18   Chhawala Vill   19   Jhatikra Xing  20
+Roshan Pura 21   Najaf Garh",2,40.4,15,22,13,9
+872,Tilak Nagar,Surak Pur,"1    Tilak  Ngr  2    Distt  Centre  3    Uttam  Ngr  4    Nawada  5    Kakrola  Bridge  6    Nangli  Sakrawati  7    Najaf  Arh  8
+Jharoda Xing 9   Jharoda Camp   10 Surak Pur",0,16,15,9,5,4
+873,Tilak Nagar,Tajpur Khurd,"1   Tilak Ngr 2   Distt Centre 3   Uttam Ngr 4   Nawada 5   Kakrola Bridge 6   Nangli Sakrawati 7   Najaf Arh 8  Roshan
+Pur 9   Goal Village  10   Tajpur Khurd",0,17.8,15,9,6,3
+885,Rewla Khan Pur,Tilak Nagar,"1   Tilak Nagar 2   Disttt Centre 3   Uttam Nagar 4   Nawada 5   Kakrola Bridge 6   Nangli Sakrawati 7.   Najaf Garh 8
+Roson Pura 9   Zhatikara Xing 10   Rewla Khan Pur",1,34.1,15,18,11,7
+886,Mehrauli,Najaf Garh,1  Mehrauli T   2   Quitab 3   Andheria Bagh 4   Kishan Garh 5   Brahama Farm 6   Mahipal Pur 7   Shiv Murti 8   21 Mile Stone9   Rajokari Xing 10   Kapshera Xing 11   Bijwasan School 12   Bijwasan Rly Station 13   Bam Rouli Xing 14 Chhawala Camp 15   Chhawala Village 16   Jhhatikara 17   Roshan Pura 18   Najaf Garh,5,31.7,15,17,10,7
+887,Tilak Ngr   /Najaf G,Ghuman Hera,"1    Tilak  Ngr     2    Distt    Centre   3     Uttam Ngr  (T)  4    Nawada   5    Kakroula  Bridge   6    Nangli  Sakarawati7    Najaf Garh  8    Ghuman Hera Xing  9 Khera Vill  10   Kharkhari Nahar  11   Kharkhri Jatmal  12   Hasan Pur 13   Ghumman
+Hera",0,23,15,12,7,5
+890,Kend  Terminal,Hastsal Bridge LIG Flats,"1   Kend   (T)  2   Krishi Bhawan  3   Teen Murti  4   Rly Cly  5   Dh   Kuan  6   Rr Line  7 Signal Officer Flats 8   Kirby
+Place  9   Lajwanti Garden  10   Desu Cly 11   C‐1 Janak Puri  12   Uttam Ngr   Xing 13   C‐Blk Vikash Puri  14   Hastal Bridge Lig Flats",0,26.5,15,14,8,6
+979,Nangloi,Narela,"Nangloi, Nithari, Mubarakpur Dabas, Rani Khera Xing, Madanpur, Karala, Kanjhawala, Chandpur, Prem Pio,
+Bajitpur Xing, Bawana, Ghoga A/F Stn, Sanoth Xing, Vishal Bagh, Narela",0,28,15,15,9,6
+790A,Najafgarh,Rly Station,"Najafgarh, Roshanpura, Jhati-kara Xing, Chhawla Vill, Chhhawla Camp, Bamroli, Bijwason Rly Stn, Bijwason Sch, Kapashera Xing, Samalkha, Rangpuri, Mahipalpur Xing, NHW Xing, APS Cly, AF Hd Qrs, Dh Kuan, Budha Jaynti Park, R Block Rajinder Ngr, Ridge Rd, Ravinder Rangshala, PS Paharganj, Aj Gate, Delhi Gate, Red Fort, Rly Stn",9,38.7,12,26,15,11
+801stl,Uttam Nagar,Kapashera Bdr,"1. Uttam Ngr.  2. Distt. Centre  3. Tilak Ngr.4. C‐2b Janak Puri  5. Dabri Vill.  6. Palam Vill.7. Amrohi Xing.  8. Bagrola
+9. Shah  Bad Moh.Pur10. Igi Air Port   11. Cargo   12. Nangal Dairy13. Mahipal  Pur    14. Rang  Puri   15. Samalka16. Kapas Hera Xing  17. Kapas Hera Border",0,15,15,8,5,3
+793,Ambedkar - Stadium(T),"H-3,Vikas Puri","1.Ambedkar  Std  (T)   2.Mandi  House   3.Krishi  Bhawan,4.  Teen  Murti   5.  Rly.Cly  6.  Dh.Kuan    7.  Rr  Line8.  Signal Officers Flats  9. Kirby Place  10.Lajwanti Gdn.  11. Tilak Ngr  12.Distt.Centre,13. C‐Blk.Vikas Puri  14. H‐3 Vikaspuri",0,26,15,14,8,6
+,,,Total Buses,155,,,734,425,309
+Cluster ‐ 14,,,,,,,,,
+RT.NO.,From,To,Fare Stage,"Actual STA
+Buses",Route length,Frequency,"No. of buses
+required","DTC Sch.
+Buses(60%)","DIMTS Sch.
+Buses(40%)"
+204,Ghonda,Mori Gate T.,1. Koria Bridge 2. Isbt 3. Shyam Giri Mandir 4. Seelam Pur 5. Ghonda,0,16,15,9,5,4
+214,Seema Puri,Kamla Mkt.,"1. Kamla Mkt 2. Delhi Gate 3. Red Fort  4. Shyam Giri Mandir 5. Seelam Pur 6. Shahdara 7. Dilshad Garden Gt Road
+9. Seema Puri.",16,15.9,10,13,8,5
+246,Shivaji Stadium,Seema Puri,"1. Shivaji Stadium 2. Viveka Nand Marg 3. Delhi Gate 4. Red Fort 5. Isbt Bridge 6. Shyam Giri Mandir 7. Seelam Pur
+8. Shahdara 9. Dilshad Garden Gt Rd. 10. Seema Puri.",8,19.3,12,13,8,5
+466,N.D.Railway Statio,Noida Sect-51,1. N.D.Rly Station 2. Statemans/Scindia House 3. Baroda House 4. Golf Club 5. P.S Nizamuddin 6. Ashram 7. Holi Family 8. Okhla 9. Kalandi Kunj 10. International School 11. Noida Sect‐37 Xing 12. Noida Sect‐28/29 13. Staff Qrts. 14.O‐Block Sect‐12 15. Noida Sect‐22 H‐Block 16. Noida Sect‐23/54 17. Noida Sect‐51,0,27,15,14,9,5
+481,Kend.Terminal,Badar Pur Bdr.,"1. Kend Terml 2. Krishi Bhawan 3. Shahjahan Rd 4. Bharti Ngr5. Defance Cly 6. Kamla Nehru College 7. Swaomi Ngr
+8. O.S Communication 9. Punj Sons 10. Hill Area 11. Kalkaji Extn/Dda Flats Kalkaji 12. Hindustan Steel 13. C W Shop Ii 14. Prehlad Pur 15. Badar Pur Bdr.",1,29.7,15,16,10,6
+500,Super Bazar,Saket,"1. Super Bazar 2. Regal 3. Krishi Bhawan 4. P.S.Tuglak Road5. S.J.Airport 6. Aiims 7. Andrews Ganj 8. Khel Goan9.
+Begampur 10.Saket Mkt 11.Saket",9,18.3,12,12,7,5
+520,Super Bazar,Malviya NagarF- Block,"1.Super Bazar 2. Regal 3.Krishi Bhawan 4. P.S.Tuglak Road  5. S.J.Airport 6. S.J.Hospital 7. Iit Gate 8. Punch Sheel
+Club 9. F‐Block Malviya Nagar",15,16.3,10,13,8,5
+532,Minto Road(T),Maidan Garhi,"1. Minto Road Terminal 2. Regal 3. Krishi Bhawan 4. Ps Tuglak Road 5. S.J. Airport 6. Aiims 7. Andrews Ganj 8. Khel
+Gaon 9. Begum Pur 10.Saket Mkt 11. Neb Sarai 12. Maidan Garhi",3,22.8,15,12,7,5
+535,Rajinder Ngr Mkt,Malviya Ngr  F- Block,"1. Rajinder Ngr Mkt 2. Arya Smaj Rd 3. Ps Pahar Ganj 4. Sucheta Kriplani Hosp 5. Regal 6. Krishi Bhawan 7. Teen
+Murti 8. Ussr Embessy 9. Moti Bagh 10. R K Puram‐I11. Iit Hostel 12. Iit Gate 13. Punch Sheel Club 14. F‐Blk Malvia Ngr.",0,23.9,15,13,8,5
+580,Kend.Terminal,A.N.Sec.5,"1. Kend.Terminal 2. Krishi Bhawan 3. Shahjahan Road 4. Ravinder Ngr 5. Lodhi Cly 6. Def.Cly 7. Kn College 8. Sri
+Fort Road 9. Saikh Sarai Ph‐Ii 10. A.Nagar Sec.5",0,19.7,15,11,6,5
+901,Kamla Market,Y-Blk  Mangol Puri,"1   Kamal Mkt 2   Delhi Gate 3   Red Fort 4   Isbt 5   Old Sectt6   Gtb Ngr 7   Model Town ‐Ii 8   Ashok Vihar Xing 9
+W  P  Depot10   Jd Blk Pitam Pura 11   C‐ Blk Sarawati Vihar 12  Mangol Pur School 13 Mangol Pur Khurd 14   Y‐ Blk Mangol Puri",21,25.1,5,40,24,16
+920,Palika Kendra,Tri Nagar Jai Mata Mkt,"1    Palika  Kendra  2    Kend    Trml    3    Ridge  Rd  4    Shankar  Rd    5    West  P   Ngr    6    Moti  Ngr    7    Zakhira  8.   B‐3
+Kasav Puram 9   Tri Nagar Jai Mata Mkt",0,19.4,15,10,6,4
+216,Laxmi Narain Tem,New Seema Puri,"1. L.N. Temle 2. Shivaji Stadium 3. Mandi House 4. Delhi Gate 5. Red Fort 6. Isbt 7. Shyam Giri Mandir 8. Seelam
+Pur 9. Shahdara 10. Dilshad Garden Gt Road 11. New Seema Puri.",7,22.8,12,15,9,6
+548,Hamdard Nagar,"Minto Rd
+Term","Hamdard Ngr, Dkshinpuri, Sarai K Khan, Kirki Vill, Panchsheel Club, IIT Gate, SJ Hosp, SJ Airport,  PS Tughlak Rd,
+Kr Bhawan, Regal, Minto Rd (T)",8,24.3,12,16,10,6
+540,Kend.Terminal,Tara Apartment,"1.  Kend.Terminal  2.  Krishi  Bhawan  3.  P.S.  Tuglak  Road  4.  S.J.Airport  5.  Aiims  6.  Andrews  Ganj  7.  Khel  Gaon,  8.
+Swami Ngr 9. Savitri Cinema 10. Greater Kailash Part‐Ii 11.  Tara Apptt.,",14,15,10,12,7,5
+47,Inder Puri JJ Coly,Central Work- shop-II,"1. Inder Puri Jjcly. 2. Loha Mandi 3. W.P. Ngr 4. Shanker Road 5. Ridge Road 6. Kend. Terminal 7. Kirshi Bhawan 8. Shahjahan Road 9. Ravindra Ngr 10. Lodhi Cly 11. Defence Cly 12. Mkcr Hospital 13. Lajpat Ngr 14. Okhla Depot ‐I
+15. Punj Sons 16. D‐Blk Indtl. Area 17. Hindustan Steel 18. Central Work Shop ‐Ii.",11,32,10,26,15,11
+470,BadarPur Bdr.,Kend. Trml.,"1.  Kend  Terml.2.  Krishi  Bhawan  3.  Baroda  House/India  Gate4.  Golf  Club  5.  Ps  Nizamuddin  6.  Ashram  7.  Holly
+Family8. Okhla Tank 9. Madan Pur Khader Xing 10. Badar Pur11. Badar Pur Bdr.",0,28,15,15,9,6
+894,Okhla,Karampura Tml,"1   Okhla  2   Holi Family Hospital  3   Ashram4   P  S   Nizamuddin  5   Golf Culb / Sunder Ngr 6   Baroda House   7
+N   D    Rly  Stn    Gate‐18    P   S    Pahar  Ganj   9    A   S    Road  /  Guru  Dwara  Rd   10    Teliphhone  Exchange   11    West Patel Ngr12  Karam Pura (T)",13,26.5,10,21,13,8
+541,Minto Road(T),Tara Apartment,"1. Minto Rd (T) 2. Sc House 3. National Musium 4. Prithviraj Rd5. Lodhi Cly 6.  Defence Cly 7. K.N. College 8. Siri
+Fort Rd 9. Savitri Cinema 10. C R Park 11. Tara Apptt.",0,22.9,15,12,7,5
+921,Punjabi Bagh Terminal,Rani Khera,"1.  Madan  pur  Dabas,  2.  Karala,  3.  Begam  pur,  4.  Pooth  Kalan,  5.  Mangolpur  Khurd,  6.  Mangolpur  School,  7. Saraswati Vihar C‐ Block, 8. JD Block Pitam pura, 9. Wazirpur Depot, 10. Punjabi Bagh Terminal",0,31.6,15,17,10,7
+,,,Total Buses,126,,,310,186,124
