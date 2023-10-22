@@ -1,7 +1,7 @@
 import React from "react";
 import { GoogleMap } from "@react-google-maps/api";
 
-import { Map, DirectionsService, DirectionsRenderer } from '@google/maps';
+// import { Map, DirectionsService, DirectionsRenderer } from '@google/maps';
 
 export default function SimpleMap(){
   const defaultProps = {
