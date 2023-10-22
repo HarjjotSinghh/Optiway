@@ -62,7 +62,7 @@ function Map() {
       <GoogleMap
         zoom={14}
         center={center}
-        mapContainerClassName="map-container w-[1000px] aspect-video"
+        mapContainerClassName="map-container lg:w-[1000px] w-[400px] aspect-video"
         options={{
           mapId: "daae8bf1cc7a907e",
           disableDefaultUI: false,
