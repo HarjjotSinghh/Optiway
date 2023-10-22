@@ -44,6 +44,7 @@ function Map() {
         origin: origin,
         destination: destination,
         travelMode: google.maps.TravelMode.DRIVING,
+        waypoints: []
       }, 
       (response: google.maps.DirectionsResult | null, status: google.maps.DirectionsStatus) => {
         if (status === 'OK') {
@@ -70,31 +71,31 @@ function Map() {
         {directions && Array(directions).map((route, i) => (
           <DirectionsRenderer key={i} directions={route} />
         ))}
-        <MarkerF position={{ lat: 28.63391141147016, lng: 77.2143856734545 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
+        <MarkerF animation={google.maps.Animation.DROP} position={{ lat: 28.63391141147016, lng: 77.2143856734545 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
         </MarkerF>
-        <MarkerF position={{ lat: 28.6413, lng: 77.23804 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
+        <MarkerF animation={google.maps.Animation.DROP} position={{ lat: 28.6413, lng: 77.23804 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
         </MarkerF>
-        <MarkerF position={{ lat: 28.658813, lng: 77.216742 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
+        <MarkerF animation={google.maps.Animation.DROP} position={{ lat: 28.658813, lng: 77.216742 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
         </MarkerF>
-        <MarkerF position={{ lat: 28.632866, lng: 77.217735 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
+        <MarkerF animation={google.maps.Animation.DROP} position={{ lat: 28.632866, lng: 77.217735 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
         </MarkerF>
-        <MarkerF position={{ lat: 28.623324, lng: 77.218633 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
+        <MarkerF animation={google.maps.Animation.DROP} position={{ lat: 28.623324, lng: 77.218633 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
         </MarkerF>
-        <MarkerF position={{ lat: 28.6425575035953, lng: 77.17726271414865 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
+        <MarkerF animation={google.maps.Animation.DROP} position={{ lat: 28.6425575035953, lng: 77.17726271414865 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
         </MarkerF>
-        <MarkerF position={{ lat: 28.646133673075166, lng: 77.20807482831081 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
-        </MarkerF>
-      
-        <MarkerF position={{ lat: 28.62559418737058, lng: 77.2339732402264 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
-        </MarkerF>
-        <MarkerF position={{ lat: 28.635375161446287, lng: 77.20336750586664 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
+        <MarkerF animation={google.maps.Animation.DROP} position={{ lat: 28.646133673075166, lng: 77.20807482831081 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
         </MarkerF>
       
-        <MarkerF position={{ lat: 28.647379464932254, lng: 77.20417649090399 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
+        <MarkerF animation={google.maps.Animation.DROP} position={{ lat: 28.62559418737058, lng: 77.2339732402264 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
         </MarkerF>
-        <MarkerF position={{ lat: 28.644554002559552, lng: 77.22413212152217 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
+        <MarkerF animation={google.maps.Animation.DROP} position={{ lat: 28.635375161446287, lng: 77.20336750586664 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
         </MarkerF>
-        <MarkerF position={{ lat: 28.6459518, lng: 77.1970436 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
+      
+        <MarkerF animation={google.maps.Animation.DROP} position={{ lat: 28.647379464932254, lng: 77.20417649090399 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
+        </MarkerF>
+        <MarkerF animation={google.maps.Animation.DROP} position={{ lat: 28.644554002559552, lng: 77.22413212152217 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
+        </MarkerF>
+        <MarkerF animation={google.maps.Animation.DROP} position={{ lat: 28.6459518, lng: 77.1970436 }} icon={{url:"https://i.ibb.co/ySmwNWg/bus.png"}}>
         </MarkerF>
         
       </GoogleMap>

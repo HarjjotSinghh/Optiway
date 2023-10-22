@@ -9,7 +9,7 @@ export default function Home() {
       <div className="font-['Aquire'] lg:text-7xl text-4xl max-w-[1300px] text-center pb-[450px]">
         <span className=""><span className='text-primary drop-shadow-[0_0_35px_var(--primary-color)]'>Optimize</span> bus routes.</span>
         <br></br>
-        <span className="">Reduce <span className='text-accent drop-shadow-[0_0_35px_var(--accent-color)]'> <Typewriter words={["CO2 Emissions", "Global Warming", "Energy Consumption", "Carbon Footprint"]} loop={0} typeSpeed={100}></Typewriter></span></span>. 
+        <span className="">Reduce <span className='text-accent drop-shadow-[0_0_35px_var(--accent-color)]'> <Typewriter words={["CO2 Emissions", "Global Warming", "Energy Consumption", "Carbon Footprint"]} loop={0} typeSpeed={100}></Typewriter></span></span>
       </div>
       <div className='flex justify-center items-center gap-24 xl:flex-row flex-col'>
         <Image src={FotorImage} alt='' className='w-[700px] h-auto rounded-4xl hue-rotate-15 top-[450px] right-0 z-[-20] bg-blend-screen'></Image>
